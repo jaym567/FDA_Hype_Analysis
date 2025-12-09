@@ -1,0 +1,3289 @@
+{
+  "summary": {
+    "total_surgery_devices": 1087,
+    "specialties_covered": 11,
+    "years_covered": 35,
+    "top_manufacturers": 20
+  },
+  "specialty_breakdown": {
+    "cardiac_surgery": 368,
+    "orthopedic_surgery": 253,
+    "other_surgery": 192,
+    "ophthalmology": 82,
+    "vascular_surgery": 64,
+    "urology": 44,
+    "general_surgery": 38,
+    "plastic_surgery": 19,
+    "gynecology": 15,
+    "dental_surgery": 7,
+    "neurosurgery": 5
+  },
+  "approval_trends": {
+    "1990": 123,
+    "1991": 41,
+    "1992": 9,
+    "1993": 10,
+    "1994": 26,
+    "1995": 14,
+    "1996": 16,
+    "1997": 25,
+    "1998": 19,
+    "1999": 13,
+    "2000": 15,
+    "2001": 12,
+    "2002": 11,
+    "2003": 12,
+    "2004": 10,
+    "2005": 7,
+    "2006": 6,
+    "2007": 3,
+    "2008": 4,
+    "2009": 5,
+    "2010": 2,
+    "2011": 1,
+    "2012": 2,
+    "2014": 5,
+    "2015": 6,
+    "2016": 20,
+    "2017": 15,
+    "2018": 16,
+    "2019": 18,
+    "2020": 20,
+    "2021": 29,
+    "2022": 40,
+    "2023": 46,
+    "2024": 116,
+    "2025": 370
+  },
+  "top_manufacturers": {
+    "Boston Scientific Corp.": 36,
+    "Abbott Medical": 28,
+    "ADVANCED MEDICAL OPTICS, INC.": 27,
+    "Bausch & Lomb, Inc.": 24,
+    "MEDTRONIC Inc.": 23,
+    "ALCON LABORATORIES": 22,
+    "BOSTON SCIENTIFIC": 19,
+    "Medtronic, Inc.": 12,
+    "Medtronic Vascular": 12,
+    "EDWARDS LIFESCIENCES, LLC.": 11,
+    "Boston Scientific Corporation": 11,
+    "BIOTRONIK, INC.": 9,
+    "HOLOGIC, INC.": 9,
+    "ABBOTT VASCULAR INC.": 9,
+    "St. Jude Medical, Inc.": 8,
+    "MEDTRONIC CARDIAC RHYTHM DISEASE MANAGEMENT": 7,
+    "Cordis US Corporation": 7,
+    "Allergan": 6,
+    "CIBA VISION CORPORATION": 6,
+    "Johnson & Johnson Surgical Vision, Inc.": 6
+  },
+  "recent_devices": [
+    {
+      "trade_name": "4Kscore Test",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "EverFlex\u0099 Self-Expanding Peripheral Stent System; EverFlex\u0099 Self-Expanding Peripheral Stent with Entrust\u0099 Delivery Syste",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "VISCOAT\u0099 Ophthalmic Viscosurgical Device, DISCOVISC\u0099 Ophthalmic Viscosurgical Device",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "PROVISC\u0099 Ophthalmic Viscosurgical Device",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "PASCAL Precision Transcatheter Valve Repair System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "Protege\u0099 RX Carotid Stent System; Protege\u0099 GPS\u0099 Self-Expanding Peripheral Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "Esprit\u0099 BTK Everolimus Eluting Resorbable Scaffold System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "Impella 2.5, Impella CP, Impella CP with SmartAssist, Impella 5.0, Impella 5.5 with SmartAssist, and Impella LD",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "Impella RP, Impella RP with SmartAssist, and Impella RP Flex with SmartAssist",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-25 00:00:00"
+    },
+    {
+      "trade_name": "Cologuard\u00ae test",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-24 00:00:00"
+    },
+    {
+      "trade_name": "AED Plus and Fully Automatic AED Plus",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-24 00:00:00"
+    },
+    {
+      "trade_name": "Nucleus\u00ae 24 Cochlear Implant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-24 00:00:00"
+    },
+    {
+      "trade_name": "Cologuard Plus\u0099",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-24 00:00:00"
+    },
+    {
+      "trade_name": "Sientra Silicone Gel Breast Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-24 00:00:00"
+    },
+    {
+      "trade_name": "VEGA R45; VEGA R52; VEGA R58; VEGA R45 RE-INTERVENTION KIT; VEGA R58 RE-INTERVENTION KIT; VEGA R45 RE-INTERVENTION KIT",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "VARIPULSE\u0099 Platform",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "HexaFlow\u0099 Irrigation Pumo AFR-00004, HexaGen TM RF Generator AFR-00005, HexaPulse TM PF Generator AFR-00008",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "Platinium CRT-D 1711; Platinium CRT-D 1741; Platinium 4LV CRT-D 1744; ENERGYA CRT-D 3711; ENERGYA CRT-D 3741; ENERGYA 4L",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "MynxGrip Vascular Closure Device (5F, 6F/7F); Mynx Control Vascular Closure Device (5F, 6F/7F); Mynx Control Venous Vasc",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "MitraClip G5 Delivery System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "Shield",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "Edwards EVOQUE tricuspid delivery system",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "Reply SR; Reply DR; ALIZEA SR 1300; ALIZEA DR 1600; CELEA SR 1100; CELEA DR 1400",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "TMJ Concepts Patient Fitted Temporomandibular Joint (TMJ) Reconstruction Prosthesis System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "Exablate 2000 System Magnetic Resonance Guided Focused Ultrasound Ablation of Uterine Fibroids",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "Platinium VR 1210, Platinium VR 1240, ENERGYA VR 3110, TALENTIA VR 3210, ENERGYA VR 3140, TALENTIA VR 3240, Platinium DR",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-23 00:00:00"
+    },
+    {
+      "trade_name": "RelayPro Thoracic Stent-Graft System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "TECNIS 3-Piece Multifocal, Model ZMA00",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "TECNIS Odyssey Toric II IOL with TECNIS SIMPLICITY Delivery System, Model DRT",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "ASSURE Wearable Cardioverter Defibrillator (WCD) System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "Activa\u0099 Deep Brain Stimulation Therapy System, Percept\u0099 PC BrainSense\u0099",
+      "surgical_specialty": "neurosurgery",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "Master Restore\u0099, Itrel\u0099, Synergy Intellis\u0099, Vanta\u0099 and Inceptiv\u0099 Spinal Cord Stimulation Systems and Pisces\u0099, Specify\u0099,",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "Absolute Pro Vascular Self-Expanding Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "Akreos Posterior Chamber Intraocular Lens (IOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "TECNIS 3-Piece Acrylic Monofocal, Model ZA9003",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-07-22 00:00:00"
+    },
+    {
+      "trade_name": "MODEL 3150 IMPLANTABLE PULSE GENERATOR (IPG)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-21 00:00:00"
+    },
+    {
+      "trade_name": "LCS(R) TOTAL KNEE SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-18 00:00:00"
+    },
+    {
+      "trade_name": "EndoForce\u0099 Connector for Endovascular Venous Anastomosis",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-07-18 00:00:00"
+    },
+    {
+      "trade_name": "OrganOx metra\u00ae System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-18 00:00:00"
+    },
+    {
+      "trade_name": "Clareon Aspheric Hydrophobic Acrylic Intraocular Lens (IOL), Clareon ToricAspheric Hydrophobic Acrylic Intraocular Lens,",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-07-18 00:00:00"
+    },
+    {
+      "trade_name": "EXCOR Pediatric Ventricular Assist Device",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-18 00:00:00"
+    },
+    {
+      "trade_name": "InterStim\u00ae Therapy System, Verify\u00ae Evaluation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-17 00:00:00"
+    },
+    {
+      "trade_name": "HeartMate II Left Ventricular Assist System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-17 00:00:00"
+    },
+    {
+      "trade_name": "SynchroMed\u00ae Infusion System, Ascenda\u00ae Intrathecal Catheters",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-17 00:00:00"
+    },
+    {
+      "trade_name": "InterStim\u00ae Therapy System, Verify\u00ae Evaluation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-17 00:00:00"
+    },
+    {
+      "trade_name": "HeartMate 3\u0099 Left Ventricular Assist System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-17 00:00:00"
+    },
+    {
+      "trade_name": "Astron",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "ADVIA Centaur\u00ae PSA Immunoassay; Atellica IM Prostate-Specific Antigen (PSA)",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "LifeVest\u00ae Wearable Defibrillator",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "GORE\u00ae TAG\u00ae Conformable Thoracic Endoprosthesis",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "ADVIA Centaur\u00ae Complexed PSA (cPSA) Immunoassay; Atellica IM Complexed Prostate-Specific Antigen (cPSA)",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "CapSureFix Novus Lead 5076; Vitatron Crystalline ActFix Lead ICF09B",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "CapSure Epicardial Pacing Lead 4965; CapSure Epicardial Pacing Lead 4968",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "print Quattro Lead 6935M; Sprint Quattro Lead 6947M; Sprint Quattro Lead 6947; Sprint Quattro Lead 6935",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "eCoin Peripheral Neurostimulator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "CapSure VDD-2 Lead 5038, 5038L, 5038S; Vitatron Brilliant S+ VDD Lead IMW14Q, IMW15Q, IMW16Q; Vitatron Brilliant S+VDD L",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "CapSure SP Z Lead 5033; Vitatron Impulse II Lead IHP09, IHP09B, IHP09JB",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "WATCHMAN FLX Left Atrial Appendage (LAA) Closure Technology, WATCHMAN FLX Left Atrial Appendage Closure Device with Deli",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-16 00:00:00"
+    },
+    {
+      "trade_name": "IN.PACT Admiral Paclitaxel-Coated Percutaneous Transluminal Angioplasty (PTA) Balloon Catheter; IN.PACT 018 Paclitaxel-C",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-15 00:00:00"
+    },
+    {
+      "trade_name": "Cobalt MRI, CRT-D (DTPB2D1, DTPB2D4, DTPB2Q1, DTPB2QQ); Cobalt XT MRI CRT-D (DTPA2D1, DTPA2D4, DTPA2Q1, DTPA2QQ); Crome",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-15 00:00:00"
+    },
+    {
+      "trade_name": "Cobalt MRI ICD (DDPB3D1, DDPB3D4, DVPB3D1, DVPB3D4); Cobalt XT MRI ICD (DDPA2D1, DVPA2D1); Cobalt XT MRI ICD (DDPA2D4, D",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-15 00:00:00"
+    },
+    {
+      "trade_name": "OPTIMIZER Smart System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-15 00:00:00"
+    },
+    {
+      "trade_name": "IN.PACT AV Paclitaxel-Coated Percutaneous Transluminal Angioplasty (PTA) Balloon Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-15 00:00:00"
+    },
+    {
+      "trade_name": "RxSight Light Adjustable Lens (LAL), Light Delivery Device (LDD)",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-14 00:00:00"
+    },
+    {
+      "trade_name": "RADIESSE (+) Lidocaine",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-14 00:00:00"
+    },
+    {
+      "trade_name": "Juv\u00e9derm Ultra, Juv\u00e9derm Ultra XC, and Juv\u00e9derm Ultra Plus XC (hereafter referred to as Ultra, Ultra XC and Ultra Plus X",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-14 00:00:00"
+    },
+    {
+      "trade_name": "AMS 800 Artificial Urinary Sphincter (AUS)",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-07-14 00:00:00"
+    },
+    {
+      "trade_name": "AMS 700 Inflatable Penile Prosthesis (IPP)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-14 00:00:00"
+    },
+    {
+      "trade_name": "Juv\u00e9derm Voluma XC, Juv\u00e9derm Vollure XC, Juv\u00e9derm Volbella XC, Juv\u00e9derm Volux XC and SKINVIVE by Juv\u00e9derm (hereafter ref",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-14 00:00:00"
+    },
+    {
+      "trade_name": "ReShape Lap-Band System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "FreeStyle Libre 14-Day Flash Glucose Monitoring System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "X Series\u00ae, R Series\u00ae, AED Pro\u00ae, AED 3\u0099 BLS Professional Defibrillators, Pro-Padz Radiotransparent Electrode, SurePower\u0099",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "FreeStyle Libre Pro Flash Glucose Monitoring System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "EXOSEAL Vascular Closure Device",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "BAROSTIM NEO\u00ae System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "VALITUDE\u0099 (Model U125); VALITUDE\u0099 X4 (Model U128); VISIONIST\u0099 (Models U225, U226); VISIONIST\u0099 X4 (Model U228)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "ALTRUA\u0099 2 (Models S701, S702, S722); ESSENTIO\u0099 (Models L100, L101, L121); PROPONENT\u0099 (Models L200, L201, L221); ACCOLADE",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "Orbera\u00ae Intragastric Balloon (IGB) System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "ESSENTIO\u0099 MRI (Models L110, L111, L131); PROPONENT\u0099 MRI (Models L210, L211, L231); ACCOLADE\u0099 MRI (Models L310, L311, L33",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-11 00:00:00"
+    },
+    {
+      "trade_name": "Preveleak Surgical Sealant",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-07-10 00:00:00"
+    },
+    {
+      "trade_name": "Saluda Medical Evoke SCS System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-10 00:00:00"
+    },
+    {
+      "trade_name": "TOUCH\u00ae CMC 1 Prosthesis",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-10 00:00:00"
+    },
+    {
+      "trade_name": "Orsiro Mission Sirolimus Eluting Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-10 00:00:00"
+    },
+    {
+      "trade_name": "PRO-Kinetic Energy Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-10 00:00:00"
+    },
+    {
+      "trade_name": "Astron Pulsar; Pulsar-18; Pulsar-18 T3",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-10 00:00:00"
+    },
+    {
+      "trade_name": "LimFlow System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-07-09 00:00:00"
+    },
+    {
+      "trade_name": "Micra AV TPS MC1lAVR1; Micra AV2 TPS MC2AVR1; Micra TPS MC1VR01; Micra VR2 TPS MC2VR01",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-09 00:00:00"
+    },
+    {
+      "trade_name": "alfapump System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-09 00:00:00"
+    },
+    {
+      "trade_name": "HeartWare HVAD System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-09 00:00:00"
+    },
+    {
+      "trade_name": "Epsila EV Extravascular Lead EV2401",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-09 00:00:00"
+    },
+    {
+      "trade_name": "Edwards Commander Delivery System (9600LDS20, 9600LDS23, 9600LDS26, 9600LDS29, 9750CM20, 9750CM23, 9750CM26)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-08 00:00:00"
+    },
+    {
+      "trade_name": "Edwards Commander Delivery System (9600LDS20, 9600LDS23, 9600LDS26, 9600LDS29)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-08 00:00:00"
+    },
+    {
+      "trade_name": "iCast Covered Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-07 00:00:00"
+    },
+    {
+      "trade_name": "EluNIR\u0099 Ridaforolimus Eluting Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Zilver\u00ae PTX\u00ae Peripheral Drug-Eluting Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "ColoSense\u00ae",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "FARAPULSE\u0099 Pulsed Field Ablation System (FARAWAVE\u0099 Pulsed Field Ablation Catheter, FARAWAVE\u0099 NAV Pulsed Field Ablation C",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "MENTOR MemoryGel Enhance Breast Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Nucleus\u00ae 22 Cochlear Implant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Defibtech Lifeline; Defibtech Lifeline AUTO; Defibtech Lifeline VIEW; Defibtech Lifeline VIEW AUTO; Defibtech Lifeline E",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Exablate Model 4000 Type-1 System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Nucleus\u00ae 24 Auditory Brainstem Implant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Nucleus\u00ae Hybrid\u0099 L24 Cochlear Implant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Nucleus\u00ae 22 Cochlear Implant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-03 00:00:00"
+    },
+    {
+      "trade_name": "MEDTRONIC INSYNC(TM) BIVENTRICAL PACING SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "Oncomine Dx Express Test",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "Infinity DBS IPG",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "MEDTRONIC KAPPA 700/600 SERIES PULSE GENERATORS AND MODEL 9953 SOFTWARE",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "Aveir VR and DR Delivery Catheters",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "RX HERCULINK ELITE RENAL STENT SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "Proclaim SCS IPG",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-07-02 00:00:00"
+    },
+    {
+      "trade_name": "Organ Care System\u0099 (OCS\u0099) Liver",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-07-01 00:00:00"
+    },
+    {
+      "trade_name": "Zilver Flex(R) 35 Vascular Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-07-01 00:00:00"
+    },
+    {
+      "trade_name": "THERAKOS\u00ae CELLEX\u00ae Photopheresis System Procedural Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-06-30 00:00:00"
+    },
+    {
+      "trade_name": "LIFEPAK FLEX\u0099 Lithium-ion Battery",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-30 00:00:00"
+    },
+    {
+      "trade_name": "Nevro Corp Senza Spinal Cord Stimulation (SCS) System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-30 00:00:00"
+    },
+    {
+      "trade_name": "PulseSelect\u0099 Pulsed Field Ablation (PFA) system",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-27 00:00:00"
+    },
+    {
+      "trade_name": "Shockwave Intravascular Lithotripsy (IVL) 825 Series Generators",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-27 00:00:00"
+    },
+    {
+      "trade_name": "xT CDx",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-06-27 00:00:00"
+    },
+    {
+      "trade_name": "SelectSecure Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-27 00:00:00"
+    },
+    {
+      "trade_name": "Mosaic Bioprosthesis, Models 305, 310",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "BioMimics 3D Vascular Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Freestyle Bioprosthesis, Models 995, 995CS, 995MS",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Avalus Bioprosthesis, Model 400",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Ranger\u0099 Paclitaxel-Coated PTA Balloon Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Resolute Onyx",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Hancock II Bioprosthesis, Models T505, T510",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Covera\u0099 Vascular Covered Stents",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "RADIESSE\u00ae Injectable Implant",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-26 00:00:00"
+    },
+    {
+      "trade_name": "Total Artificial Heart",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "Altius Direct Electrical Nerve Stimulation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "Prospera Spinal Cord Stimulation (SCS) System, Resilience Percutaneous Lead, HomeStream Remote Management",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "TriClip\u0099 G4 Delivery System; MitraClip\u0099 G5 Delivery System, TriClip\u0099 G5 Delivery System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "Precision Spinal Cord Stimulator (SCS) Systems",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "Cordella Pulmonary Artery Sensor System (CorPASS)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "VERCISE DEEP BRAIN STIMULATION (DBS)SYSTEM",
+      "surgical_specialty": "neurosurgery",
+      "decision_date": "2025-06-25 00:00:00"
+    },
+    {
+      "trade_name": "Neuroform Atlas\u00ae Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-24 00:00:00"
+    },
+    {
+      "trade_name": "CERAMAX\u00ae ceramic total hip system",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-24 00:00:00"
+    },
+    {
+      "trade_name": "OXFORD(TM) MENISCAL UNICOMPARTMENTAL KNEE SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-24 00:00:00"
+    },
+    {
+      "trade_name": "CGuard Prime Carotid Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-23 00:00:00"
+    },
+    {
+      "trade_name": "Roadsaver/CASPER Carotid Stent Device",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-23 00:00:00"
+    },
+    {
+      "trade_name": "Optilume Urethral Drug Coated Balloon Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-23 00:00:00"
+    },
+    {
+      "trade_name": "HeartStart OnSite Defibrillator (Model M5066A) and HeartStart Home Defibrillator (Model M5068A)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "CapSure Sense Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "Transcend\u00ae Hip Articulation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "TherOx Downstream Cartridge",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "LIFEPAK\u00ae CR2 Defibrillator",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "PATHWAY anti-HER-2/neu (4B5) Rabbit Monoclonal Primary Antibody",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "ReActiv8 Implantable Neurostimulation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "TactiFlex Ablation Catheter, Sensor Enabled",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "VENTANA ALK (D5F3) CDX ASSAY",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "TactiCath Contact Force Ablation Catheter, Sensor Enabled",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-20 00:00:00"
+    },
+    {
+      "trade_name": "AcrySof Posterior Chamber Intraocular Lenses and Delivery Systems",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "OptiSense 1999; Tendril SDX Lead 1688T/TC DTB; Tendril ST Lead 1888TC, 1882TC; Tendril STS Lead 2088TC; Tendril STS Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "TRIDYNE\u0099 Vascular Sealant",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Allure\u0099 PM3120; Allure Quadra\u0099 RF PM3242; Allure Quadra\u0099 PM3140; Allure RF PM3222; Anthem PM3210; Quadra Allure PM3542;",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "enVista\u00ae Hydrophobic Acrylic Intraocular Lens (IOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "IsoFlex Optim Lead 1944, 1948",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Edora 8 DR-T 407145, Evity 8 DR-T 407146, Enitra 8 DR-T 407147, Enticos 8 DR-T 407148, Evity 6 DR-T 407149, Enitra 6 DR-",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Acticor 7 VR-T 429526, Rivacor 7 VR-T 429536, Rivacor 5 VR-T 429565, Rivacor 3 VR-T 429574, Acticor 7 VR-T DX 429525, Ri",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "P880086 Endurity PM1162, PM2162; Endurity Core PM1140, PM2140; AV Plus Dx Lead 1368; Verity ADx XL 5357M/S, 5356, 5256,",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Edora 8 HF-T QP 407137, Edora 8 HF-T 407138, Evity 8 HF-T QP 407139, Evity 8 HF-T 407140, Enitra 8 HF-T QP 407141, Enitr",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "PROMETRA PROGRAMMABLE INFUSION PUMP SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Endurity MRI PM1172, PM2172; Assurity MRI PM1272, PM2272; Zenex MRI PM1282, PM2282; Zenus MRI PM1182, PM2182; Accent MRI",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "PROPEL, PROPEL MINI and PROPEL CONTOUR",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Gallant DR CDDRA500Q; Gallant VR CDVRA500Q; Neutrino NxT DR CDDRA800Q; Neutrino NxT DR CDDRA600Q; Neutrino NxT VR CDVRA8",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "AcrySof IQ ReSTOR Posterior Chamber Intraocular Lenses",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "MI Cancer Seek",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Avant HF CDHFA700B, CDHFA700D, CDHFA700Q, CDHFA700T; Entrant HF CDHFA300B, CDHFA300D, CDHFA300Q, CDHFA300T; Gallant HF C",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "WiSE\u00ae (Wireless Stimulation of the Endocardium Technology) CRT System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-18 00:00:00"
+    },
+    {
+      "trade_name": "Microny family of Pacemakers",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-17 00:00:00"
+    },
+    {
+      "trade_name": "EPi-Sense Guided Coagulation System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-17 00:00:00"
+    },
+    {
+      "trade_name": "Neuspera Sacral Neuromodulation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-17 00:00:00"
+    },
+    {
+      "trade_name": "Synergy Ablation System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-17 00:00:00"
+    },
+    {
+      "trade_name": "VENTANA HER2 DualL ISH DNA Probe Cocktail",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2025-06-16 00:00:00"
+    },
+    {
+      "trade_name": "COAPTITE\u00ae",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-06-16 00:00:00"
+    },
+    {
+      "trade_name": "GORE\u00ae VIABAHN\u00ae Endoprosthesis, GORE\u00ae VIABAHN\u00ae Endoprosthesis with  Heparin Bioactive Surface",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-13 00:00:00"
+    },
+    {
+      "trade_name": "GORE\u00ae VIABAHN\u00ae Endoprosthesis, GORE\u00ae VIABAHN\u00ae Endoprosthesis with Heparin Bioactive Surface",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-13 00:00:00"
+    },
+    {
+      "trade_name": "Endurant Stent Graft System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-12 00:00:00"
+    },
+    {
+      "trade_name": "Valiant Thoracic Stent Graft with the Captivia Delivery System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-12 00:00:00"
+    },
+    {
+      "trade_name": "Harmony Transcatheter Pulmonary Valve System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-12 00:00:00"
+    },
+    {
+      "trade_name": "C-flex lntraocular Lens; C-flex Aspheric lntraocular Lens; 6.0 mm Aspheric lntraocular Lens; RayOne Aspheric; RayOne Sph",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-06-12 00:00:00"
+    },
+    {
+      "trade_name": "GORE TAG Thoracic Branch Endoprosthesis (TBE Device)",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-11 00:00:00"
+    },
+    {
+      "trade_name": "Artegraft Collagen Vascular Graft",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-11 00:00:00"
+    },
+    {
+      "trade_name": "GORE\u00ae EXCLUDER\u00ae AAA Endoprosthesis",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-11 00:00:00"
+    },
+    {
+      "trade_name": "BIORA EMDOGAIN(R)",
+      "surgical_specialty": "dental_surgery",
+      "decision_date": "2025-06-10 00:00:00"
+    },
+    {
+      "trade_name": "HeartStart FRx Defibrillator (861304)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-09 00:00:00"
+    },
+    {
+      "trade_name": "SurVeil Drug-Coated Balloon",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-06 00:00:00"
+    },
+    {
+      "trade_name": "GORE EXCLUDER Thoracoabdominal Branch Endoprosthesis",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-05 00:00:00"
+    },
+    {
+      "trade_name": "CapSureFix MRI Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-05 00:00:00"
+    },
+    {
+      "trade_name": "GORE EXCLUDER Conformable AAA Endoprosthesis (EXCC)",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-05 00:00:00"
+    },
+    {
+      "trade_name": "Simplify\u00ae Cervical Artificial Disc",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-05 00:00:00"
+    },
+    {
+      "trade_name": "Endotak Lead System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "PRODISC -L TOTAL DISC REPLACEMENT DEVICE",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "NAV 2 Quadpole LV Long Spiral; NAV 2 Quadpole LV Straight; NAV 2 Quadpole LV Short Spiral",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "OmniaSecure\u0099 MRI SureScan\u0099 Lead Model 3930M",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "prodisc C, prodisc C Vivo, prodisc C Nova, prodisc C SK",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "SpineSeal Spine Sealant",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "Pipeline\u0099 Flex Embolization Device (Pipeline\u0099 Flex); Pipeline\u0099 Flex Embolization Device with Shield Technology\u0099 (Pipelin",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-04 00:00:00"
+    },
+    {
+      "trade_name": "Diamondback 360 Coronary Orbital Atherectomy System; Diamondback 360 Precision Coronary Orbital Atherectomy System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-03 00:00:00"
+    },
+    {
+      "trade_name": "Lava Liquid Embolic System (Lava LES)",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-06-02 00:00:00"
+    },
+    {
+      "trade_name": "CentriMag Circulatory Support System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-06-02 00:00:00"
+    },
+    {
+      "trade_name": "enVista Envy\u0099 hydrophobic acrylic intraocular lens (IOL), enVista Envy\u0099 toric hydrophobic acrylic intraocular lens (IOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-05-30 00:00:00"
+    },
+    {
+      "trade_name": "Hydrus\u00ae Microstent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-30 00:00:00"
+    },
+    {
+      "trade_name": "Scoreflex NC Scoring PTCA Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-30 00:00:00"
+    },
+    {
+      "trade_name": "Surpass Streamline Flow Diverter",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-05-30 00:00:00"
+    },
+    {
+      "trade_name": "Zenith\u00ae Iliac Branch",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-05-30 00:00:00"
+    },
+    {
+      "trade_name": "Vivistim\u00ae System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-30 00:00:00"
+    },
+    {
+      "trade_name": "TOPS\u0099 System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-29 00:00:00"
+    },
+    {
+      "trade_name": "S.M.A.R.T. AND S.M.A.R.T. CONTROL NITINOL STENT SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-28 00:00:00"
+    },
+    {
+      "trade_name": "IBI THERAPY COOL PATH ABLATION CATHETER & IBI-1500T9 RF",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-28 00:00:00"
+    },
+    {
+      "trade_name": "SMA RT CONTROL AND SMART VASCULAR STENT SYSTEMS",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-28 00:00:00"
+    },
+    {
+      "trade_name": "Titan Inflatable Penile Prosthesis",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-28 00:00:00"
+    },
+    {
+      "trade_name": "ROTAPRO\u0099 Rotational Atherectomy System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-28 00:00:00"
+    },
+    {
+      "trade_name": "TRUFILL n-BCA Liquid Embolic System (LES) and Procedural Set",
+      "surgical_specialty": "neurosurgery",
+      "decision_date": "2025-05-28 00:00:00"
+    },
+    {
+      "trade_name": "ELECSYS FREE PSA IMMUNOASSAY/CALSET/CALCHECK",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-05-27 00:00:00"
+    },
+    {
+      "trade_name": "ELECSYS TOTAL PSA IMMUNOASSAY AND TOTAL PSA CALSET",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-05-27 00:00:00"
+    },
+    {
+      "trade_name": "Trident Acetabular System: Trident Alumina Inserts",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-23 00:00:00"
+    },
+    {
+      "trade_name": "Tendyne Transcatheter Mitral Valve System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-23 00:00:00"
+    },
+    {
+      "trade_name": "MEL 90 EXCIMER LASER SYSTEM",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-05-23 00:00:00"
+    },
+    {
+      "trade_name": "Dimension FPSA Flex reagent cartridge",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-05-22 00:00:00"
+    },
+    {
+      "trade_name": "Dimension TPSA Flex reagent cartridge",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-05-22 00:00:00"
+    },
+    {
+      "trade_name": "Bulkamid Urethral Bulking System",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-05-22 00:00:00"
+    },
+    {
+      "trade_name": "MENTOR CORPORATION SALINE-FILLED AND SPECTRUM (R) MAMMARY PROSTHESES",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-21 00:00:00"
+    },
+    {
+      "trade_name": "MENTOR MEMORYSHAPE BREAST IMPLANTS",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-21 00:00:00"
+    },
+    {
+      "trade_name": "Reduced Profile GORE VIABAHN VBX Balloon Expandable Endoprosthesis (RP VBX Device)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-20 00:00:00"
+    },
+    {
+      "trade_name": "ProACT Adjustable Continence Therapy for Men",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-05-20 00:00:00"
+    },
+    {
+      "trade_name": "VenaSeal Closure System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-05-20 00:00:00"
+    },
+    {
+      "trade_name": "Xience Skypoint Everolimus Eluting Coronary Stent System; XIENCE Alpine Everolimus Coronary Stent System; XIENCE Sierra",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-19 00:00:00"
+    },
+    {
+      "trade_name": "Zenith Dissection Endovascular System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-05-19 00:00:00"
+    },
+    {
+      "trade_name": "CardioMEMS HF System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-15 00:00:00"
+    },
+    {
+      "trade_name": "Access Hybritech free PSA",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-05-15 00:00:00"
+    },
+    {
+      "trade_name": "CARBOMEDICS Prosthetic Heart Valve; CARBOMEDICS Supra-Annular Prosthetic Heart Valve (Top Hat); ORBIS Prosthetic Heart V",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-15 00:00:00"
+    },
+    {
+      "trade_name": "INCRAFT\u00ae AAA Stent Graft System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-05-15 00:00:00"
+    },
+    {
+      "trade_name": "MEDTRONIC ATTAIN ABILITY MODEL 4196 LEAD",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-14 00:00:00"
+    },
+    {
+      "trade_name": "NEUROPACE RNS SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-12 00:00:00"
+    },
+    {
+      "trade_name": "Intera 3000 Hepatic Artery Infusion Pump",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-09 00:00:00"
+    },
+    {
+      "trade_name": "HeartStart FR3 Defibrillator",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-09 00:00:00"
+    },
+    {
+      "trade_name": "MiniMed 770G Insulin Pump; MiniMed 780G Insulin Pump",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-05-09 00:00:00"
+    },
+    {
+      "trade_name": "XPS\u0099 with Steen Solution\u0099 Perfusate",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-05-08 00:00:00"
+    },
+    {
+      "trade_name": "remede System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-07 00:00:00"
+    },
+    {
+      "trade_name": "Navitor Transcatheter Aortic Valve Implantation System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-07 00:00:00"
+    },
+    {
+      "trade_name": "LungFit PH",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-05-06 00:00:00"
+    },
+    {
+      "trade_name": "FlexAbility\u0099 Ablation Catheter, Sensor Enabled\u0099",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-06 00:00:00"
+    },
+    {
+      "trade_name": "KARL STORZ Photodynamic Diagnostic D-Light C (PDD) System",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-05-02 00:00:00"
+    },
+    {
+      "trade_name": "VNS THERAPY SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-02 00:00:00"
+    },
+    {
+      "trade_name": "INTACS\u00ae Corneal Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-02 00:00:00"
+    },
+    {
+      "trade_name": "HEALON, HEALON GV, HEALON5 PRODUCTS SODIUM HYALURONATE OPHTHALMIC VISCOELASTIC DEVICES",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-05-01 00:00:00"
+    },
+    {
+      "trade_name": "AngioJet Thrombectomy System - AutoElite Console",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-05-01 00:00:00"
+    },
+    {
+      "trade_name": "BLU-U Blue Light Photodynamic Therapy Illuminator",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-05-01 00:00:00"
+    },
+    {
+      "trade_name": "UNIPURE SF6 Ophthalmic Gas in the UNIFEYE Gas Delivery System, UNIPURE SF6 Ophthalmic Gas in the UNIPEXY Gas Delivery Sy",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-04-30 00:00:00"
+    },
+    {
+      "trade_name": "UNIPURE C3F8 Ophthalmic Gas in the UNIFEYE Gas Delivery System, UNIPURE C3F8 Ophthalmic Gas in the UNIPEXY Gas Delivery",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-04-30 00:00:00"
+    },
+    {
+      "trade_name": "Jewel Patch Wearable Cardioverter Defibrillator (P-WCD) (Jewel), Jewel P-WCD Firmware, Device Accessories Skin Preparati",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-30 00:00:00"
+    },
+    {
+      "trade_name": "Bellafill\u00ae Dermal Filler",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-29 00:00:00"
+    },
+    {
+      "trade_name": "PerClot\u00ae Polysaccharide Hemostatic System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-04-25 00:00:00"
+    },
+    {
+      "trade_name": "IC-8 Apthera Intraocular Lens (IOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2025-04-25 00:00:00"
+    },
+    {
+      "trade_name": "COMBI 40+ COCHLEAR IMPLANT SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-24 00:00:00"
+    },
+    {
+      "trade_name": "Amplatzer Amulet Left Atrial Appendage Occluder",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-04-22 00:00:00"
+    },
+    {
+      "trade_name": "RHA Redensity Mepi; RHA2 Mepi; RHA3 Mepi; RHA4 Mepi",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-22 00:00:00"
+    },
+    {
+      "trade_name": "SYNERGY Everolimus-Eluting Platinum Chromium Coronary Stent System; SYNERGY XD Everolimus-Eluting Platinum Chromium Coro",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-18 00:00:00"
+    },
+    {
+      "trade_name": "Occlutech\u00ae ASD Occluder and Occlutech\u00ae Pistol Pusher",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-18 00:00:00"
+    },
+    {
+      "trade_name": "TruSight Oncology Comprehensive",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-04-18 00:00:00"
+    },
+    {
+      "trade_name": "R3\u0099 Delta Ceramic Acetabular System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-17 00:00:00"
+    },
+    {
+      "trade_name": "Hancock Modified Orifice Valved Conduit",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-16 00:00:00"
+    },
+    {
+      "trade_name": "Home Monitoring System Version 3.52.0",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-15 00:00:00"
+    },
+    {
+      "trade_name": "Home Monitoring System Version 3.52.0",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-15 00:00:00"
+    },
+    {
+      "trade_name": "Minerva Endometrial Ablation System",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2025-04-14 00:00:00"
+    },
+    {
+      "trade_name": "Axonics Sacral Neuromodulation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-11 00:00:00"
+    },
+    {
+      "trade_name": "Axonics Sacral Neuromodulation System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-11 00:00:00"
+    },
+    {
+      "trade_name": "D010 INOGEN\u0099 MINI ICD VR; D011 INOGEN\u0099 MINI ICD VR; D012 INOGEN\u0099 MINI ICD DR; D013 INOGEN\u0099 MINI ICD DR; D020 DYNAGEN\u0099 MI",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-11 00:00:00"
+    },
+    {
+      "trade_name": "Abre\u0099 Venous Self-expanding Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-11 00:00:00"
+    },
+    {
+      "trade_name": "Coseal Surgical Sealant",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-04-11 00:00:00"
+    },
+    {
+      "trade_name": "Safire\u0099 Bi-Directional Ablation Catheter; Safire\u0099 Catheter Extension Cable",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-10 00:00:00"
+    },
+    {
+      "trade_name": "Safire TX Ablation Catheter; Safire TX, Catheter Extension Cable; Therapy 8mm Tip Thermistor Ablation Catheter; Therapy",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-10 00:00:00"
+    },
+    {
+      "trade_name": "Symplicity G3 Renal Denervation RF Generator; Symplicity Spyral Multi-Electrode Renal Denervation Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-10 00:00:00"
+    },
+    {
+      "trade_name": "PERIMOUNT Magna Mitral Ease Pericardial Bioprosthesis",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-10 00:00:00"
+    },
+    {
+      "trade_name": "Therapy Ablation Catheter (4mm Tip Thermistor and Bi-Directional); Cables",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-10 00:00:00"
+    },
+    {
+      "trade_name": "Thoraflex Hybrid",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-09 00:00:00"
+    },
+    {
+      "trade_name": "HiResolution Bionic Ear System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-09 00:00:00"
+    },
+    {
+      "trade_name": "NexGen\u00a9 LPSFlex/LPS Mobile Bearing Knee System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-09 00:00:00"
+    },
+    {
+      "trade_name": "GORE\u00ae VIATORR\u00ae TIPS Endoprosthesis with Controlled Expansion",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-04-09 00:00:00"
+    },
+    {
+      "trade_name": "QDOT MICRO\u0099 System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-08 00:00:00"
+    },
+    {
+      "trade_name": "Medtronic Evolut PRO+ Transcatheter Aortic Valve; Medtronic Evolut FX Transcatheter Aortic Valve; Medtronic Evolut FX+ T",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-08 00:00:00"
+    },
+    {
+      "trade_name": "AngioSculpt Evo RX PTCA Scoring Balloon Catheter with Hydrophilic Coating",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-04 00:00:00"
+    },
+    {
+      "trade_name": "PRECISE PRO RX Transcarotid Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-04 00:00:00"
+    },
+    {
+      "trade_name": "ARCHITECT Free PSA / Alinity i Free PSA",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-04-03 00:00:00"
+    },
+    {
+      "trade_name": "ARCHITECT Total PSA / Alinity i Total PSA",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-04-03 00:00:00"
+    },
+    {
+      "trade_name": "PERCEVAL SUTURELESS HEART VALVE",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-04-01 00:00:00"
+    },
+    {
+      "trade_name": "RHYTHMIA HDx\u0099 Ablation Connection Box (for INTELLAGEN\u0099); Rhythmia HDx\u0099 Ablation Connection Box (Maestro\u0099);RHYTHMIA HDx\u0099",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-31 00:00:00"
+    },
+    {
+      "trade_name": "RHYTHMIA HDx\u0099 Ablation Connection Box (for INTELLAGEN\u0099); Rhythmia HDx\u0099 Ablation Connection Box (Maestro\u0099)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-31 00:00:00"
+    },
+    {
+      "trade_name": "RHYTHMIA HDx\u0099 Ablation Connection Box (for INTELLAGEN\u0099)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-31 00:00:00"
+    },
+    {
+      "trade_name": "STOCKERT 70 RADIOFREQUENCY ABLATION GENERATOR",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-28 00:00:00"
+    },
+    {
+      "trade_name": "cobas HPV for use on the cobas 6800/8800 Systems",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-03-27 00:00:00"
+    },
+    {
+      "trade_name": "Amplatzer\u0099 Septal Occluder; Amplatzer\u0099 Amulet\u0099 Left Atrial Appendage Occluder",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-27 00:00:00"
+    },
+    {
+      "trade_name": "7F FREEZOR CARDIAC CRYOABLATION CATHETER AND CCT.2 CRYOCONSOLE SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-27 00:00:00"
+    },
+    {
+      "trade_name": "ARCTIC FRONT CRYOCATHETER SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-27 00:00:00"
+    },
+    {
+      "trade_name": "MELODY TRANSCATHETER PULMONARY VALVE (TPV), ENSEMBLE TRANSCATHETER VALVE DELIVERY SYSTEM (DS)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-27 00:00:00"
+    },
+    {
+      "trade_name": "EVERSENSE CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-27 00:00:00"
+    },
+    {
+      "trade_name": "Paradise Ultrasound Renal Denervation System; Paradise Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-25 00:00:00"
+    },
+    {
+      "trade_name": "Boston Scientific Cardiac Cryoablation System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-21 00:00:00"
+    },
+    {
+      "trade_name": "Medtronic(R) Legend Plus(TM) Pulse Generator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Model 5071 Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "MEDTRONIC(R) JEWEL(R) AF 7250 DUAL CHAMBER IMPLANTABLE CARDIOVERTER DEFIBRILLATOR, MODEL 9961 PROGRAMMER APPLICATION SOF",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Versatrax Model 7000 Universal A-V Pulse Generator",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Medtronic.Kappa 400 Series Pacemakers",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Attain Starfix Model 4195 Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Diva Platform Implantable Pulse Generators; PRO VIT Application Software",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Medtronic PCD Tachyarrhythmia Control System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Activitrax Models 8400, 8402, 8403",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-20 00:00:00"
+    },
+    {
+      "trade_name": "ColoHealth",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-03-19 00:00:00"
+    },
+    {
+      "trade_name": "INFUSE\u00ae Bone Graft/LT-Cage Lumbar Tapered Fusion Device",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-19 00:00:00"
+    },
+    {
+      "trade_name": "INFUSE\u00ae Bone Graft",
+      "surgical_specialty": "dental_surgery",
+      "decision_date": "2025-03-19 00:00:00"
+    },
+    {
+      "trade_name": "BioGlue\u00ae Surgical Adhesive",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-03-18 00:00:00"
+    },
+    {
+      "trade_name": "TREO Abdominal Stent-Graft System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-03-14 00:00:00"
+    },
+    {
+      "trade_name": "GORE CARDIOFORM Septal Occluder",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-14 00:00:00"
+    },
+    {
+      "trade_name": "Minima Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-11 00:00:00"
+    },
+    {
+      "trade_name": "Supera Peripheral Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-09 00:00:00"
+    },
+    {
+      "trade_name": "XACT Carotid Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-09 00:00:00"
+    },
+    {
+      "trade_name": "Perclose ProGlide Suture-Mediated Closure System, Prostar XL Percutaneous Vascular Surgical System",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-03-09 00:00:00"
+    },
+    {
+      "trade_name": "StarClose SE Vascular Surgical System",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-03-09 00:00:00"
+    },
+    {
+      "trade_name": "AGENT Paclitaxel-Coated Balloon Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-09 00:00:00"
+    },
+    {
+      "trade_name": "EVO Visian Implantable Collamer Lens for Myopia (VICMO), EVO Visian Toric Implantable Collamer Lens for Myopia (VTICMO),",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-05 00:00:00"
+    },
+    {
+      "trade_name": "WaveLight EX500 Laser",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-03-05 00:00:00"
+    },
+    {
+      "trade_name": "LIPOSORBER(R) LA-15 SYSTEM ADSORPTION COLUMN, SULFUX(R) FS-05 PLASMA SEPARATOR, AND TUB. SYST. FOR PLASMAPHER. (LT-MA2).",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-03-05 00:00:00"
+    },
+    {
+      "trade_name": "KONECT RESILIA Aortic Valved Conduit",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-04 00:00:00"
+    },
+    {
+      "trade_name": "DETOUR System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-03-03 00:00:00"
+    },
+    {
+      "trade_name": "CALCIVIS Imaging System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-03-03 00:00:00"
+    },
+    {
+      "trade_name": "Interface Cable for Multi-Electrode Ablation Catheters (nMARQ)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-26 00:00:00"
+    },
+    {
+      "trade_name": "Interface Cable for Multi-Electrode Ablation Catheters (nMARQ)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-26 00:00:00"
+    },
+    {
+      "trade_name": "Interface Cable for Multi-Electrode Ablation Catheters (nMARQ)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-26 00:00:00"
+    },
+    {
+      "trade_name": "NAVISTAR Electrophysiology Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-25 00:00:00"
+    },
+    {
+      "trade_name": "Thermocool Deflectable Diagnostic/ Ablation Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-25 00:00:00"
+    },
+    {
+      "trade_name": "INTEGRA DERMAL REGENERATION TEMPLATE",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-02-24 00:00:00"
+    },
+    {
+      "trade_name": "iStent inject\u00ae W Trabecular Micro-Bypass System Model iS2",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-24 00:00:00"
+    },
+    {
+      "trade_name": "IMMULITE\u00ae 2000 Prostate-Specific Antigen (PSA)",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-02-21 00:00:00"
+    },
+    {
+      "trade_name": "EDWARDS INTUITY Elite Valve System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-20 00:00:00"
+    },
+    {
+      "trade_name": "RX Acculink Carotid Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-20 00:00:00"
+    },
+    {
+      "trade_name": "Masters Series Mechanical Heart Valve, Regent Mechanical Heart Valve, Masters Series Aortic Valved Graft with Hemashield",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-20 00:00:00"
+    },
+    {
+      "trade_name": "CollaCote, CollaTape, CollaPlug Absorbable Collagen Wound Dressings for Dental Surgery",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-02-18 00:00:00"
+    },
+    {
+      "trade_name": "EVOLYSSE\u0099 SMOOTH and EVOLYSSE\u0099 FORM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-02-13 00:00:00"
+    },
+    {
+      "trade_name": "WRAPSODY Cell-Impermeable Endoprosthesis",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-02-12 00:00:00"
+    },
+    {
+      "trade_name": "PyloPlus UBT System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-02-12 00:00:00"
+    },
+    {
+      "trade_name": "Puregraft Serene Breast Implant, IDEAL IMPLANT Structured Breast Implant",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-02-11 00:00:00"
+    },
+    {
+      "trade_name": "Quantel Activis Laser, Modulight ML6710i Laser and ML-SLA, ZSL30 ACT, ZSL120 ACT, and HSBMBQ ACT Slit Lamp Adapters",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-02-11 00:00:00"
+    },
+    {
+      "trade_name": "Duo Venous Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-11 00:00:00"
+    },
+    {
+      "trade_name": "Guardant360 CDx",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-02-07 00:00:00"
+    },
+    {
+      "trade_name": "TENEO 317 Model 2",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-02-06 00:00:00"
+    },
+    {
+      "trade_name": "WOLVERINE\u0099 Coronary Cutting Balloon\u0099",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-02-05 00:00:00"
+    },
+    {
+      "trade_name": "Invenia ABUS Premium, Invenia ABUS Prime",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2025-02-04 00:00:00"
+    },
+    {
+      "trade_name": "Tula\u00ae System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-01-31 00:00:00"
+    },
+    {
+      "trade_name": "AeroPace\u00ae System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-01-30 00:00:00"
+    },
+    {
+      "trade_name": "UroVysion Bladder Cancer Kit",
+      "surgical_specialty": "urology",
+      "decision_date": "2025-01-29 00:00:00"
+    },
+    {
+      "trade_name": "Avive Automated External Defibrillator (AED) System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-01-29 00:00:00"
+    },
+    {
+      "trade_name": "cobas EGFR Mutation Test v2",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-01-27 00:00:00"
+    },
+    {
+      "trade_name": "CELT ACD PLUS Vascular Closure Device",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-01-24 00:00:00"
+    },
+    {
+      "trade_name": "Zenith Alpha Thoracic Endovascular Graft",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-01-23 00:00:00"
+    },
+    {
+      "trade_name": "MediBeacon\u00ae Transdermal GFR Measurement System (TGFR)",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-01-17 00:00:00"
+    },
+    {
+      "trade_name": "therascreen\u00ae KRAS RGQ PCR Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-01-16 00:00:00"
+    },
+    {
+      "trade_name": "WaveLight EX500 Laser System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-01-16 00:00:00"
+    },
+    {
+      "trade_name": "FoundationOne CDx",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2025-01-16 00:00:00"
+    },
+    {
+      "trade_name": "Healon EndoCoat\u00ae Ophthalmic Viscosurgical Device (OVD) (3% Sodium Hyaluronate)",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2025-01-15 00:00:00"
+    },
+    {
+      "trade_name": "OPRA\u0099 Implant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-01-15 00:00:00"
+    },
+    {
+      "trade_name": "Vascular Closure System (VCS)-VASCADE 5F Vascular Closure System, VASCADE 6/7F Vascular Closure System, VASCADE MVP Veno",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-01-15 00:00:00"
+    },
+    {
+      "trade_name": "Belotero Balance Dermal Filler, Belotero Balance (+) Lidocaine",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-01-15 00:00:00"
+    },
+    {
+      "trade_name": "PROMUS Element\u0099 PLUS, PREMIER\u0099, ELITE\u0099 Everolimus-Eluting Platinum Chromium Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-01-14 00:00:00"
+    },
+    {
+      "trade_name": "ELUVIA\u0099 Drug-Eluting Vascular Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2025-01-14 00:00:00"
+    },
+    {
+      "trade_name": "BIRMINGHAM HIP\u0099 RESURFACING (BHR) SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2025-01-10 00:00:00"
+    },
+    {
+      "trade_name": "Mara Water Vapor Ablation System",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2025-01-07 00:00:00"
+    },
+    {
+      "trade_name": "MANTA\u0099 Vascular Closure Device",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2025-01-03 00:00:00"
+    },
+    {
+      "trade_name": "Lumicell Direct Visualization System (DVS)",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2025-01-03 00:00:00"
+    },
+    {
+      "trade_name": "Apollo\u0099 Onyx\u0099 Delivery Micro Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-19 00:00:00"
+    },
+    {
+      "trade_name": "ENROUTE\u00ae Transcarotid Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-18 00:00:00"
+    },
+    {
+      "trade_name": "FoundationOne Liquid CDx (F1 Liquid CDx)",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-12-18 00:00:00"
+    },
+    {
+      "trade_name": "INNOVA Self Expanding Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-17 00:00:00"
+    },
+    {
+      "trade_name": "Implantable Miniature Telescope (IMT)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-12-17 00:00:00"
+    },
+    {
+      "trade_name": "NATRELLE Saline-Filled Breast Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-12-16 00:00:00"
+    },
+    {
+      "trade_name": "NATRELLE Silicone-Filled Breast Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-12-16 00:00:00"
+    },
+    {
+      "trade_name": "Amplatzer\u0099 Muscular VSD Occluder",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-13 00:00:00"
+    },
+    {
+      "trade_name": "Amplatzer\u0099 PFO Occluder, Amplatzer\u0099 Talisman\u0099 PFO Occluder",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-13 00:00:00"
+    },
+    {
+      "trade_name": "Cerene Cryotherapy Device",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2024-12-12 00:00:00"
+    },
+    {
+      "trade_name": "Venovo Venous Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-06 00:00:00"
+    },
+    {
+      "trade_name": "LifeStream Balloon Expandable Vascular Covered Stent",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-12-06 00:00:00"
+    },
+    {
+      "trade_name": "Rapid fFN Cassette Kit for the TLiIQ System, Rapid fFN Control for the TLiIQ System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-12-06 00:00:00"
+    },
+    {
+      "trade_name": "therascreen FGFR RGQ PCR Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-12-06 00:00:00"
+    },
+    {
+      "trade_name": "Zephyr Endobronchial Valve System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-12-04 00:00:00"
+    },
+    {
+      "trade_name": "Filshie Clip (Mark VI) System",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2024-12-03 00:00:00"
+    },
+    {
+      "trade_name": "LDR Spine Mobi-C Cervical Disc Prosthesis",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-12-02 00:00:00"
+    },
+    {
+      "trade_name": "LDR Spine Mobi-C Cervical Disc Prosthesis",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-12-02 00:00:00"
+    },
+    {
+      "trade_name": "ANGIO-SEAL VIP Vascular Closure Device",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-11-26 00:00:00"
+    },
+    {
+      "trade_name": "EPIC SELF-EXPANDING NITINOL STENT SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-11-26 00:00:00"
+    },
+    {
+      "trade_name": "A209 SICD Gen 2, A219 SICD MRI",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-11-25 00:00:00"
+    },
+    {
+      "trade_name": "GEM 21S",
+      "surgical_specialty": "dental_surgery",
+      "decision_date": "2024-11-22 00:00:00"
+    },
+    {
+      "trade_name": "Motiva SmoothSilk Round Ergonomix Silicone Gel-Filled Breast Implants, Motiva SmoothSilk Round Silicone Gel-Filled Breas",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-11-22 00:00:00"
+    },
+    {
+      "trade_name": "IsoMed Infusion System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-11-22 00:00:00"
+    },
+    {
+      "trade_name": "Philips Laser System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-11-21 00:00:00"
+    },
+    {
+      "trade_name": "Carotid Wallstent Monorail Endoprosthesis",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-11-19 00:00:00"
+    },
+    {
+      "trade_name": "Neuroguard IEP\u00ae 3-in-1 Carotid Stent, Post-Dilatation Balloon System with Integrated Embolic Protection",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-11-15 00:00:00"
+    },
+    {
+      "trade_name": "Artisan Myopia",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-11-15 00:00:00"
+    },
+    {
+      "trade_name": "MISAGO RX Self-expanding Peripheral Stent System, R2P MISAGO RX Self-expanding Peripheral Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-11-14 00:00:00"
+    },
+    {
+      "trade_name": "ActaStim-S Spine Fusion Stimulator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-11-13 00:00:00"
+    },
+    {
+      "trade_name": "SCULPTRA (injectable poly-L Lactic acid)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-11-13 00:00:00"
+    },
+    {
+      "trade_name": "Xstim Spine Fusion Stimulator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-11-12 00:00:00"
+    },
+    {
+      "trade_name": "Superion Indirect Decompression System (IDS) System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-11-07 00:00:00"
+    },
+    {
+      "trade_name": "AvertD and AvertD Buccal Sample Collection Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-11-07 00:00:00"
+    },
+    {
+      "trade_name": "DuraSeal Exact Spine Sealant System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-10-30 00:00:00"
+    },
+    {
+      "trade_name": "DuraSeal Dural Sealant System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-10-30 00:00:00"
+    },
+    {
+      "trade_name": "Organ Care System (OCS) Heart System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-10-23 00:00:00"
+    },
+    {
+      "trade_name": "Epic Plus, Epic Max Tissue Heart Valves",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-10-17 00:00:00"
+    },
+    {
+      "trade_name": "Oncomine Dx Target Test",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-10-17 00:00:00"
+    },
+    {
+      "trade_name": "VisuMax Femtosecond Laser",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-10-16 00:00:00"
+    },
+    {
+      "trade_name": "Organ Care System\u0099 (OCS\u0099) Lung",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-10-11 00:00:00"
+    },
+    {
+      "trade_name": "MFK IOL",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-10-11 00:00:00"
+    },
+    {
+      "trade_name": "HQL Softec HD, Softec I, Softec HD PS, Softec HDO, Softec HDM",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-10-11 00:00:00"
+    },
+    {
+      "trade_name": "cobas\u00ae EZH2 Mutation Test",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-10-10 00:00:00"
+    },
+    {
+      "trade_name": "samaritan\u00ae PAD 350P (SAM 350P), samaritan\u00ae PAD 360P (SAM 360P), samaritan\u00ae PAD 450P (SAM 450P), Pad-Paks (Adult, Pediatr",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-10-09 00:00:00"
+    },
+    {
+      "trade_name": "MyChoice\u00ae CDx",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-10-04 00:00:00"
+    },
+    {
+      "trade_name": "AFX2 Endovascular AAA System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-09-27 00:00:00"
+    },
+    {
+      "trade_name": "Alto Abdominal Stent Graft System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-09-27 00:00:00"
+    },
+    {
+      "trade_name": "LeukoStrat CDx FLT3 Mutation Assay",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-09-27 00:00:00"
+    },
+    {
+      "trade_name": "ONCO/Reveal Dx Lung & Colon Cancer Assay (O/RDx-LCCA)",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-09-27 00:00:00"
+    },
+    {
+      "trade_name": "Novoste\u0099 Beta-Cath\u0099 System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-09-26 00:00:00"
+    },
+    {
+      "trade_name": "MAMMOMAT B.brilliant with Tomosynthesis Option",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2024-09-23 00:00:00"
+    },
+    {
+      "trade_name": "Woven EndoBridge Aneurysm Embolization (WEB) System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-09-23 00:00:00"
+    },
+    {
+      "trade_name": "Hintermann Series H3 Total Ankle Replacement System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-09-20 00:00:00"
+    },
+    {
+      "trade_name": "SpF\u00ae Implantable Spinal Fusion Stimulators",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-09-20 00:00:00"
+    },
+    {
+      "trade_name": "Omnilink Elite Vascular Balloon-Expandable Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-09-20 00:00:00"
+    },
+    {
+      "trade_name": "Simplera (TM) System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-09-17 00:00:00"
+    },
+    {
+      "trade_name": "BD PrepStain System, BD Totalys MultiProcessor, BD Totalys SlidePre, BD SurePath Liquid-based Pap Test",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-09-06 00:00:00"
+    },
+    {
+      "trade_name": "NovaSure Impedance Controlled Endometrial Ablation System",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2024-09-06 00:00:00"
+    },
+    {
+      "trade_name": "PALMAZ MULLINS XD Pulmonary Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-09-05 00:00:00"
+    },
+    {
+      "trade_name": "Spectranetics Laser Sheath (GlideLight/SLS)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-09-05 00:00:00"
+    },
+    {
+      "trade_name": "Access Hybritech PSA",
+      "surgical_specialty": "urology",
+      "decision_date": "2024-09-04 00:00:00"
+    },
+    {
+      "trade_name": "Lutonix Drug Coated Balloon PTA Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-29 00:00:00"
+    },
+    {
+      "trade_name": "ResQCPR System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-22 00:00:00"
+    },
+    {
+      "trade_name": "Flow Re-Direction Endoluminal Device (FRED\u00ae) System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-08-21 00:00:00"
+    },
+    {
+      "trade_name": "Low-Profile Visualized Intraluminal Support (LVIS), LVIS Jr",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-21 00:00:00"
+    },
+    {
+      "trade_name": "Revanesse Versa; Revanesse Versa+ with Lidocaine, Revanesse Versa+ with Lidocaine 1.2 mL, Revanesse\u00ae Versa\u0099 1.2 mL, Reva",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-08-20 00:00:00"
+    },
+    {
+      "trade_name": "M6-C Artificial Cervical Disc",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-08-19 00:00:00"
+    },
+    {
+      "trade_name": "Spiration\u00ae Valve System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-16 00:00:00"
+    },
+    {
+      "trade_name": "Optilume\u0099 BPH Catheter System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-15 00:00:00"
+    },
+    {
+      "trade_name": "Guardian\u00ae System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-14 00:00:00"
+    },
+    {
+      "trade_name": "Prestige LP (R) Cervical Disc",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-08-09 00:00:00"
+    },
+    {
+      "trade_name": "iDESIGN Refractive Studio, STAR S4 IR Excimer Laser System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-08-09 00:00:00"
+    },
+    {
+      "trade_name": "Stellarex 0.035 OTW Drug-Coated Angioplasty Balloon",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-07 00:00:00"
+    },
+    {
+      "trade_name": "DiamondTemp Ablation System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-06 00:00:00"
+    },
+    {
+      "trade_name": "Lacrosse NSE ALPHA Coronary Dilatation Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-08-02 00:00:00"
+    },
+    {
+      "trade_name": "Visi-Pro\u0099 Balloon-expandable Peripheral Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-07-26 00:00:00"
+    },
+    {
+      "trade_name": "RelayPlus Thorade Stent Graft System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2024-07-24 00:00:00"
+    },
+    {
+      "trade_name": "Latitude\u0099 NXT Patient Management System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-07-18 00:00:00"
+    },
+    {
+      "trade_name": "Restylane\u00ae Contour",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-07-17 00:00:00"
+    },
+    {
+      "trade_name": "Minitouch 3.8 Era System (Minitouch System)",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2024-07-16 00:00:00"
+    },
+    {
+      "trade_name": "Envision Mammography Platform",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2024-07-05 00:00:00"
+    },
+    {
+      "trade_name": "Barricaid\u00ae Annular Closure Device - Model Number BAR-A8-8MM (2730815-A&), Barricaid\u00ae Annular Closure Device - Model Numb",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-07-03 00:00:00"
+    },
+    {
+      "trade_name": "Magtrace\u00ae and Sentimag\u00ae Magnetic Locatization System (PUV)",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-07-03 00:00:00"
+    },
+    {
+      "trade_name": "RF Catheter Cables",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-07-01 00:00:00"
+    },
+    {
+      "trade_name": "INOUE BALLOON CATHETER",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-07-01 00:00:00"
+    },
+    {
+      "trade_name": "WALLSTENT\u0099 ILIAC RP Endoprosthesis",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-06-27 00:00:00"
+    },
+    {
+      "trade_name": "Wallstent TIPS Endoprosthesis with Unistep Plus Delivery System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-06-27 00:00:00"
+    },
+    {
+      "trade_name": "Wallstent Venous Endoprosthesis with Unistep Plus Delivery System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-06-27 00:00:00"
+    },
+    {
+      "trade_name": "PMMA Single-Piece Anterior Chamber IOL",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-06-20 00:00:00"
+    },
+    {
+      "trade_name": "PMMA Multiple and Single-Piece Posterior Chamber IOLs",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-06-20 00:00:00"
+    },
+    {
+      "trade_name": "PMMA Multiple and Single-Piece Posterior Chamber IOLs",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-06-20 00:00:00"
+    },
+    {
+      "trade_name": "Perfluoron",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-06-11 00:00:00"
+    },
+    {
+      "trade_name": "Silikon 1000",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2024-06-03 00:00:00"
+    },
+    {
+      "trade_name": "Deflux\u00ae Injectable Gel",
+      "surgical_specialty": "urology",
+      "decision_date": "2024-05-31 00:00:00"
+    },
+    {
+      "trade_name": "Roche cobas KRAS Mutation Test, Roche cobas\u00ae DNA Sample Preparation Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-05-15 00:00:00"
+    },
+    {
+      "trade_name": "Zilver Vena\u00ae Venous Self-Expanding Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-05-14 00:00:00"
+    },
+    {
+      "trade_name": "Hancock Valved Conduit",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-04-22 00:00:00"
+    },
+    {
+      "trade_name": "Myopore\u00ae Sutureless Myocardial Pacing Lead",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-04-19 00:00:00"
+    },
+    {
+      "trade_name": "SoftVue\u0099 Automated Whole Breast Ultrasound System with Sequr\u0099 Breast Interface",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2024-04-11 00:00:00"
+    },
+    {
+      "trade_name": "Roche cobas 4800 BRAF V600 Mutation Test",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-04-11 00:00:00"
+    },
+    {
+      "trade_name": "iStent\u00ae Trabecular Mjcro-Bypass Stent System, Model GTS100",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-03-28 00:00:00"
+    },
+    {
+      "trade_name": "Ascension MCP",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-03-20 00:00:00"
+    },
+    {
+      "trade_name": "Scandinavian Total Ankle Replacement (STAR)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-03-13 00:00:00"
+    },
+    {
+      "trade_name": "Express LD Iliac Premounted Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-03-13 00:00:00"
+    },
+    {
+      "trade_name": "On-X Prosthetic Heart Valve",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-03-05 00:00:00"
+    },
+    {
+      "trade_name": "Biomet\u00ae SpinalPak\u00ae Non-invasive Spine Fusion Stimulator System, Biomet\u00ae OrthoPak\u00ae Non-invasive Bone Growth Stimulator Sy",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-02-29 00:00:00"
+    },
+    {
+      "trade_name": "Spatz3 Adjustable Balloon System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-02-29 00:00:00"
+    },
+    {
+      "trade_name": "LINX Reflux Management System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-02-22 00:00:00"
+    },
+    {
+      "trade_name": "activL Artificial Disc",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2024-01-26 00:00:00"
+    },
+    {
+      "trade_name": "INFORM HER2 Dual ISH DNA Probe Cocktail",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2024-01-26 00:00:00"
+    },
+    {
+      "trade_name": "Medical Adhesive Model 6517",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-01-19 00:00:00"
+    },
+    {
+      "trade_name": "Durasphere\u00ae Injectable Bulking Agent",
+      "surgical_specialty": "urology",
+      "decision_date": "2024-01-18 00:00:00"
+    },
+    {
+      "trade_name": "Bond\u0099 Oracle\u0099 HER2 IHC System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-01-17 00:00:00"
+    },
+    {
+      "trade_name": "G5 Mobile Continuous Glucose Monitoring System, G6 Continuous Glucose Monitoring System, G7 Continuous Glucose Monitorin",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2024-01-09 00:00:00"
+    },
+    {
+      "trade_name": "TZ Medical Defibrillation Electrodes, Accessory Cables, and Connectors",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2024-01-09 00:00:00"
+    },
+    {
+      "trade_name": "Restylane\u00ae Eyelight Injectable Gel",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-12-27 00:00:00"
+    },
+    {
+      "trade_name": "EXOGEN\u00ae Ultrasound Bone Healing System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-12-21 00:00:00"
+    },
+    {
+      "trade_name": "Powerheart\u00ae G5 AED",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-12-21 00:00:00"
+    },
+    {
+      "trade_name": "LIQUIFIX FIX8 Laparoscopic Hernia Mesh Fixation Device, LIQUIFIX Precision Open Hernia Mesh Fixation Device",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-12-14 00:00:00"
+    },
+    {
+      "trade_name": "Express\u00ae SD Renal Monorail Premounted Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-12-12 00:00:00"
+    },
+    {
+      "trade_name": "REBEL Platinum Chromium Coronary Stent System Monorail and Over the Wire",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-12-12 00:00:00"
+    },
+    {
+      "trade_name": "Chilli Cooled Rf Ablation System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-12-12 00:00:00"
+    },
+    {
+      "trade_name": "Solesta\u00ae Injectable Gel",
+      "surgical_specialty": "urology",
+      "decision_date": "2023-12-07 00:00:00"
+    },
+    {
+      "trade_name": "Open Pivot heart valve",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-11-07 00:00:00"
+    },
+    {
+      "trade_name": "Biomet EBI Bone Healing System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-10-26 00:00:00"
+    },
+    {
+      "trade_name": "iSert Preloaded IOL System: iSert 250, iSert 251, iSert 230, iSert 231, IPure\u0099 Preloaded IOL System / Model B1PC (Clear",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2023-10-25 00:00:00"
+    },
+    {
+      "trade_name": "Abbott RealTime IDH1",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-10-24 00:00:00"
+    },
+    {
+      "trade_name": "DML 3000 Microplate Luminometer, 5000-00031, digene\u00ae HC2 High-Risk HPV DNA Test (I plate), 5199-1220, digene\u00ae HC2 High-R",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-10-19 00:00:00"
+    },
+    {
+      "trade_name": "Koning Breast CT, KBCT (Model CBCT1000)",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2023-10-12 00:00:00"
+    },
+    {
+      "trade_name": "CT LUCIA 602, CT LUCIA 202",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2023-10-10 00:00:00"
+    },
+    {
+      "trade_name": "CRCDx RAS Mutation Detection Assay Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-09-29 00:00:00"
+    },
+    {
+      "trade_name": "Cross-Seal Suture-Mediated Vascular Closure Device System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2023-09-26 00:00:00"
+    },
+    {
+      "trade_name": "Lutonix Drug Coated Balloon PTA Catheter",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-09-07 00:00:00"
+    },
+    {
+      "trade_name": "IMMULITE\u00ae 1000 Free PSA, IMMULITE\u00ae 2000 Free PSA",
+      "surgical_specialty": "urology",
+      "decision_date": "2023-08-30 00:00:00"
+    },
+    {
+      "trade_name": "Chocolate Touch Paclitaxel Drug-Coated PTA Balloon Catheter (Chocolate Touch)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-08-16 00:00:00"
+    },
+    {
+      "trade_name": "HeartLight Catheter, HeartLight X3 Console V2",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-08-11 00:00:00"
+    },
+    {
+      "trade_name": "ID/SN Label",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-08-03 00:00:00"
+    },
+    {
+      "trade_name": "Agilent Resolution ctDx FIRST",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-07-27 00:00:00"
+    },
+    {
+      "trade_name": "LifeStent Vascular Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-07-27 00:00:00"
+    },
+    {
+      "trade_name": "Accessory, Stabilizer",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-07-21 00:00:00"
+    },
+    {
+      "trade_name": "Accessory, Wrench",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-07-21 00:00:00"
+    },
+    {
+      "trade_name": "therascreen PDGFRA RGQ PCR Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-06-29 00:00:00"
+    },
+    {
+      "trade_name": "therascreen BRAF V600E RGQ PCR Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-06-27 00:00:00"
+    },
+    {
+      "trade_name": "HeartSync Multifunction Disposable Single-Use AED Defibrillator Pads",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-06-23 00:00:00"
+    },
+    {
+      "trade_name": "Amvisc and Amvisc Plus Ophthalmic Viscosurgical Device (OVD)",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2023-06-22 00:00:00"
+    },
+    {
+      "trade_name": "MULTI-LINK VISION\u00ae RX Coronary Stent System, MULTI-LINK MINI VISION\u00ae RX Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-06-14 00:00:00"
+    },
+    {
+      "trade_name": "SECURE\u00ae-C Cervical Artificial Disc",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-06-12 00:00:00"
+    },
+    {
+      "trade_name": "OcuCoat 1ml syringe, OcuCoat ml syrince 6 pack, OcuCoat 2ml syringe",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2023-05-31 00:00:00"
+    },
+    {
+      "trade_name": "Macroplastique Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-05-09 00:00:00"
+    },
+    {
+      "trade_name": "LIFEPAK CR\u00ae Plus Defibrillator, LIFEPAK EXPRESS\u00ae Defibrillator, and LIFEPAK 1000\u00ae defibrillator",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-04-18 00:00:00"
+    },
+    {
+      "trade_name": "Svelte SLENDER\u00ae Sirolimus-Eluting Coronary Stent Integrated Delivery System (SLENDER IDS\u00ae), Svelte DIRECT Sirolimus-Elut",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2023-04-06 00:00:00"
+    },
+    {
+      "trade_name": "NeuRX Diaphragm Pacing System (DPS)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-03-31 00:00:00"
+    },
+    {
+      "trade_name": "FoundationOne Liquid CDx (F1 Liquid CDx)",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-03-08 00:00:00"
+    },
+    {
+      "trade_name": "FoundationOne Liquid CDx",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-03-08 00:00:00"
+    },
+    {
+      "trade_name": "StableVisc and TotalVisc Ophthalmic Viscosurgical Device (OVD)",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2023-02-22 00:00:00"
+    },
+    {
+      "trade_name": "Fluency\u0099 Endovascular Stent Graft",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2023-02-17 00:00:00"
+    },
+    {
+      "trade_name": "Praxis Extended RAS Panel",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2023-02-17 00:00:00"
+    },
+    {
+      "trade_name": "ASPIRE Cristalle Digital Breast Tomosynthesis (DBT) Option",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2023-02-13 00:00:00"
+    },
+    {
+      "trade_name": "VITROS Immunodiagnostic Products Anti-HBe Reagent Pack and Calibrator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-01-24 00:00:00"
+    },
+    {
+      "trade_name": "VITROS Immunodiagnostic Products HBeAg Reagent Pack and Calibrator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-01-24 00:00:00"
+    },
+    {
+      "trade_name": "VIRTIS SACRAL NEUROMODULATION SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2023-01-11 00:00:00"
+    },
+    {
+      "trade_name": "Cordis\u00ae PALMAZ\u00ae Balloon-Expandable Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-12-20 00:00:00"
+    },
+    {
+      "trade_name": "Access AFP Reagents on the Access Immunoassay Systems",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-12-16 00:00:00"
+    },
+    {
+      "trade_name": "Trifecta",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-12-14 00:00:00"
+    },
+    {
+      "trade_name": "EBI OsteoGen\u00ae Implantable Bone Growth Stimulators",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-11-23 00:00:00"
+    },
+    {
+      "trade_name": "Tack Endovascular System (4F, 1.5-4.5mm)",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2022-11-09 00:00:00"
+    },
+    {
+      "trade_name": "Duett Sealing Device (D-Stat Flowable)",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2022-11-04 00:00:00"
+    },
+    {
+      "trade_name": "Neuro Cochlear Implant System (NCIS)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-11-04 00:00:00"
+    },
+    {
+      "trade_name": "Vibrant Soundbridge System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-10-11 00:00:00"
+    },
+    {
+      "trade_name": "The Spanner Temporary Prostatic Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-10-07 00:00:00"
+    },
+    {
+      "trade_name": "BIOLON\u00ae",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2022-10-03 00:00:00"
+    },
+    {
+      "trade_name": "Tack Endovascular System (6F)",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2022-09-29 00:00:00"
+    },
+    {
+      "trade_name": "Resolute Integrity",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-09-29 00:00:00"
+    },
+    {
+      "trade_name": "CELLUGEL\u00ae Ophthalmic Viscosurgical Devices",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2022-09-22 00:00:00"
+    },
+    {
+      "trade_name": "Coloplast Saline-Filled Testicular Prosthesis (Torosa)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-09-16 00:00:00"
+    },
+    {
+      "trade_name": "MULTI-LINK RX ULTRA\u0099 Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-09-07 00:00:00"
+    },
+    {
+      "trade_name": "CardioGenesis TMR System",
+      "surgical_specialty": "vascular_surgery",
+      "decision_date": "2022-09-01 00:00:00"
+    },
+    {
+      "trade_name": "Esteem\u00ae Totally Implantable Hearing System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-08-24 00:00:00"
+    },
+    {
+      "trade_name": "PMMA Anterior Chamber Intraocular Lenses",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2022-08-09 00:00:00"
+    },
+    {
+      "trade_name": "Reflection Ceramic Hip System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-08-08 00:00:00"
+    },
+    {
+      "trade_name": "ISPAN Perfluoropropane C3F8 Gas",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2022-08-04 00:00:00"
+    },
+    {
+      "trade_name": "Solo Smart Heart Valve",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-07-28 00:00:00"
+    },
+    {
+      "trade_name": "Obalon Balloon System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-07-18 00:00:00"
+    },
+    {
+      "trade_name": "Integrity Coronary Stent Systems",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-07-15 00:00:00"
+    },
+    {
+      "trade_name": "NMP22 BladderChek Test",
+      "surgical_specialty": "urology",
+      "decision_date": "2022-07-12 00:00:00"
+    },
+    {
+      "trade_name": "BD FocalPoint GS Imaging System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-07-11 00:00:00"
+    },
+    {
+      "trade_name": "Imagio\u00ae Breast Imaging system",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2022-06-17 00:00:00"
+    },
+    {
+      "trade_name": "ConMed PadPro Multifunction Electrodes",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-06-16 00:00:00"
+    },
+    {
+      "trade_name": "PhysioStim\u00ae, SpinalStim\u00ae",
+      "surgical_specialty": "neurosurgery",
+      "decision_date": "2022-06-14 00:00:00"
+    },
+    {
+      "trade_name": "Genesys HTA System",
+      "surgical_specialty": "gynecology",
+      "decision_date": "2022-05-26 00:00:00"
+    },
+    {
+      "trade_name": "Bard E- Luminexx Vascular Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-05-26 00:00:00"
+    },
+    {
+      "trade_name": "BioFreedom Drug Coated Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2022-04-14 00:00:00"
+    },
+    {
+      "trade_name": "Abbott RealTime IDH2 Amplification Reagent Kit, Abbott RealTime IDH2 Control Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-04-11 00:00:00"
+    },
+    {
+      "trade_name": "Trulign\u00ae Toric Posterior Chamber Intraocular Lens (IOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2022-04-08 00:00:00"
+    },
+    {
+      "trade_name": "MarginProbe System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-04-06 00:00:00"
+    },
+    {
+      "trade_name": "Agili-C",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-03-29 00:00:00"
+    },
+    {
+      "trade_name": "PathVysion HER-2 DNA Probe Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-03-18 00:00:00"
+    },
+    {
+      "trade_name": "PHOTOFRIN 630 PDT Laser",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-03-02 00:00:00"
+    },
+    {
+      "trade_name": "Alair Bronchial Thermoplasty System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2022-02-18 00:00:00"
+    },
+    {
+      "trade_name": "Sofport\u00ae Advanced Optics Posterior Chamber Intraocular Lens (IOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2022-01-19 00:00:00"
+    },
+    {
+      "trade_name": "Raindrop\u00ae Near Vision Inlay",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2022-01-04 00:00:00"
+    },
+    {
+      "trade_name": "Ophthalin, Anikavisc, Nuvisc",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2021-12-22 00:00:00"
+    },
+    {
+      "trade_name": "THXID\u0099-BRAF",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2021-12-20 00:00:00"
+    },
+    {
+      "trade_name": "G-Armor Stent, G-Armor Covered Stent, G-Armor Mounted Stent, G-Armor Covered Mounted Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-12-13 00:00:00"
+    },
+    {
+      "trade_name": "Cartiva Synthetic Cartilage Implant (SCI)",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2021-12-10 00:00:00"
+    },
+    {
+      "trade_name": "ADATO Sil-Ol 5000 Silicone Oil",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2021-12-02 00:00:00"
+    },
+    {
+      "trade_name": "ReSure Sealant",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2021-11-02 00:00:00"
+    },
+    {
+      "trade_name": "COBRA PzF NanoCoated Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-10-12 00:00:00"
+    },
+    {
+      "trade_name": "ACUITY STEERABLE LEAD SYSTEM",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-09-24 00:00:00"
+    },
+    {
+      "trade_name": "Implantable System for Remodulin",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2021-08-31 00:00:00"
+    },
+    {
+      "trade_name": "AutoDELFIA hAFP Test System",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2021-08-11 00:00:00"
+    },
+    {
+      "trade_name": "NATRELLE Highly Cohesive Anatomically Shaped Silicone-Filled Breast Implants",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2021-07-26 00:00:00"
+    },
+    {
+      "trade_name": "Collamer Intraocular Lens (CIOL)",
+      "surgical_specialty": "ophthalmology",
+      "decision_date": "2021-07-19 00:00:00"
+    },
+    {
+      "trade_name": "therascreen EGFR RGQ PCR Kit",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2021-07-07 00:00:00"
+    },
+    {
+      "trade_name": "ProstaLund CoreTherm System Microwave Thermotherapy for BPH",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2021-06-30 00:00:00"
+    },
+    {
+      "trade_name": "VICI VENOUS STENT System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-06-29 00:00:00"
+    },
+    {
+      "trade_name": "Falope Ring Band and Applicator Systems",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2021-05-19 00:00:00"
+    },
+    {
+      "trade_name": "DELTA/VISTA",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-04-02 00:00:00"
+    },
+    {
+      "trade_name": "SELUTE Lead System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-04-02 00:00:00"
+    },
+    {
+      "trade_name": "COSMOS System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-04-02 00:00:00"
+    },
+    {
+      "trade_name": "VENTAK P",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-04-02 00:00:00"
+    },
+    {
+      "trade_name": "VIGOR DR/SR, DISCOVERY, and MERIDIAN",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-04-02 00:00:00"
+    },
+    {
+      "trade_name": "coflex Interlaminar Stabilization Device",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2021-03-31 00:00:00"
+    },
+    {
+      "trade_name": "LOTUS Edge Valve System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-03-30 00:00:00"
+    },
+    {
+      "trade_name": "XIENCE V Everolimus Eluting Coronary Stent System",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-03-24 00:00:00"
+    },
+    {
+      "trade_name": "ClearVisc Ophthalmic Viscosurgical Device (OVD)",
+      "surgical_specialty": "general_surgery",
+      "decision_date": "2021-03-23 00:00:00"
+    },
+    {
+      "trade_name": "Senographe Pristina 3D and SenoClaire",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2021-03-23 00:00:00"
+    },
+    {
+      "trade_name": "Edwards SAPIEN XT Transcatheter Heart Valve",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-03-19 00:00:00"
+    },
+    {
+      "trade_name": "OPTIGUIDE Cylindrical Fiber Optic",
+      "surgical_specialty": "other_surgery",
+      "decision_date": "2021-02-24 00:00:00"
+    },
+    {
+      "trade_name": "AED Battery Exchange (Models 9146-ABE, G5-ABE, 5070-ABE, FR3-ABE)",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2021-02-02 00:00:00"
+    },
+    {
+      "trade_name": "Vysis ALK Break Apart FISH Probe Kit",
+      "surgical_specialty": "plastic_surgery",
+      "decision_date": "2020-12-11 00:00:00"
+    },
+    {
+      "trade_name": "MAXUM System",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2020-10-28 00:00:00"
+    },
+    {
+      "trade_name": "VITROS Immunodiagnostic Products Anti-HBs Quantitative Reagent Pack and Calibrator",
+      "surgical_specialty": "orthopedic_surgery",
+      "decision_date": "2020-10-22 00:00:00"
+    },
+    {
+      "trade_name": "Tryton Side Branch Stent",
+      "surgical_specialty": "cardiac_surgery",
+      "decision_date": "2020-10-04 00:00:00"
+    }
+  ],
+  "high_impact_devices": [
+    {
+      "device_name": "Mitral Valve Repair Devices",
+      "generic_name": "Mitral valve repair devices",
+      "trade_name": "PASCAL Precision Transcatheter Valve Repair System",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 2,
+      "decision_date": "2025-07-25 00:00:00",
+      "applicant": "Edwards LifeSciences LLC"
+    },
+    {
+      "device_name": "Stimulator, Spinal-Cord, Totally Implanted For Pain Relief",
+      "generic_name": "Stimulator, spinal-cord, totally implanted for pain relief",
+      "trade_name": "Precision Spinal Cord Stimulator (SCS) Systems",
+      "surgical_specialty": "orthopedic_surgery",
+      "impact_score": 2,
+      "decision_date": "2025-06-25 00:00:00",
+      "applicant": "Boston Scientific Corp."
+    },
+    {
+      "device_name": "Processor, Cervical Cytology Slide, Automated",
+      "generic_name": "Processor, cervical cytology slide, automated",
+      "trade_name": "BD PrepStain System, BD Totalys MultiProcessor, BD Totalys SlidePre, BD SurePath Liquid-based Pap Test",
+      "surgical_specialty": "other_surgery",
+      "impact_score": 2,
+      "decision_date": "2024-09-06 00:00:00",
+      "applicant": "BD Diagnostic Systems"
+    },
+    {
+      "device_name": "Tissue Adhesive Internal Use",
+      "generic_name": "Tissue adhesive internal use",
+      "trade_name": "LIQUIFIX FIX8 Laparoscopic Hernia Mesh Fixation Device, LIQUIFIX Precision Open Hernia Mesh Fixation Device",
+      "surgical_specialty": "orthopedic_surgery",
+      "impact_score": 2,
+      "decision_date": "2023-12-14 00:00:00",
+      "applicant": "Advanced Medical Solutions Limited"
+    },
+    {
+      "device_name": "Digital Breast Tomosynthesis",
+      "generic_name": "Digital breast tomosynthesis",
+      "trade_name": "Senographe Pristina 3D and SenoClaire",
+      "surgical_specialty": "plastic_surgery",
+      "impact_score": 2,
+      "decision_date": "2021-03-23 00:00:00",
+      "applicant": "GE Healthcare"
+    },
+    {
+      "device_name": "Aid, Surgical, Viscoelastic",
+      "generic_name": "AID, SURGICAL, VISCOELASTIC",
+      "trade_name": "VISCOAT\u0099 Ophthalmic Viscosurgical Device, DISCOVISC\u0099 Ophthalmic Viscosurgical Device",
+      "surgical_specialty": "general_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-25 00:00:00",
+      "applicant": "ALCON LABORATORIES"
+    },
+    {
+      "device_name": "Aid, Surgical, Viscoelastic",
+      "generic_name": "AID, SURGICAL, VISCOELASTIC",
+      "trade_name": "PROVISC\u0099 Ophthalmic Viscosurgical Device",
+      "surgical_specialty": "general_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-25 00:00:00",
+      "applicant": "Alcon Research, Ltd."
+    },
+    {
+      "device_name": "Temporary Non-Roller Type Left Heart Support Blood Pump",
+      "generic_name": "Temporary non-roller type left heart support blood pump",
+      "trade_name": "Impella 2.5, Impella CP, Impella CP with SmartAssist, Impella 5.0, Impella 5.5 with SmartAssist, and Impella LD",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-25 00:00:00",
+      "applicant": "ABIOMED, INC."
+    },
+    {
+      "device_name": "Temporary Non-Roller Type Right Heart Support Blood Pump",
+      "generic_name": "Temporary non-roller type right heart support blood pump",
+      "trade_name": "Impella RP, Impella RP with SmartAssist, and Impella RP Flex with SmartAssist",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-25 00:00:00",
+      "applicant": "Abiomed, Inc."
+    },
+    {
+      "device_name": "Automated External Defibrillators (Non-Wearable)",
+      "generic_name": "Automated external defibrillators (non-wearable)",
+      "trade_name": "AED Plus and Fully Automatic AED Plus",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-24 00:00:00",
+      "applicant": "ZOLL MEDICAL CORPORATION"
+    },
+    {
+      "device_name": "Mitral Valve Repair Devices",
+      "generic_name": "Mitral valve repair devices",
+      "trade_name": "MitraClip G5 Delivery System",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-23 00:00:00",
+      "applicant": "Abbott Medical"
+    },
+    {
+      "device_name": "Wearable Automated External Defibrillator",
+      "generic_name": "Wearable automated external defibrillator",
+      "trade_name": "ASSURE Wearable Cardioverter Defibrillator (WCD) System",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-22 00:00:00",
+      "applicant": "Kestra Medical Technologies, Inc."
+    },
+    {
+      "device_name": "Stimulator, Electrical, Implanted, For Parkinsonian Tremor",
+      "generic_name": "Stimulator, electrical, implanted, for parkinsonian tremor",
+      "trade_name": "Activa\u0099 Deep Brain Stimulation Therapy System, Percept\u0099 PC BrainSense\u0099",
+      "surgical_specialty": "neurosurgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-22 00:00:00",
+      "applicant": "MEDTRONIC Inc."
+    },
+    {
+      "device_name": "Stimulator, Spinal-Cord, Totally Implanted For Pain Relief",
+      "generic_name": "Stimulator, spinal-cord, totally implanted for pain relief",
+      "trade_name": "Master Restore\u0099, Itrel\u0099, Synergy Intellis\u0099, Vanta\u0099 and Inceptiv\u0099 Spinal Cord Stimulation Systems and Pisces\u0099, Specify\u0099,",
+      "surgical_specialty": "orthopedic_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-22 00:00:00",
+      "applicant": "MEDTRONIC NEUROMODULATION"
+    },
+    {
+      "device_name": "Prosthesis, Knee, Patellofemorotibial, Semi-Constrained, Metal/Polymer, Mobile Bearing",
+      "generic_name": "Prosthesis, knee, patellofemorotibial, semi-constrained, metal/polymer, mobile bearing",
+      "trade_name": "LCS(R) TOTAL KNEE SYSTEM",
+      "surgical_specialty": "orthopedic_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-18 00:00:00",
+      "applicant": "DEPUY, INC."
+    },
+    {
+      "device_name": "Wearable Automated External Defibrillator",
+      "generic_name": "Wearable automated external defibrillator",
+      "trade_name": "LifeVest\u00ae Wearable Defibrillator",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-16 00:00:00",
+      "applicant": "ZOLL MANUFACTURING CORPORATION"
+    },
+    {
+      "device_name": "Implantable Cardioverter Defibrillator (Non-Crt)",
+      "generic_name": "Implantable cardioverter defibrillator (non-CRT)",
+      "trade_name": "Cobalt MRI ICD (DDPB3D1, DDPB3D4, DVPB3D1, DVPB3D4); Cobalt XT MRI ICD (DDPA2D1, DVPA2D1); Cobalt XT MRI ICD (DDPA2D4, D",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-15 00:00:00",
+      "applicant": "MEDTRONIC CARDIAC RHYTHM DISEASE MANAGEMENT"
+    },
+    {
+      "device_name": "Implantable Pulse Generator",
+      "generic_name": "Implantable pulse generator",
+      "trade_name": "OPTIMIZER Smart System",
+      "surgical_specialty": "orthopedic_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-15 00:00:00",
+      "applicant": "Impulse Dynamics (USA), Inc."
+    },
+    {
+      "device_name": "Implant, Dermal, For Aesthetic Use",
+      "generic_name": "Implant, dermal, for aesthetic use",
+      "trade_name": "RADIESSE (+) Lidocaine",
+      "surgical_specialty": "orthopedic_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-14 00:00:00",
+      "applicant": "MERZ NORTH AMERICA, INC"
+    },
+    {
+      "device_name": "Automated External Defibrillators (Non-Wearable)",
+      "generic_name": "Automated external defibrillators (non-wearable)",
+      "trade_name": "X Series\u00ae, R Series\u00ae, AED Pro\u00ae, AED 3\u0099 BLS Professional Defibrillators, Pro-Padz Radiotransparent Electrode, SurePower\u0099",
+      "surgical_specialty": "cardiac_surgery",
+      "impact_score": 1,
+      "decision_date": "2025-07-11 00:00:00",
+      "applicant": "ZOLL MEDICAL CORPORATION"
+    }
+  ]
+}
