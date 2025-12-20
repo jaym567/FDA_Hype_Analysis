@@ -67,6 +67,7 @@ class AnalysisRunner:
         self.email = email
         self.force_fetch = force_fetch
         self.limit = limit
+        self.verbose = True
         self.analyzer = None
         self.results = None
         self.summary_df = None

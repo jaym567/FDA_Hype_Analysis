@@ -1,0 +1,44 @@
+======================================================================
+COMPREHENSIVE STATISTICAL ANALYSIS RESULTS
+======================================================================
+
+Analysis Date: 2025-12-09 17:57:17
+Total Devices: 15
+
+SUMMARY STATISTICS
+----------------------------------------------------------------------
+Hype Score:
+  Mean: 0.038
+  Median: 0.000
+  Std Dev: 0.101
+  Min: 0.000
+  Max: 0.360
+
+Total Publications:
+  Mean: 1.333
+  Median: 0.000
+  Std Dev: 3.109
+  Min: 0.000
+  Max: 11.000
+
+Total Citations:
+  Mean: 33.200
+  Median: 0.000
+  Std Dev: 102.102
+  Min: 0.000
+  Max: 392.000
+
+Avg Citations:
+  Mean: 3.832
+  Median: 0.000
+  Std Dev: 10.022
+  Min: 0.000
+  Max: 35.636
+
+Num Bursts:
+  Mean: 0.133
+  Median: 0.000
+  Std Dev: 0.352
+  Min: 0.000
+  Max: 1.000
+

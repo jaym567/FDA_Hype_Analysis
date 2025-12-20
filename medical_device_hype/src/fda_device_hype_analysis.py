@@ -1022,8 +1022,9 @@ class FDADeviceHypeAnalyzer:
         efficiency = efficiency.replace([np.inf, -np.inf], np.nan).fillna(0)
         
         if len(df_clean) > 0 and efficiency.max() > 0:
-            top_efficiency = df_clean.nlargest(min(10, len(df_clean)), efficiency)
-            efficiency_values = top_efficiency['total_citations'] / (top_efficiency['total_publications'] + 1)
+            df_clean['efficiency'] = efficiency
+            top_efficiency = df_clean.nlargest(min(10, len(df_clean)), 'efficiency')
+            efficiency_values = top_efficiency['efficiency']
             efficiency_values = efficiency_values.replace([np.inf, -np.inf], np.nan).fillna(0)
             
             bars = ax6.barh(range(len(top_efficiency)), efficiency_values,
