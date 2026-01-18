@@ -1,0 +1,38 @@
+Loading data/fda_pma_comprehensive.json...
+Loaded 1178 records.
+
+--- STATISTICS ---
+{
+  "total": 1178,
+  "excluded_pattern": 295,
+  "no_keyword_match": 259,
+  "passed_first_filter": 624,
+  "failed_specific_filter": 0,
+  "final_passed": 624
+}
+
+--- EXCLUDED BY PATTERN (SAMPLE) ---
+Excluded: analyzer | analyzer, medical image analyzer, medical image image checker myn
+Excluded: test | test, hepatitis b (b antigen, b surface antigen, be antigen) test, hepatitis b (b antigen, b surface
+Excluded: drug | drug eluting permanent right ventricular (rv) or right atrial (ra) pacemaker electrodes drug eluting
+Excluded: mri | implantable pulse generator, pacemaker (non-crt) implantable pulse generator, pacemaker (non-crt) ca
+Excluded: test | assay, hybridization and/or nucleic acid amplification for detection of hepatitis c rna,hepatitis c 
+Excluded: test | cytomegalovirus (cmv) dna quantitative assay cytomegalovirus (cmv) dna quantitative assay cobas ampl
+Excluded: monitor | pulse generator, permanent, implantable pulse generator, permanent, implantable medtronics carelink 
+Excluded: mri | implantable cardioverter defibrillator (non-crt) implantable cardioverter defibrillator (non-crt) ev
+Excluded: drug | coronary drug-eluting stent coronary drug-eluting stent ion paclitaxel-eluting platinum chronium cor
+Excluded: imaging | sensor, electro-optical (for cervical cancer) sensor, electro-optical (for cervical cancer) luma cer
+
+--- FAILED SPECIFIC FILTER (SAMPLE) ---
+
+--- PASSED (SAMPLE) ---
+Passed: implantable cardioverter defibrillator (non-crt) i
+Passed: stimulator, electrical, implantable, for incontine
+Passed: catheter, angioplasty, peripheral, transluminal ca
+Passed: stimulator, spinal-cord, totally implanted for pai
+Passed: stent, superficial femoral artery stent, superfici
+Passed: implanted diaphragmatic/phrenic nerve stimulator i
+Passed: defibrillator, implantable, dual-chamber defibrill
+Passed: implantable cardioverter defibrillator (non-crt) i
+Passed: catheter, percutaneous, cardiac ablation, for trea
+Passed: ventricular (assist) bypass ventricular (assist) b

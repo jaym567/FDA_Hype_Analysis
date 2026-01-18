@@ -1,18 +1,24 @@
 FDA Device Hype Analysis - Statistics Report
 ==================================================
 
-Analysis Date: 2025-12-09 17:57:19
-Total Devices Analyzed: 15
-Average Hype Score: 0.038
-Median Hype Score: 0.000
-Highest Hype Score: 0.360
+Analysis Date: 2026-01-17 16:24:01
+Total Devices Analyzed: 318
+Average Hype Score: 0.146
+Median Hype Score: 0.008
+Highest Hype Score: 0.791
 Lowest Hype Score: 0.000
-Standard Deviation: 0.101
+Standard Deviation: 0.197
 
 Device Type Analysis:
 --------------------
-                count      mean       std
-device_type                              
-Cardiovascular      3  0.000000  0.000000
-Imaging             2  0.000000  0.000000
-Other              10  0.057268  0.120806
+                           count      mean       std
+device_type                                         
+Cardiovascular                48  0.116923  0.175236
+Diabetes Management            5  0.022100  0.049417
+Diagnostic                    15  0.234545  0.240220
+Imaging                       45  0.108695  0.177349
+Neuromodulation                7  0.276159  0.240419
+Orthopedic                    19  0.229096  0.246976
+Other                        173  0.145957  0.191358
+Therapeutic                    5  0.131933  0.295012
+Ventricular Assist Device      1  0.000000       NaN

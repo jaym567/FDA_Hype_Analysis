@@ -461,14 +461,15 @@ class FDADeviceHypeAnalyzer:
         
         return pd.DataFrame(publications)
     
-    def kleinberg_burst_detection(self, time_series, gamma=0.5, s=2):
+    def kleinberg_burst_detection(self, time_series, gamma=1.0, s=2.0, n_states=2):
         """
-        Implement Kleinberg's burst detection algorithm
+        Implement Kleinberg's burst detection algorithm using Poisson-based HMM
         
         Args:
             time_series (list): List of (time, count) tuples
-            gamma (float): Cost parameter for state transitions
-            s (int): Number of states (0=normal, 1=burst)
+            gamma (float): Cost parameter for state transitions (higher = harder to switch)
+            s (float): Scaling factor for burst states (activity multiplier)
+            n_states (int): Number of states (0=normal, 1=burst, etc.)
             
         Returns:
             list: Burst periods with start, end, and intensity
@@ -476,94 +477,165 @@ class FDADeviceHypeAnalyzer:
         if len(time_series) < 2:
             return []
         
-        if self.verbose:
-            console.print(f"🔍 [bold]Running Kleinberg Burst Detection[/bold]")
-            console.print(f"⚙️ Parameters: γ={gamma}, states={s}")
-        
         # Sort by time
         time_series = sorted(time_series, key=lambda x: x[0])
         times, counts = zip(*time_series)
+        counts = np.array(counts, dtype=float)
         
-        # Initialize state machine
-        n = len(times)
-        states = np.zeros((n, s), dtype=float)
-        transitions = np.zeros((n, s, s), dtype=float)
+        # 1. Parameter Estimation
+        T = len(counts)       # Total time steps
+        R = np.sum(counts)    # Total events
+        if R == 0:
+            return []
+            
+        # Expected rate (lambda_0) = total events / total duration
+        # Using T for yearly duration
+        lambda_0 = R / T
         
-        # Forward pass
-        for i in range(n):
-            for j in range(s):
-                if i == 0:
-                    states[i, j] = 0
-                else:
-                    # Transition costs
-                    for k in range(s):
-                        cost = gamma if j > k else 0
-                        states[i, j] = max(states[i, j], 
-                                         states[i-1, k] + self._emission_prob(counts[i], j) - cost)
+        if lambda_0 == 0:
+            return []
+            
+        # Define rates for each state: lambda_i = lambda_0 * s^i
+        # State 0: Normal (lambda_0)
+        # State 1: Burst (lambda_0 * s)
+        lambdas = [lambda_0 * (s ** i) for i in range(n_states)]
         
-        # Backward pass to find optimal path
-        path = []
-        current_state = np.argmax(states[-1])
+        if self.verbose:
+            console.print(f"🔍 [bold]Running Kleinberg Burst Detection[/bold]")
+            console.print(f"⚙️ Parameters: γ={gamma}, s={s}, n_states={n_states}")
+            console.print(f"📊 Baseline Rate: {lambda_0:.4f} pubs/year")
+            console.print(f"🔥 Burst Rate (State 1): {lambdas[1]:.4f} pubs/year")
+
+        # 2. Initialization
+        # C[t, i] is the minimum cost to reach state i at time t
+        C = np.full((T, n_states), np.inf)
+        # P[t, i] stores the previous state that led to C[t, i]
+        P = np.zeros((T, n_states), dtype=int)
         
-        for i in range(n-1, -1, -1):
-            path.append((times[i], current_state))
-            if i > 0:
-                # Find previous state
-                best_prev = 0
-                best_score = float('-inf')
-                for j in range(s):
-                    cost = gamma if current_state > j else 0
-                    score = states[i-1, j] + self._emission_prob(counts[i], current_state) - cost
-                    if score > best_score:
-                        best_score = score
-                        best_prev = j
-                current_state = best_prev
+        # Initial costs (start in state 0 with cost 0, others infinite)
+        # Using negative log-likelihood of Poisson emission for t=0
+        # Cost(emit) = -ln(P(count|lambda)) ≈ lambda - count * ln(lambda) (ignoring constants)
+        def emission_cost(r, lam):
+            if lam <= 0: return np.inf
+            # Poisson cost function (negative log likelihood)
+            return lam - r * np.log(lam)
+
+        # Transition cost function
+        def transition_cost(i, j):
+            if j <= i:
+                return 0  # No cost to drop down or stay
+            else:
+                return (j - i) * gamma * np.log(T)
         
-        path.reverse()
+        # Initialize t=0
+        for i in range(n_states):
+            if i == 0:
+                C[0, i] = emission_cost(counts[0], lambdas[i])
+            else:
+                # Infinite cost to start in a burst state (assumption)
+                C[0, i] = np.inf 
+
+        # 3. Viterbi Forward Pass
+        for t in range(1, T):
+            for j in range(n_states): # Current state
+                emit_c = emission_cost(counts[t], lambdas[j])
+                
+                # Find best previous state i
+                best_cost = np.inf
+                best_prev = -1
+                
+                for i in range(n_states): # Previous state
+                    trans_c = transition_cost(i, j)
+                    total_c = C[t-1, i] + trans_c + emit_c
+                    
+                    if total_c < best_cost:
+                        best_cost = total_c
+                        best_prev = i
+                
+                C[t, j] = best_cost
+                P[t, j] = best_prev
+
+        # 4. Backtracking (Find optimal path)
+        state_sequence = np.zeros(T, dtype=int)
         
-        # Extract burst periods
+        # Find minimum cost state at last time step
+        state_sequence[T-1] = np.argmin(C[T-1])
+        
+        for t in range(T-2, -1, -1):
+            state_sequence[t] = P[t+1, state_sequence[t+1]]
+            
+        # 5. Extract Burst Periods
         bursts = []
         in_burst = False
         burst_start = None
+        burst_level = 0
         
-        for time, state in path:
-            if state == 1 and not in_burst:  # Start of burst
-                in_burst = True
-                burst_start = time
-            elif state == 0 and in_burst:  # End of burst
-                in_burst = False
-                bursts.append({
-                    'start': burst_start,
-                    'end': time,
-                    'intensity': self._calculate_burst_intensity(time_series, burst_start, time)
-                })
-        
-        # Handle ongoing burst
+        for t, state in enumerate(state_sequence):
+            if state > 0:
+                if not in_burst:
+                    in_burst = True
+                    burst_start = times[t]
+                    burst_level = state
+                elif state != burst_level:
+                    # Change in burst intensity (nested burst), count as new phase or max
+                    # For simplicity, if we go 1 -> 2, we just treat it as continuing burst
+                    # If we really want hierarchical, we'd structure differently.
+                    # Here we just track "In Burst" vs "Normal"
+                    burst_level = max(burst_level, state)
+            else:
+                if in_burst:
+                    in_burst = False
+                    # End of burst was previous year
+                    burst_end = times[t-1]
+                    burst_int = self._calculate_burst_intensity(time_series, burst_start, burst_end)
+                    bursts.append({
+                        'start': burst_start,
+                        'end': burst_end,
+                        'intensity': burst_int,
+                        'level': int(burst_level)
+                    })
+                    burst_level = 0
+
+        # Handle burst active at end
         if in_burst:
+            burst_end = times[T-1]
+            burst_int = self._calculate_burst_intensity(time_series, burst_start, burst_end)
             bursts.append({
                 'start': burst_start,
-                'end': path[-1][0],
-                'intensity': self._calculate_burst_intensity(time_series, burst_start, path[-1][0])
+                'end': burst_end,
+                'intensity': burst_int,
+                'level': int(burst_level)
             })
-        
+
         if self.verbose:
-            console.print(f"✅ [green]Detected {len(bursts)} burst periods[/green]")
-        
+            console.print(f"✅ [green]Detected {len(bursts)} burst periods (Poisson method)[/green]")
+            
         return bursts
-    
-    def _emission_prob(self, count, state):
-        """Calculate emission probability for burst detection"""
-        if state == 0:  # Normal state
-            return np.log(max(count, 1))
-        else:  # Burst state
-            return np.log(max(count, 1)) * 2  # Higher weight for burst state
-    
+
     def _calculate_burst_intensity(self, time_series, start_time, end_time):
-        """Calculate intensity of a burst period"""
+        """
+        Calculate relative intensity of a burst period
+        
+        Returns excess publications per year compared to baseline average
+        """
+        # Calculate global baseline first
+        total_counts = sum(c for t, c in time_series)
+        duration_total = len(time_series)
+        baseline_rate = total_counts / max(1, duration_total)
+        
+        # Calculate burst stats
         burst_counts = [count for time, count in time_series if start_time <= time <= end_time]
         if not burst_counts:
-            return 0
-        return sum(burst_counts) / len(burst_counts)
+            return 0.0
+            
+        burst_total = sum(burst_counts)
+        burst_duration = len(burst_counts) # Years inclusive
+        burst_rate = burst_total / max(1, burst_duration)
+        
+        # Intensity = How many MORE papers per year than average?
+        intensity = max(0, burst_rate - baseline_rate)
+        
+        return intensity
     
     def analyze_device_hype(self, device_name, approval_date):
         """

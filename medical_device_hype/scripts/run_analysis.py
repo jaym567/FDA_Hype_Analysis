@@ -1104,8 +1104,8 @@ Examples:
     parser.add_argument(
         '--limit', '-l',
         type=int,
-        default=20,
-        help='Limit number of devices to analyze (default: 20)'
+        default=None,
+        help='Limit number of devices to analyze (default: None, i.e., all devices)'
     )
     
     args = parser.parse_args()
