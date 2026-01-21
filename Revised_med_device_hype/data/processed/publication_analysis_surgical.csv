@@ -1,0 +1,326 @@
+pma_number,trade_name,total_publications,total_citations,avg_citations_per_pub,num_rcts,num_observational,peak_publication_year,peak_publication_count,top_concepts,is_surgical
+N12159,SURGICEL/SURGICEL NU-KNIT/SURGICEL FIBRILLAR ABSORBABLE HEMOSTAT,100,6614,66.14,7,16,2011.0,16,Medicine; Surgery; Hemostasis; Hemostatic Agent; Nephrectomy,True
+N16837,ARTEGRAFT BOVINE HETEROGRAFT,0,0,0.0,0,0,,0,,True
+N17004,SURGICAL SIMPLEX P RADIOPAQUE BONE CEMENT,7,133,19.0,0,0,1997.0,4,Materials science; Polymerization; Medicine; Composite material; Cement,True
+N17600,AVITENE MICROFIBRILLAR COLLAGEN HEMOSTAT (MCH),0,0,0.0,0,0,,0,,True
+N18286,GELFOAM STERILE POWDER,0,0,0.0,0,0,,0,,True
+N970012,AMS 700 INFLATABLE PENILE PROSTHESIS,7,182,26.0,0,1,2017.0,2,Medicine; Penile prosthesis; Prosthesis; Erectile dysfunction; Surgery,True
+N980003,KERAMOS CERAMIC/CERAMIC TOTAL HIP SYSTEM,0,0,0.0,0,0,,0,,True
+P000006,TITAN INFLATABLE PENILE PROSTHESIS,6,200,33.33,0,2,2009.0,2,Medicine; Inflatable; Titan (rocket family); Surgery; Penile prosthesis,True
+P000007,CARPENTIER-EDWARDS PERIMOUNT PERICARDIAL BIOPROSTHESIS,100,3978,39.78,11,9,2010.0,10,Medicine; Cardiology; Internal medicine; Surgery; Aortic valve replacement,True
+P000008,LAP-BAND ADJUSTABLE GASTRIC BANDING SYSTEM,20,973,48.65,1,4,2011.0,5,Medicine; Weight loss; Surgery; Gastric banding; Internal medicine,True
+P000013,TRIDENT SYSTEM,75,392,5.23,2,3,2007.0,12,Computer science; Political science; Trident; Nuclear weapon; Government (linguistics),True
+P000015,NUCLEUS 24 AUDITORY BRAINSTEM IMPLANT SYSTEM,2,8,4.0,0,0,2005.0,2,Statement (logic); Perioperative nursing; Perioperative; Medicine; Patient care,True
+P000023,TMJ FOSSA-EMINENCE/CONDYLAR PROSTHESES,2,10,5.0,0,1,2001.0,1,Medicine; Condyle; Prosthesis; Surgery; Fossa,True
+P000025,COMBI 40+ COCHLEAR IMPLANT SYSTEM,10,86,8.6,0,0,2002.0,4,Cochlear implant; Audiology; Computer science; Psychology; Coding (social sciences),True
+P000026,"STAAR SURGICAL COMPANY AQUAFLOW(TM) COLLAGEN GLAUCOMA DRAINAGE DEVICE, MODEL CGDD-20",0,0,0.0,0,0,,0,,True
+P000028,AFFINITY (TM) CAGE SYSTEM,0,0,0.0,0,0,,0,,True
+P000035,TMJ FOSSA-EMINENCE PROSTHESIS(TM),0,0,0.0,0,0,,0,,True
+P000036,DERMAGRAFT,100,12486,124.86,15,9,2011.0,12,Medicine; Surgery; Wound healing; Diabetic foot; Diabetes mellitus,True
+P000037,"ON-X (R) PROSTHETIC HEART VALVE, MODEL ONXA",4,234,58.5,0,2,2000.0,2,Medicine; Hemolysis; Subclinical infection; Internal medicine; Cardiology,True
+P000048,DORNIER EPOS ULTRA,18,1258,69.89,6,2,2005.0,4,Medicine; Plantar fasciitis; Extracorporeal shockwave therapy; Placebo; Visual analogue scale,True
+P000053,AMS SPHINCTER 800 URINARY CONTROL SYSTEM,1,140,140.0,0,0,2003.0,1,Medicine; Artificial urinary sphincter; Surgery; Urethra; Balloon,True
+P000054,INFUSE BONE GRAFT,100,9093,90.93,5,8,2009.0,13,Medicine; Surgery; Bone morphogenetic protein; Lumbar; Spinal fusion,True
+P000057,ASCENSION MCP,1,2,2.0,0,0,2006.0,1,Medicine; Rheumatoid arthritis; Range of motion; Arthroplasty; Pyrolytic carbon,True
+P000058,INFUSE BONE GRAFT/LT-CAGE LUMBAR TAPERED FUSION DEVICE,100,9733,97.33,4,10,2012.0,20,Medicine; Surgery; Bone morphogenetic protein; Lumbar; Bone morphogenetic protein 2,True
+P010001,CERAMIC TRANSCEND HIP ARTICULATION SYSTEM,0,0,0.0,0,0,,0,,True
+P010002,INDERMIL(TM) TISSUE ADHESIVE,0,0,0.0,0,0,,0,,True
+P010014,OXFORD(TM) MENISCAL UNICOMPARTMENTAL KNEE SYSTEM,0,0,0.0,0,0,,0,,True
+P010016,ORCEL BILAYERED CELLULAR MATRIX,0,0,0.0,0,0,,0,,True
+P010020,AMS ACTICON NEOSPHINCTER,0,0,0.0,0,0,,0,,True
+P010022,COSEAL SURGICAL SEALANT (COSEAL),0,0,0.0,0,0,,0,,True
+P010023,SOUNDTEC DIRECT SYSTEM,8,111,13.88,0,1,2002.0,3,Medicine; Sensorineural hearing loss; Audiology; Hearing aid; Implant,True
+P010027,ANTERIOR CHAMBER INTRAOCULAR LENS (CATARACT),0,0,0.0,0,0,,0,,True
+P010029,EUFLEXXA (1% SODIUM HYALURONATE),8,113,14.12,2,0,2011.0,4,Medicine; Osteoarthritis; Clinical trial; Arthroplasty; Ankle,True
+P010039,SIEMENS SONOCUR BASIC SYSTEM,2,12,6.0,2,0,2003.0,2,Epicondylitis; Extracorporeal shock wave therapy; Medicine; Double blind; Surgery,True
+P010041,"CARPENTIER-EDWARDS S.A.V. BIOPROSTHESIS, MODEL 2650 (AORTIC)",0,0,0.0,0,0,,0,,True
+P010061,CURELIGHT BROADBAND (MODEL CURELIGHT 01),1,1,1.0,0,0,2013.0,1,Photodynamic therapy; Medical physics; Risk analysis (engineering); Medicine; Intensive care medicine,True
+P020003,COLOPLAST SALINE-FILLED TESTICULAR PROSTHESIS,0,0,0.0,0,0,,0,,True
+P020004,EXCLUDER BIFURCATED ENDOPROSTHESIS,20,712,35.6,1,1,2007.0,5,Medicine; Surgery; Abdominal aortic aneurysm; Aneurysm; Radiology,True
+P020012,"ARTEFILL, BELLAFILL PMMA COLLAGEN PERMANENT DERMAL FILLER",0,0,0.0,0,0,,0,,True
+P020016,WALTER LORENZ TOTAL TEMPOROMANDIBULAR JOINT REPLACEMENT SYSTEM,0,0,0.0,0,0,,0,,True
+P020018,ZENITH AAA ENDOVASCULAR GRAFT AND H&L-B ONE-SHOT INTRODUCTINO SYSTEM,100,9533,95.33,9,10,2008.0,20,Medicine; Surgery; Abdominal aortic aneurysm; Endovascular aneurysm repair; Aneurysm,True
+P020023,RESTYLANE INJECTABLE GEL,0,0,0.0,0,0,,0,,True
+P020049,PROCOL VASCULAR BIOPROSTHESIS,3,42,14.0,0,0,2003.0,1,Vascular access; Medicine; Internal medicine; Hemodialysis; Elastin,True
+P020056,NATRELLE SILICONE-FILLED BREAST IMPLANTS,6,239,39.83,0,2,2009.0,3,Medicine; Breast augmentation; Silicone; Implant; Capsular contracture,True
+P030002,CRYSTALENS MODEL AT-45 ACCOMMODATING POSTERIOR CHAMBER INTRAOCULAR LENS (IOL),0,0,0.0,0,0,,0,,True
+P030016,VISIAN ICL (IMPLANTABLE COLLAMER LENS),2,4,2.0,0,0,2013.0,2,Phakic intraocular lens; Medicine; Refractive error; Optometry; Refractive surgery,True
+P030019,ORTHOVISC HIGH MOLECULAR WEIGHT HYALURONAN,2,2,1.0,0,0,2013.0,2,Medicine; Osteoarthritis; Ankle; Arthritis; Arthroplasty,True
+P030022,REFLECTION CERAMIC ACETABULAR SYSTEM,0,0,0.0,0,0,,0,,True
+P030027,CERAMIC TRANSCEND HIP ARTICULATION,0,0,0.0,0,0,,0,,True
+P030028,ARTISAN (MODEL 206 AND 204) PHAKIC INTRAOCULAR LENS (PIOL) VERISYSE (VRSM5US AND VRSM6US) PHAKIC INTRAOCULAR LENS (PIOL),0,0,0.0,0,0,,0,,True
+P030030,TEGRESS URETHRAL IMPLANT,5,21,4.2,0,0,2005.0,2,Medicine; Implant; Cystoscopy; Prostatectomy; Urinary incontinence,True
+P030032,HYLAFORM (HYLAN B GEL),0,0,0.0,0,0,,0,,True
+P030039,COSEAL SURGICAL SEALANT,12,245,20.42,5,3,2009.0,4,Medicine; Surgery; Cardiology; Cardiac surgery; Randomized controlled trial,True
+P030042,CONSERVE PLUS TOTAL RESURFACING HIP SYSTEM,0,0,0.0,0,0,,0,,True
+P030050,SCULPTRA AND SCULPTRA AESTHETIC,0,0,0.0,0,0,,0,,True
+P030053,MEMORYGEL SILICONE GEL -FILLED BREAST IMPLANTS,2,10,5.0,0,0,2012.0,2,Food and drug administration; Miami; Medicine; Breast implant; Implant,True
+P040001,X STOP INTERSPINOUS PROCESS DECOMPRESSION SYSTEM,100,4569,45.69,15,18,2009.0,16,Medicine; Surgery; Lumbar spinal stenosis; Lumbar; Decompression,True
+P040002,ENDOLOGIX POWERLINK SYSTEM,4,16,4.0,0,2,2003.0,2,Medicine; Surgery; Multicenter study; Multicenter trial; Abdominal aortic aneurysm,True
+P040006,CHARITE ARTIFICIAL DISC,100,7047,70.47,21,19,2009.0,17,Medicine; Surgery; Lumbar; Oswestry Disability Index; Degenerative disc disease,True
+P040020,ACRYSOF RESTOR APODIZED DIFFRACTIVE OPTIC POSTERIOR CHAMBER IOL,98,2446,24.96,2,7,2012.0,16,Medicine; Ophthalmology; Multifocal intraocular lens; Intraocular lens; Optometry,True
+P040021,SJM BIOCOR VALVE / SJM BIOCOR SUPRA VALVE,1,4,4.0,0,0,2001.0,1,Medicine; Tricuspid insufficiency; Decompensation; Regurgitation (circulation); Cardiology,True
+P040023,DURALOC OPTION CERAMIC HIP SYSTEM,0,0,0.0,0,0,,0,,True
+P040024,RESTYLANE INJECTABLE GEL,1,97,97.0,0,1,2014.0,1,Medicine; Hyaluronic acid; Lidocaine; Filler (materials); Patient satisfaction,True
+P040027,GORE VIATORR TIPS,1,0,0.0,0,0,2010.0,1,Medicine; Transjugular intrahepatic portosystemic shunt; Stent; Surgery; Radiology,True
+P040033,BIRMINGHAM HIP RESURFACING (BHR) SYSTEM,15,184,12.27,0,1,2016.0,4,Medicine; Hip resurfacing; Orthopedic surgery; Femoral head; Total hip replacement,True
+P040034,DURASEAL DURAL SEALANT SYSTEM,4,191,47.75,2,3,2009.0,1,Medicine; Surgery; Cerebrospinal fluid leak; Pseudomeningocele; Dura mater,True
+P040039,ORBASONE PAIN RELIEF SYSTEM,2,58,29.0,0,0,2009.0,2,Extracorporeal shockwave therapy; Plantar fasciitis; Medicine; Epicondylitis; Chronic pain,True
+P040043,GORE TAG THORACIC ENDOPROSTHESIS,100,7344,73.44,2,5,2008.0,23,Medicine; Surgery; Stent; Aortic repair; Thoracic aorta,True
+P040046,NATRELLE HIGHLY COHESIVE SILICONE-FILLED BREAST IMPLANTS,4,12,3.0,0,2,2016.0,2,Medicine; Seroma; Capsular contracture; Breast augmentation; Context (archaeology),True
+P040047,BIOFORM MEDICAL COAPTITE INJECTABLE IMPLANT,0,0,0.0,0,0,,0,,True
+P040048,TRILOGY AB ACETABULAR SYSTEM,0,0,0.0,0,0,,0,,True
+P040050,MACROPLASTIQUE IMPLANTS,38,825,21.71,7,10,2005.0,6,Medicine; Urinary incontinence; Urology; Surgery; Quality of life (healthcare),True
+P040051,STELKAST SURPASS  ACETABULAR SYSTEM,0,0,0.0,0,0,,0,,True
+P050004,EMS SWISS DOLORCLAST,11,134,12.18,0,1,2008.0,2,Medicine; Shock wave; Hydrophone; Extracorporeal shockwave therapy; In vivo,True
+P050009,C2 A-TAPER ACETABULAR SYSTEM,0,0,0.0,0,0,,0,,True
+P050010,PRODISC -L TOTAL DISC REPLACEMENT DEVICE,1,0,0.0,0,0,2016.0,1,Anatomy; Medicine; Selection (genetic algorithm); Orthodontics; Computer science,True
+P050013,HISTOACRYL AND HISTOACRYL BLUE TOPICAL SKIN ADHESIVE,3,255,85.0,0,0,2007.0,2,Cyanoacrylate; Medical device; Medicine; Cyanoacrylates; Adhesive,True
+P050016,CORMET HIP RESURFACING SYSTEM,3,102,34.0,0,0,2013.0,2,Medicine; Hip resurfacing; Orthopedic surgery; Pelvis; Radiography,True
+P050033,HYDRELLE,5,94,18.8,0,0,2011.0,4,Medicine; Hyaluronic acid; Lidocaine; Patient satisfaction; Pain management,True
+P050037,RADIESSE 1.3CC AND 0.3CC,0,0,0.0,0,0,,0,,True
+P050038,ARISTA AH ABSORBABLE HEMOSTAT,0,0,0.0,0,0,,0,,True
+P050039,NOVATION CERAMIC ARTICULATION HIP SYSTEM,0,0,0.0,0,0,,0,,True
+P050043,"FEMORAL INTRODUCER SHEATH AND HEMOSTASIS (FISH) DEVICE 5,6, AND 8 FRENCH",20,509,25.45,0,2,2015.0,4,Medicine; Femoral artery; Cardiology; Surgery; Stent,True
+P050044,VITAGEL RT3 SUTGICAL HEMOSTAT,0,0,0.0,0,0,,0,,True
+P050047,"JUVEDERM 24HV, JUVEDERM 30 AND JUVEDERM 30HV GEL IMPLANTS",0,0,0.0,0,0,,0,,True
+P050050,SCANDINAVIAN TOTAL ANKLE REPLACEMENT SYSTEM (S.T.A.R.ANKLE),0,0,0.0,0,0,,0,,True
+P050052,RADIESSE INJECTABLE IMPLANT,5,78,15.6,0,0,2014.0,2,Volume (thermodynamics); Medicine; Physics; Quantum mechanics; Polylactic acid,True
+P050053,INFUSE BONE GRAFT,100,8379,83.79,2,5,2015.0,11,Medicine; Bone morphogenetic protein; Surgery; Bone morphogenetic protein 2; Regeneration (biology),True
+P060011,C-FLEX MODEL 570C INTRAOCULAR LENS (IOL),0,0,0.0,0,0,,0,,True
+P060018,PRESTIGE CERVICAL DISC SYSTEM,17,105,6.18,2,2,2014.0,4,Medicine; Surgery; Sagittal plane; Anterior cervical discectomy and fusion; Kinematics,True
+P060022,"AKREOS POSTERIOR CHAMBER INTRAOCULAR LENS,MODEL ADAPT",0,0,0.0,0,0,,0,,True
+P060023,BRYAN CERVICAL DISC PROSTHESIS,100,5733,57.33,19,22,2010.0,10,Medicine; Surgery; Anterior cervical discectomy and fusion; Arthroplasty; Prosthesis,True
+P060025,ATS 3F AORTIC BIOPROSTHESIS,6,59,9.83,0,0,2010.0,4,Medicine; Bentall procedure; Aortic dissection; Perioperative; Surgery,True
+P060028,MENTOR MEMORYSHAPE BREAST IMPLANTS,20,70,3.5,0,4,2021.0,12,Coronavirus disease 2019 (COVID-19); Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2); 2019-20 coronavirus outbreak; Medicine; Pandemic,True
+P060029,ETHICON OMNEX SURGICAL SEALANT,4,106,26.5,0,0,2018.0,2,Medicine; Magnetic resonance imaging; Aortic dissection; Concordance; Beat (acoustics),True
+P060037,NEXGEN LPS-FLEX MOBILE AND LPS-MOBILE BEARING KNEE SYSTEM,30,1287,42.9,9,4,2007.0,7,Medicine; Total knee arthroplasty; Computer science; FLEX; Arthroplasty,True
+P060038,MITROFLOW AORTIC PERICARDIAL HEART VALVE,7,264,37.71,0,0,2011.0,2,Medicine; Cardiology; Internal medicine; Aortic valve; Heart valve,True
+P070001,PRODISC TM-C TOTAL DISC REPLACEMENT,0,0,0.0,0,0,,0,,True
+P070004,SIENTRA SILICONE GEL BREAST IMPLANTS,3,2,0.67,0,0,2012.0,1,Medicine; Silicone; Certification; Surgery; Medical physics,True
+P070007,TALENT THORACIC GRAFT SYSTEM,0,0,0.0,0,0,,0,,True
+P070009,REALIZE ADJUSTABLE GASTRIC BAND MODEL 2200-X,0,0,0.0,0,0,,0,,True
+P070013,EVOLENCE COLLAGEN FILLER,0,0,0.0,0,0,,0,,True
+P070016,ZENITH TX2 THORACIC TAA ENDOVASCULAR GRAFT WITH THE H&LB ONE-SHOT INTRODUCTION SYSTEM,4,212,53.0,0,0,2009.0,2,Medicine; Surgery; Fish bone; Foreign Body Ingestion; Cardiothoracic surgery,True
+P070026,CERAMAX CERAMIC HIP SYSTEM,0,0,0.0,0,0,,0,,True
+P070027,MEDTRONIC VASCULAR TALENT ABDOMINAL STANT GRAFT SYSTEM,0,0,0.0,0,0,,0,,True
+P080004,HOYA ISPHERIC MODEL YA-60BB INTRAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P080010,TECNIS MULTIFOCAL FOLDABLE POSTERIOR CHAMBER INTRAOCULAR LENS (IOL),0,0,0.0,0,0,,0,,True
+P080013,DURASEAL EXACT SPINE SEALANT SYSTEM,1,27,27.0,1,1,2018.0,1,Medicine; Surgery; SPINE (molecular biology); Bioinformatics; Biology,True
+P080020,GEL-ONE,100,18960,189.6,4,1,2021.0,11,Medicine; Materials science; Biology; Chemistry; Self-healing hydrogels,True
+P080021,XACT FOLDABLE HYDROPHOBIC ACRYLIC ULTRAVIOLET LIGHT-ABSORBING POSTERIOR CHAMBER INTRAOCULAR LENS (IOL),0,0,0.0,0,0,,0,,True
+P080025,MEDTRONIC INTERSTIM SACRAL NERVE STIMULATION THERAPY SYSTEM,0,0,0.0,0,0,,0,,True
+P080028,STORZ MEDICAL DUOLITH SD1 SHOCK WAVE THERAPY,24,52,2.17,8,6,2023.0,8,Medicine; Extracorporeal shockwave therapy; Extracorporeal; Shock (circulatory); Diabetic foot,True
+P090002,PINNACLE COMPLETE ACETABULAR HIP SYSTEM,2,0,0.0,0,0,2012.0,2,Adhesion; Coating; Materials science; Surface roughness; Cell adhesion,True
+P090012,MELAFIND,100,5423,54.23,3,5,2017.0,13,Medicine; Melanoma; Computer science; Dermatology; Skin cancer,True
+P090016,BELOTERO BALANCE,68,2249,33.07,2,8,2018.0,9,Medicine; Hyaluronic acid; Filler (materials); Hyaluronidase; Cosmetic Techniques,True
+P090018,ESTEEM TOTALLY IMPLANTABLE HEARING SYSTEM,23,572,24.87,4,2,2014.0,6,Medicine; Audiology; Hearing loss; Middle ear; Cochlear implant,True
+P090022,LENSTEC SOFTEC HD POSTERIOR CHAMBER INTRAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P090029,PRESTIGE LP CERVICAL DISC,100,2239,22.39,15,24,2020.0,17,Medicine; Surgery; Anterior cervical discectomy and fusion; Arthroplasty; Heterotopic ossification,True
+P090031,MONOVISC,64,3473,54.27,12,10,2021.0,13,Medicine; Osteoarthritis; Hyaluronic acid; Viscosupplementation; Physical therapy,True
+P100003,SECURE-C ARTIFICIAL CERVICAL DISC,4,90,22.5,0,0,2014.0,2,Medicine; Arthrodesis; Foraminotomy; Surgery; Survivorship curve,True
+P100006,AUGMENT BONE GRAFT,100,5083,50.83,9,16,2021.0,14,Medicine; Surgery; Regeneration (biology); Tissue engineering; Dentistry,True
+P100009,MITRACLIP DELIVERY SYSTEM,93,1120,12.04,11,9,2016.0,16,Medicine; MitraClip; Cardiology; Mitral regurgitation; Internal medicine,True
+P100012,NUVASIVE PCM CERVICAL DISC SYSTEM,0,0,0.0,0,0,,0,,True
+P100016,EC-3 INTRAOCULAR LENS (IOL) AND EC-3 PRECISION ASPHERIC LENS (PAL) IOL,0,0,0.0,0,0,,0,,True
+P100021,"ENDURANT, ENDURANT II, ENDURANT IIS",0,0,0.0,0,0,,0,,True
+P100029,ST JUDE MEDICAL TRIFECTA VALVE,19,344,18.11,2,3,2015.0,3,Medicine; Cardiology; Hemodynamics; Aortic valve replacement; Aortic valve,True
+P100030,ARTERX SURGICAL SEALANT,3,37,12.33,1,2,2015.0,3,Medicine; Surgery; Seroma; Anastomosis; Sealant,True
+P100040,VALIANT CAPTIVIA,100,1157,11.57,4,12,2021.0,17,Medicine; Surgery; Stent; Aortic repair; Aortic dissection,True
+P100041,TRANSCATHER HEART VALVE AND TRANSFEMORAL ACCESSORIES,0,0,0.0,0,0,,0,,True
+P100049,LINX REFLUX MANAGEMENT SYSTEM,100,2956,29.56,6,17,2021.0,17,Medicine; GERD; Reflux; Dysphagia; Hiatal hernia,True
+P110002,MOBI-C CERVICAL DISC PROSTHESIS (ONE-LEVEL INDICATION),0,0,0.0,0,0,,0,,True
+P110005,SINOVIAL (SODIUM HYALURONATE 0.8%),0,0,0.0,0,0,,0,,True
+P110008,COFLEX® INTERLAMINAR TECHNOLOGY,2,129,64.5,0,0,2014.0,1,Medicine; Surgery; Lumbar spine; Lumbar; Degenerative Disorder,True
+P110009,MOBI-C CERVICAL DISC PROSTHESIS (TWO-LEVEL INDICATION),0,0,0.0,0,0,,0,,True
+P110014,DUNE MEDICAL DEVICES MARGINPROBE SYSTEM,0,0,0.0,0,0,,0,,True
+P110021,TRANSCATHER HEART VALVE AND TRANSFEMORAL AND TRANSAPICAL ACCESSORIES,3,0,0.0,0,1,2014.0,2,Medicine; Internal medicine; Meta-analysis; Percutaneous; Intensive care medicine,True
+P110033,JUVEDERM VOLUMA XC,13,257,19.77,1,3,2015.0,3,Medicine; Filler (materials); Hyaluronic acid; Surgery; Human immunodeficiency virus (HIV),True
+P110038,RELAYPLUS,20,179,8.95,0,3,2020.0,9,Medicine; Aortic repair; Stent; Surgery; Aortic arch,True
+P110039,EXABLATE,100,14213,142.13,4,6,2020.0,14,Medicine; Ultrasound; Magnetic resonance imaging; Ablation; Focused ultrasound,True
+P120011,PUREGRAFT SERENE BREAST IMPLANT,0,0,0.0,0,0,,0,,True
+P120024,ACTIVL ARTIFICIAL DISC,16,326,20.38,4,2,2021.0,5,Medicine; Lumbar; Degenerative disc disease; Surgery; Randomized controlled trial,True
+P130004,RESURE SEALANT,50,3019,60.38,2,4,2023.0,10,Medicine; Drug delivery; Self-healing hydrogels; Ophthalmology; Nanotechnology,True
+P130006,GORE VIABAHN ENDOPROSTHESIS AND ENDOPROSTHESIS WITH HEPARIN BIOACTIVE SURFACE,70,583,8.33,3,6,2021.0,12,Medicine; Surgery; Stent; Radiology; Balloon,True
+P130009,EDWARDS NOVAFLEX+ DELIVERY SYSTEM,0,0,0.0,0,0,,0,,True
+P130011,SOLO SMART HEART VALVE,0,0,0.0,0,0,,0,,True
+P130014,ADHERUS AUTOSPRAY DURAL SEALANT,4,61,15.25,0,1,2020.0,2,Surgery; Sealant; Medicine; Biocide; Gene,True
+P130016,NUCLEUS HYBRID L24 COCHLEAR IMPLANT SYSTEM,6,56,9.33,0,0,2014.0,2,Medicine; Cochlear implant; Hearing aid; Audiology; Cochlear implantation,True
+P130018,PROACT ADJUSTABLE CONTINENCE THERAPY FOR MEN,0,0,0.0,0,0,,0,,True
+P130021,MEDTRONIC COREVALVE SYSTEM,100,10434,104.34,10,8,2012.0,14,Medicine; Cardiology; Internal medicine; Stenosis; Valve replacement,True
+P130023,COHERA MEDICAL TISSUGLU,0,0,0.0,0,0,,0,,True
+P140004,SUPERION INTERSPINOUS SPACER,59,876,14.85,12,10,2023.0,7,Medicine; Lumbar spinal stenosis; Decompression; Surgery; Lumbar,True
+P140005,GENVISC 850,4,80,20.0,2,2,2016.0,3,Osteoarthritis; Computer science; Sodium hyaluronate; Equivalence (formal languages); Class (philosophy),True
+P140012,RESHAPE INTEGRATED DUAL BALLON SYSTEM,0,0,0.0,0,0,,0,,True
+P140016,ZENITH ALPHA THORACIC ENDOVASCULAR GRAFT,68,684,10.06,2,6,2020.0,18,Medicine; Surgery; Stent; Radiology; Aortic repair,True
+P140017,MELODY TPV SYSTEM,0,0,0.0,0,0,,0,,True
+P140019,I-FACTOR PEPTIDE ENHANCED BONE GRAFT,15,51,3.4,3,3,2023.0,6,Medicine; Lumbar; Surgery; Spinal fusion; In vivo,True
+P140029,"RESTYLANE REFYNE, RESTYLANE DEFYNE",3,98,32.67,0,0,2020.0,3,Hyaluronic acid; Medicine; Hyaluronidase; Filler (materials); Enzyme,True
+P140031,EDWARDS COMMANDER DELIVERY SYSTEM,64,378,5.91,6,10,2021.0,18,Medicine; Cardiology; Valve replacement; Internal medicine; Aortic valve,True
+P150010,HYMOVIS,100,5530,55.3,14,20,2021.0,22,Medicine; Osteoarthritis; Hyaluronic acid; Viscosupplementation; Physical therapy,True
+P150011,PERCEVAL SUTURELESS HEART VALVE,1,1,1.0,0,0,2018.0,1,Medicine; Aortic valve replacement; Stenosis; Aortic valve; Aortic valve stenosis,True
+P150016,TRIDYNE VASCULAR SEALANT,0,0,0.0,0,0,,0,,True
+P150017,CARTIVA SYNTHETIC CARTILAGE IMPLANT,48,262,5.46,0,22,2024.0,14,Medicine; Implant; Hallux rigidus; Surgery; Arthrodesis,True
+P150030,R3 DELTA CERAMIC HIP SYSTEM,0,0,0.0,0,0,,0,,True
+P150036,EDWARDS INTUITY ELITE VALVE SYSTEM,38,194,5.11,0,6,2023.0,10,Medicine; Aortic valve replacement; Surgery; Software deployment; Cardiology,True
+P150037,CYPASS SYSTEM,2,4,2.0,0,0,2017.0,1,Medicine; Glaucoma; Intraocular pressure; Glaucoma surgery; Blindness,True
+P150048,EDWARDS PERICARDIAL AORTIC BIOPROSTHESIS (MODEL 11000A) AND EDWARDS INSPIRIS RESILIA AORTIC VALVE (MODEL 11500),0,0,0.0,0,0,,0,,True
+P160001,OBALON TOUCH INFLATION SYSTEM,0,0,0.0,0,0,,0,,True
+P160035,EXCOR CANNULA CLIP,0,0,0.0,0,0,,0,,True
+P160036,HINTERMANN SERIES H3 TOTAL ANKLE REPLACEMENT SYSTEM,0,0,0.0,0,0,,0,,True
+P160042,REVANESSE ULTRA,3,2,0.67,0,0,2021.0,2,Directive; Christian ministry; Compendium; Computer science; Marketing,True
+P160053,MAGTRACETM AND SENTIMAG(R) MAGNETIC LOCATIZATION SYSTEM,0,0,0.0,0,0,,0,,True
+P160057,TRIVISC,3,22,7.33,0,0,2023.0,1,Medicine; Regenerative medicine; Stem cell; Tissue engineering; Narrative review,True
+P170002,"RHA 2, RHA 3, RHA 4",6,78,13.0,0,0,2020.0,2,Hyaluronidase; Hyaluronic acid; Filler (materials); Medicine; Enzyme,True
+P170006,AVALUS(TM) BIOPROSTHESIS,0,0,0.0,0,0,,0,,True
+P170007,DUROLANE,100,8865,88.65,33,15,2018.0,15,Medicine; Osteoarthritis; Hyaluronic acid; Viscosupplementation; Platelet-rich plasma,True
+P170012,HEMOBLAST BELLOWS,7,138,19.71,0,2,2021.0,3,Hemostasis; Medicine; Hemostatic Agent; Orthopedic surgery; Hemostat,True
+P170016,SYNOJOYNT,0,0,0.0,0,0,,0,,True
+P170029,CALCIVIS IMAGING SYSTEM,40,146,3.65,0,0,2019.0,14,Medicine; Dentistry; Computer science; Orthodontics; Bioluminescence,True
+P170034,HYDRUS MICROSENT,0,0,0.0,0,0,,0,,True
+P170036,M6-C ARTIFICIAL CERVICAL DISC,22,259,11.77,0,3,2021.0,10,Medicine; Surgery; Visual analogue scale; Osteolysis; Arthroplasty,True
+P180001,ZENITH DISSECTION ENDOVASCULAR SYSTEM,54,997,18.46,1,3,2020.0,8,Medicine; Surgery; Aortic dissection; Dissection (medical); Stent,True
+P180024,TRANSPYLORIC SHUTTLE/TRANSPYLORIC SHUTTLE DELIVERY DEVICE,76,1130,14.87,5,4,2021.0,15,Medicine; Obesity; Weight loss; Surgery; Management of obesity,True
+P180029,LOTUS EDGE VALVE SYSTEM,8,1,0.12,2,0,2018.0,2,Medicine; Cardiology; Lotus; Physics; Aortic valve,True
+P180040,TRILURON,4,28,7.0,1,0,2020.0,2,Medicine; Regenerative medicine; Stem cell; Tissue engineering; Narrative review,True
+P190006,AXONICS SACRAL NEUROMODULATION SYSTEM,8,92,11.5,1,2,2021.0,3,Medicine; Overactive bladder; Sacral nerve stimulation; Gynecology; Neuromodulation,True
+P190009,OPRA IMPLANT SYSTEM,51,1466,28.75,0,5,2022.0,10,Medicine; Prosthesis; Physical medicine and rehabilitation; Osseointegration; Implant,True
+P190016,TULA® SYSTEM,6,101,16.83,1,0,2021.0,3,Health psychology; Tympanostomy tube; Medicine; Distress; Sedation,True
+P190018,"CLAREON ASPHERIC HYDROPHOBIC ACRYLIC INTRAOCULAR LENS (IOL), CLAREON TORIC ASPHERIC HYDROPHOBIC ACRYLIC INTRAOCULAR LENS",6,16,2.67,0,0,2022.0,2,Medicine; Ophthalmology; Randomized controlled trial; Glaucoma; Phacoemulsification,True
+P190023,"PORTICO HEART VALVE, FLEXNAV DELIVERY SYSTEM, FLEXNAV LOADING SYSTEM",0,0,0.0,0,0,,0,,True
+P200015,EDWARDS COMMANDER DELIVERY SYSTEM,62,372,6.0,4,10,2021.0,18,Medicine; Cardiology; Valve replacement; Internal medicine; Stenosis,True
+P200020,SBL-3 MULTIFOCAL INTRAOCULAR LENS,3,0,0.0,0,3,2024.0,2,Ophthalmology; Multifocal intraocular lens; Contrast (vision); Coma (optics); Visual acuity,True
+P200021,NEURO COCHLEAR IMPLANT SYSTEM,22,148,6.73,0,4,2022.0,10,Cochlear implant; Computer science; Speech recognition; Medicine; Deep learning,True
+P200022,SIMPLIFY® CERVICAL ARTIFICIAL DISC,9,92,10.22,1,6,2022.0,4,Medicine; Arthroplasty; Surgery; Peek; Outcome (game theory),True
+P200030,GORE EXCLUDER CONFORMABLE AAA ENDOPROSTHESIS (CEXC),1,0,0.0,0,1,2025.0,1,Medicine; Adaptability; Term (time); Cardiology; Internal medicine,True
+P200045,RELAYPRO,33,90,2.73,0,3,2023.0,7,Medicine; Surgery; Stent; Aortic repair; Aortic arch,True
+P200046,HARMONY TPV SYSTEM,2,2,1.0,0,2,2023.0,2,Software deployment; Psychological intervention; Medicine; Heart disease; Valve replacement,True
+P210005,IC-8 APTHERA INTRAOCULAR LENS (IOL),0,0,0.0,0,0,,0,,True
+P210032,GORE TAG THORACIC BRANCH ENDOPROSTHESIS (TBE DEVICE),35,258,7.37,0,5,2023.0,8,Medicine; Surgery; Aortic repair; Aortic arch; Stent,True
+P210034,AGILI-C,94,2823,30.03,3,2,2021.0,14,Medicine; Cartilage; Tissue engineering; Scaffold; Biology,True
+P210036,PERCLOT® POLYSACCHARIDE HEMOSTATIC SYSTEM,5,14,2.8,2,2,2023.0,4,Medicine; Hemostasis; Hemostat; Hemostatic Agent; Mean arterial pressure,True
+P220002,TOPS SYSTEM,40,205,5.12,7,10,2022.0,7,Medicine; Surgery; Computer science; Spondylolisthesis; Lumbar,True
+P220003,"PASCAL PRECISION  IMPLANT SYSTEM (PASCAL IMPLANT, 10MM), PASCAL PRECISION  IMPLANT SYSTEM (PASCAL ACE IMPLANT, 5MM)",0,0,0.0,0,0,,0,,True
+P220014,CRANISEAL DURAL SEALANT,0,0,0.0,0,0,,0,,True
+P220024,"LIQUIFIX FIX8 HERNIA MESH FIXATION (HMF) DEVICE, LIQUIFIX PRECISION OPEN HERNIA MESH FIXATION DEVICE",0,0,0.0,0,0,,0,,True
+P230005,"MOTIVA SMOOTHSILK ROUND ERGONOMIX SILICONE GEL-FILLED BREAST IMPLANTS, MOTIVA SMOOTHSILK ROUND SILICONE GEL-FILLED BREAS",0,0,0.0,0,0,,0,,True
+P230007,TRICLIP G4 SYSTEM,8,161,20.12,2,3,2023.0,4,Medicine; Cardiology; Internal medicine; Regurgitation (circulation); Tricuspid valve,True
+P230013,EDWARDS EVOQUE TRICUSPID VALVE REPLACEMENT SYSTEM,6,14,2.33,0,2,2021.0,2,Medicine; Regurgitation (circulation); Cardiology; Internal medicine; Tricuspid valve,True
+P230014,LUMICELL DIRECT VISUALIZATION SYSTEM (DVS),4,2,0.5,2,2,2024.0,4,Lumpectomy; Medicine; Cancer; Pathology; Internal medicine,True
+P230023,GORE EXCLUDER THORACOABDOMINAL BRANCH ENDOPROSTHESIS,29,435,15.0,3,11,2023.0,10,Medicine; Surgery; Stent; Abdominal aortic aneurysm; Aortic aneurysm,True
+P240001,PEARLMATRIX BONE GRAFT,0,0,0.0,0,0,,0,,True
+P240005,"ENVISTA ENVY HYDROPHOBIC ACRYLIC INTRAOCULAR LENS (IOL), ENVISTA ENVY TORIC HYDROPHOBIC ACRYLIC INTRAOCULAR LENS (IOL)",0,0,0.0,0,0,,0,,True
+P240008,SAYPHA® MAGIQ,0,0,0.0,0,0,,0,,True
+P240020,TOUCH® CMC 1 PROSTHESIS,0,0,0.0,0,0,,0,,True
+P240022,EVOLYSSE SMOOTH AND EVOLYSSE FORM,0,0,0.0,0,0,,0,,True
+P240023,WRAPSODY® CELL-IMPERMEABLE ENDOPROSTHESIS,7,26,3.71,0,1,2021.0,4,Medicine; Stenosis; Surgery; Basilic Vein; Clinical endpoint,True
+P240027,SPINESEAL SPINE SEALANT,0,0,0.0,0,0,,0,,True
+P240035,ETHIZIA,0,0,0.0,0,0,,0,,True
+P240038,FINEVISION HP TRIFOCAL IOLS,2,18,9.0,1,1,2022.0,2,Dioptre; GLARE; Ophthalmology; Contrast (vision); Intraocular lens,True
+P240043,DIAM­ SPINAL STABILIZATION SYSTEM,0,0,0.0,0,0,,0,,True
+P790007,"HANCOCK MODIFIED ORIFICE (MO) VALVED CONDUIT, MODEL 150",0,0,0.0,0,0,,0,,True
+P790018,MEDTRONIC HALL PROSTHETIC HEART VALVE,2,0,0.0,0,0,2002.0,2,Cavitation; Distilled water; Aqueous solution; Biomedical engineering; Materials science,True
+P790027,POSTERIOR CHAMBER INTRAOCULAR LENS,100,11639,116.39,3,5,2002.0,29,Medicine; Ophthalmology; Intraocular lens; Phacoemulsification; Visual acuity,True
+P800002,AVITENE MICROFIBRILLAR COLLAGEN HEMOSTAT (MCH) NON-WOVEN WEB,15,516,34.4,0,0,1997.0,5,Medicine; Hemostat; Biomedical engineering; Cardiopulmonary bypass; Hepatocellular carcinoma,True
+P800022,"COSMODERM 1 HUMAN-BASED COLLAGEN, COSMODERM 2 HUMAN-BASED COLLAGEN AND COSMOPLAST HUMAN-BASED COLLAGEN",1,1,1.0,0,0,2007.0,1,Jurisdiction; Scope (computer science); Food and drug administration; Agency (philosophy); Flexibility (engineering),True
+P810002,MASTERS SERIES COATED AORTIC VALVED GRAFT,0,0,0.0,0,0,,0,,True
+P810006,COLLASTAT ABSORBABLE COLLAGEN HEMOSTATIC AGENTS,0,0,0.0,0,0,,0,,True
+P810031,"HEALON SODIUM HYALURONATE VISCELASTIC PRODUCTS, HEALON,HEALON GV, HEALON 5",0,0,0.0,0,0,,0,,True
+P810032,ACRYSOF UV-ABSORBING MULTI-PIECE PC IOL,0,0,0.0,0,0,,0,,True
+P810055,CEEON PMMA UV-LIGHT ABSORBING POSTERIOR CHAMBER (IOLS),0,0,0.0,0,0,,0,,True
+P830039,OMNICARBON CARDIAC VALVE PROSTHESIS,0,0,0.0,0,0,,0,,True
+P830055,LCS TOTAL KNEE SYSTEM,10,147,14.7,0,0,2002.0,9,Medicine; Orthopedic surgery; Total knee arthroplasty; Polyethylene; Fluoroscopy,True
+P830079,INSTAT ABSORBABLE COLLAGEN HEMOSTAT,0,0,0.0,0,0,,0,,True
+P840024,NUCLEUS 22 COCHLEAR IMPLANT SYSTEM- ADULTS,0,0,0.0,0,0,,0,,True
+P840039,PMMA INTAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P840060,ACRYSOF UV-ABSORBING SINGLE-PIECE PC IOL,0,0,0.0,0,0,,0,,True
+P840062,COLLACOTE ABSORABLE COLLAGEN WOUND DRESSING,0,0,0.0,0,0,,0,,True
+P840064,DISCOVISC OPHTHALMIC VISCOSURGICAL DEVICE,2,58,29.0,0,0,2011.0,2,Phacoemulsification; Medicine; Ophthalmology; Cataract surgery; Intraocular pressure,True
+P850010,HELISTAT/HELITENE ABSORBABLE COLLAGEN HEMOSTATIC AGENTS,68,7141,105.01,7,6,2010.0,11,Medicine; Bone morphogenetic protein; Bone morphogenetic protein 2; Biomedical engineering; Chemistry,True
+P850059,UV-ABSORBING PMMA ANTERIOR CHAMBER IOLS,0,0,0.0,0,0,,0,,True
+P860002,POLYMETHYLMETHA-CRYLATE (PMMA) INTRAOCULAR LENSES (IOLS),0,0,0.0,0,0,,0,,True
+P860005,PRO OSTEON 500 BONE GRAFT SUBSTITUTE,0,0,0.0,0,0,,0,,True
+P860047,"OCUCOAT, PMMA AND SILICONE INTRAOCULAR LENSES",0,0,0.0,0,0,,0,,True
+P860057,CARPENTIER-EDWARDS PERIMOUNT PLUS PERICARDIAL BIOPROSTHESIS,0,0,0.0,0,0,,0,,True
+P870013,PMMA ANTERIOR CHAMBER INTRAOCULAR LENS,2,30,15.0,0,0,1997.0,1,Medicine; Ophthalmology; Intraocular lens; Cataract surgery; Anterior Eye Segment,True
+P870038,"STARR-EDWARDS SILASTIC BALL PROSTHESIS,MODELS 1260 & 6120",0,0,0.0,0,0,,0,,True
+P870056,"CARPENTIER-EDWARDS BIOPROSTHESIS, MODELS 2625 AND 6625",0,0,0.0,0,0,,0,,True
+P870072,"THORATEC VAD SYSTEM; SEALED ARTERIAL CANNULAE, 14 MM AND 18 MM GRAFT",0,0,0.0,0,0,,0,,True
+P870073,POLYMETHYLMETHA-CRYLATE (PMMA) INTRAOCULAR LENSES (IOLS),0,0,0.0,0,0,,0,,True
+P870077,"CARPENTIER-EDWARDS DURAFLEX BIOPROSTHESIS, MODELS 6625LP/ESR",0,0,0.0,0,0,,0,,True
+P870078,HANCOCK STANDARD PORCINE BIOPROSTHESIS,0,0,0.0,0,0,,0,,True
+P870080,HULKA CLIP FOR TUBAL OCCLUSION,0,0,0.0,0,0,,0,,True
+P880070,MODEL HSM65 UV ABSORBING PMMA ANTERIOR CHAMBER LENS,0,0,0.0,0,0,,0,,True
+P880072,POSTERIOR CHAMBER INTRAOCULAR LENS,100,14958,149.58,4,14,2003.0,13,Medicine; Ophthalmology; Intraocular lens; Visual acuity; Phacoemulsification,True
+P880081,PHACOFLEX II(R) SILICONE POSTERIOR CHAMBER INTRAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P880087,ACRYSOF UV-ABSORBING PMMA SINGLE-PIECE ANTERIOR CHAMBER,0,0,0.0,0,0,,0,,True
+P880090,"PMMA IOL'S: MODELS EZE-50, 55, 60, 65, 70, P359UV, P366UV, IO359, IO379, S122UV AND L122UV",0,0,0.0,0,0,,0,,True
+P880091,ELASTIC LENS SINGLE-PIECE SILICONE POSTERIOR CHAMBER INTRAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P890027,NUCLEUS 22 COCHLEAR IMPLANT SYSTEM- CHILDREN,0,0,0.0,0,0,,0,,True
+P890047,"DISCOVISC, VISCOAT AND DUOVISC",0,0,0.0,0,0,,0,,True
+P900030,CONTIGEN BARD COLLAGEN IMPLANT,0,0,0.0,0,0,,0,,True
+P900033,INTEGRA DERMAL REGENERATION TEMPLATE,80,2500,31.25,2,6,2006.0,12,Medicine; Surgery; Regeneration (biology); Dermis; Skin grafting,True
+P900039,COLLAGRAFT STRIP BONE GRAFT MATRIX,0,0,0.0,0,0,,0,,True
+P900060,CARBOMEDICS PROSTHETIC HEART VALVE (CPHV),4,98,24.5,0,0,1996.0,1,Medicine; Aortic valve; Structural integrity; Cardiology; Kinetic energy,True
+P910016,LCS UNI TOTAL KNEE SYSTEM,0,0,0.0,0,0,,0,,True
+P910056,SILICONE INTRAOCULAR LENSES,100,7632,76.32,13,12,2002.0,14,Medicine; Ophthalmology; Intraocular lens; Phacoemulsification; Intraocular lenses,True
+P910058,"ULTRAVIOLET-ABSORBING SILICONE POSTERIOR CHAMBER INTRAOCULAR LENSES,MODEL C11UB",0,0,0.0,0,0,,0,,True
+P910061,BIOBURDEN TESTING,25,411,16.44,0,0,2010.0,5,Bioburden; Medicine; Sterilization (economics); Computer science; Biology,True
+P910068,VITREON INTRAOCULAR FLUID (PERFLUOROPERHYDROPHENANTHRENE),0,0,0.0,0,0,,0,,True
+P910071,ADATO SIL-OIL 5000 SILICONE OIL,0,0,0.0,0,0,,0,,True
+P920046,FEMCARE FILSHIE CLIP SYSTEM,0,0,0.0,0,0,,0,,True
+P930014,ACRYSOF MULTI-PIECE POSTERIOR CHAMBER (IOL),0,0,0.0,0,0,,0,,True
+P940002,NATURAL KNEE & NATURAL KNEE II,0,0,0.0,0,0,,0,,True
+P940007,CEEON SILICONE POSTERIOR CHAMBER INTRAOCULAR LENSES,0,0,0.0,0,0,,0,,True
+P940010,OPTIGUIDE (TM) CYLINDRICAL FIBER OPTIC,0,0,0.0,0,0,,0,,True
+P940015,SYNVISC (HYLAN G-F 20),15,1237,82.47,3,1,2007.0,5,Medicine; Osteoarthritis; Hyaluronic acid; Cartilage; Viscosupplementation,True
+P940022,PLATINUM SOUND PROCESSOR (COCHLEAR IMPLANT),0,0,0.0,0,0,,0,,True
+P950002,BAK/PROXIMITY(TM) INTERBODY FUSION SYSTEM,100,17420,174.2,4,0,2011.0,19,Biology; Medicine; Apoptosis; Chemistry; Cell biology,True
+P950008,SILIKON 1000,22,1118,50.82,0,0,2009.0,7,Medicine; Facial rejuvenation; Silicone; Cosmetic Techniques; Rejuvenation,True
+P950018,PERFLUORON,28,914,32.64,0,0,2008.0,6,Medicine; Retinal detachment; Chemistry; Vitrectomy; Materials science,True
+P950019,RAY TFC DEVICE AND RAY TFC UNITE DEVICE,0,0,0.0,0,0,,0,,True
+P950027,HYALGAN,100,16177,161.77,25,5,2003.0,13,Medicine; Osteoarthritis; Hyaluronic acid; Sodium hyaluronate; Viscosupplementation,True
+P950032,APLIGRAF (GRAFTSKIN),17,1366,80.35,2,0,2001.0,3,Medicine; Diabetic foot; Biomedical engineering; Wound healing; In vitro,True
+P950034,SEPRAFILM BIORESORBABLE MEMBRANE,18,645,35.83,2,0,1997.0,3,Medicine; Adhesion; Surgery; Abrasion (mechanical); Chemistry,True
+P960007,TRANSCYTE,52,2282,43.88,7,7,2005.0,7,Medicine; Surgery; Randomized controlled trial; Total body surface area; Tissue engineering,True
+P960011,BIOLON 1% SODIUM HYALURONATE FOR OPHTHALMIC SURGERY,0,0,0.0,0,0,,0,,True
+P960025,LUMBAR I/F CAGE WITH VSP SPINE SYSTEM,47,2370,50.43,2,3,2009.0,13,Medicine; Humanities; Lumbar; Surgery; Philosophy,True
+P960028,ARRAY(R) SILICONE MULTIFOCAL POSTERIOR CHAMBER INTRAOCULAR LENSES,0,0,0.0,0,0,,0,,True
+P960036,MEMORY LENS MODEL U940A UV ABSORBING HYDROPHILIC POSTERIOR CHAMBER IOL,0,0,0.0,0,0,,0,,True
+P960043,THE CLOSER 6 FR. SUTURE MEDIATED CLOSURE (SMC) SYSTEM AND THE CLOSER S 6 FR. SUTURE MEDIATED CLOSURE (SMC) SYSTEM,1,25,25.0,0,0,2003.0,1,Medicine; Arteriotomy; Angioplasty; Femoral artery; Surgery,True
+P960047,OSTEONICS CONSTRAINED ACETABULAR INSERT,1,26,26.0,0,0,2008.0,1,Medicine; Total hip arthroplasty; Surgery; Dislocation; Materials science,True
+P960052,DERMABOND TOPICAL SKIN ADHESIVE,28,253,9.04,6,7,2003.0,8,Medicine; Surgery; Adhesive; Closure (psychology); Dermatology,True
+P960053,BRAUN-CUTTER TRAPEZO-METACARPAL PROSTHESIS,0,0,0.0,0,0,,0,,True
+P960058,CLARION MULTI-STRATEGY COCHLEAR IMPLANT SYSTEM,0,0,0.0,0,0,,0,,True
+P970015,INTER FIX THREADED FUSION DEVICE,0,0,0.0,0,0,,0,,True
+P970030,ST JUDE TORONTO SPV VALVE,4,64,16.0,0,0,1999.0,2,Medicine; Stent; Balloon; Magnetic resonance imaging; Radiology,True
+P970031,FREESTYLE AORTIC ROOT BIOPROSTHESIS,90,1827,20.3,2,2,1999.0,12,Medicine; Cardiology; Aortic valve; Aortic root; Internal medicine,True
+P970034,POSTERIOR CHAMBER INTRAOCULAR LENSES,100,14958,149.58,4,14,2003.0,13,Medicine; Ophthalmology; Intraocular lens; Visual acuity; Phacoemulsification,True
+P970042,MEDSTONE STS LITHOTRIPTER,10,90,9.0,2,2,2008.0,4,Medicine; Extracorporeal shock wave lithotripsy; Lithotripsy; Surgery; Diabetes mellitus,True
+P970051,NUCLEUS N24 COCHLEAR IMPLANT SYSTEM,0,0,0.0,0,0,,0,,True
+P980006,BALAFILCON A PRODUCT FAMILY,0,0,0.0,0,0,,0,,True
+P980040,SENSAR SOFT ACRYLIC UV-LIGHT ABSORBING POSTERIOR CHAMBER INTRAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P980043,HANCOCK II PORCINE BIOPROSTHESIS MODELS T505/T510,0,0,0.0,0,0,,0,,True
+P980044,SUPARTZ FX,0,0,0.0,0,0,,0,,True
+P980048,BAK/CERVICAL (BAK/C) INTERBODY FUSION SYSTEM,100,153051,1530.51,4,6,2011.0,11,Medicine; Biology; Cell biology; Programmed cell death; Apoptosis,True
+P980052,TMJ CONCEPTS PATIENT-FITTED TMJ RECONSTRUCTION PROSTHESIS SYSTEM,0,0,0.0,0,0,,0,,True
+P990002,FEMSOFT URETHRAL INSERT,3,249,83.0,2,2,2002.0,2,Medicine; MEDLINE; Dermatology; Political science; Law,True
+P990004,"SURGIFORM ABSORBABLE GELATION SPONGE, USP",0,0,0.0,0,0,,0,,True
+P990009,FLOSEAL MATRIX HEMOSTATIC SEALANT,7,463,66.14,1,2,2005.0,3,Medicine; Surgery; Hemostasis; Nephrectomy; Sealant,True
+P990013,COLLAMER ULTRAVIOLET ABSORBING POSTERIOR CHAMBER INTRAOCULAR LENS,0,0,0.0,0,0,,0,,True
+P990014,HYDROVIEW COMPOSITE HYDROGEL FOLDABLE ULTRAVIOLET ABSORBING POSTERIOR CHAMBER INTRAOCULAR LENS (IOL),0,0,0.0,0,0,,0,,True
+P990017,ANCURE(TM) ENDOGRAFT(R) SYSTEM,0,0,0.0,0,0,,0,,True
+P990019,BLU-U BLUE LIGHT PHOTODYNAMIC THERAPHY ILLUMINATOR,0,0,0.0,0,0,,0,,True
+P990020,ANEURX AAADVANTAGE STONE GRAFT WITH XCELERANT DELIVERY SYSTEM,0,0,0.0,0,0,,0,,True
+P990028,FOCAL SEAL-L SYNTHETIC ABSORBABLE SEALANT,0,0,0.0,0,0,,0,,True
+P990030,VITAGEL SURGICAL HEMOSTAT,0,0,0.0,0,0,,0,,True
+P990037,"DUETT PRO SEALING DEVICE, DIAGNOSTIC DUETT PRO SEALING DEVICE  AND D-STAT FLOWABLE HEMOSTAT",0,0,0.0,0,0,,0,,True
+P990046,ATS OPEN PIVOT BILEAFLET HEART VALVE,4,59,14.75,0,0,2007.0,2,Glutaraldehyde; Hydroxylysine; Fixation (population genetics); Buckling; Glycosaminoglycan,True
+P990048,VISULAS 690S LASER AND VISULINK PDT ADAPTER,0,0,0.0,0,0,,0,,True
+P990049,COHERENT OPAL PHOTOACTIVATOR,2,8,4.0,0,0,2008.0,2,Medicine; Verteporfin; Choroidal neovascularization; Visual acuity; Ophthalmology,True
+P990052,VIBRANT P/ VIBRANT D SOUNDBRIDGE SYSTEM,6,48,8.0,0,0,1997.0,1,Art; Facilitator; Environmental science; Enthusiasm; Russian literature,True
+P990064,MEDTRONIC MOSAIC PORCINE BIOPROSTHETIC HEART VALVE,0,0,0.0,0,0,,0,,True
+P990074,NATRELLE SALINE BREAST IMPLANTS,1,43,43.0,0,1,2009.0,1,Medicine; Capsular contracture; Implant; Breast augmentation; Patient satisfaction,True
+P990075,MENTOR CORPORATION SALINE-FILLED AND SPECTRUM (R) MAMMARY PROSTHESES,4,286,71.5,0,0,2005.0,2,Medicine; Surgery; Breast augmentation; Mastopexy; Seroma,True
+P990080,"CEEON EDGE FOLDABLE ULTRAVIOLET LIGHT-ABSORBING POSTERIOR CHAMBER INTRAOCULAR LENS, MODEL 911A",0,0,0.0,0,0,,0,,True
+P990086,HEALTHTRONICS OSSATRON,0,0,0.0,0,0,,0,,True
