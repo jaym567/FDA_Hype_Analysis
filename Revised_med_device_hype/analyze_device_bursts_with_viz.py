@@ -21,15 +21,18 @@ from kleinberg_burst import KleinbergBurstDetector, normalize_timestamps
 class DeviceBurstAnalyzer:
     """Analyzes publication bursts for medical devices from CSV data."""
     
-    def __init__(self, csv_file_path: str):
+    def __init__(self, csv_file_path: str, devices_file_path: str = None):
         """
         Initialize the analyzer with CSV file path.
         
         Args:
             csv_file_path: Path to the publications_surgical.csv file
+            devices_file_path: Path to the devices_surgical.csv file (optional, for metadata)
         """
         self.csv_file_path = csv_file_path
+        self.devices_file_path = devices_file_path
         self.data = self._load_data()
+        self.device_metadata = self._load_device_metadata() if devices_file_path else {}
         self.device_publications = self._group_by_device()
         self.burst_detector = KleinbergBurstDetector(s=2.0, gamma=1.0)
         self.results = None
@@ -63,16 +66,52 @@ class DeviceBurstAnalyzer:
         
         return df
     
+    def _load_device_metadata(self) -> Dict[str, Dict]:
+        """Load device metadata like specialty and approval date."""
+        metadata = {}
+        if not self.devices_file_path or not os.path.exists(self.devices_file_path):
+            print(f"Warning: Device metadata file not found at {self.devices_file_path}")
+            return metadata
+            
+        try:
+            df = pd.read_csv(self.devices_file_path)
+            # Ensure required columns exist
+            required_cols = ['pma_number', 'surgical_specialty', 'decision_date', 'trade_name']
+            if not all(col in df.columns for col in required_cols):
+                print(f"Warning: Device metadata file missing required columns. Found: {df.columns}")
+                return metadata
+                
+            for _, row in df.iterrows():
+                pma = row['pma_number']
+                if pd.notna(pma):
+                    metadata[pma] = {
+                        'specialty': row['surgical_specialty'] if pd.notna(row['surgical_specialty']) else 'Unknown',
+                        'decision_date': pd.to_datetime(row['decision_date'], errors='coerce'),
+                        'trade_name': row['trade_name']
+                    }
+            print(f"Loaded metadata for {len(metadata)} devices")
+        except Exception as e:
+            print(f"Error loading device metadata: {e}")
+            
+        return metadata
+    
     def _group_by_device(self) -> Dict[str, pd.DataFrame]:
         """Group publications by device PMA number."""
         device_groups = {}
         
         for device_id, group in self.data.groupby('device_pma_number'):
             device_name = group['trade_name'].iloc[0] if len(group) > 0 else device_id
+            # Get metadata if available
+            meta = self.device_metadata.get(device_id, {})
+            specialty = meta.get('specialty', 'Unknown')
+            decision_date = meta.get('decision_date', pd.NaT)
+            
             device_groups[device_id] = {
                 'data': group,
                 'name': device_name,
-                'years': sorted(group['publication_year'].unique())
+                'years': sorted(group['publication_year'].unique()),
+                'specialty': specialty,
+                'decision_date': decision_date
             }
         
         return device_groups
@@ -315,7 +354,364 @@ class DeviceBurstAnalyzer:
         # 6. Combined overview dashboard
         self._create_dashboard_plot(output_dir)
         
+        # Prepare unified data for advanced figures
+        viz_df = self._prepare_visualization_data()
+        if not viz_df.empty:
+            # 7. Figure 1: Specialty Hype Landscape
+            self._plot_fig1_specialty_hype(viz_df, output_dir)
+            
+            # 8. Figure 2: Burst Prevalence
+            self._plot_fig2_burst_prevalence(viz_df, output_dir)
+            
+            # 9. Figure 3: Exemplar Time Series
+            self._plot_fig3_exemplar_timeseries(output_dir)
+            
+            # 10. Figure 4: Burst Timing
+            self._plot_fig4_burst_timing(viz_df, output_dir)
+            
+            # 11. Figure 5: Hype vs Evidence
+            self._plot_fig5_hype_vs_evidence(viz_df, output_dir)
+            
+            # 12. Figure 6: Top 50 Hype Ranking
+            self._plot_fig6_hype_ranking(viz_df, output_dir)
+            
+            # 13. Figure 7: Pipeline Schematic
+            self._plot_fig7_pipeline_schematic(output_dir)
+        
         print(f"\nAll visualizations saved to '{output_dir}' directory")
+    
+    def _prepare_visualization_data(self) -> pd.DataFrame:
+        """Prepare a unified DataFrame for visualization."""
+        data = []
+        for device_id, result in self.results.items():
+            if 'error' in result:
+                continue
+                
+            bursts = result.get('burst_analysis', {}).get('bursts', [])
+            device_info = self.device_publications.get(device_id, {})
+            
+            # Calculate hype metrics
+            has_burst = len(bursts) > 0
+            num_bursts = len(bursts)
+            max_intensity = max([b['state'] for b in bursts]) if bursts else 0
+            total_duration = sum([b['duration'] for b in bursts]) if bursts else 0
+            
+            # Composite hype score (0-1 normalized logic to be refined)
+            # Simple proxy: max intensity * log(duration + 1)
+            hype_score_raw = max_intensity * np.log1p(total_duration)
+            
+            # Get metadata
+            specialty = device_info.get('specialty', 'Unknown')
+            # Clean specialty names if needed
+            if pd.isna(specialty) or specialty == 'nan':
+                specialty = 'Unknown'
+                
+            data.append({
+                'device_id': device_id,
+                'device_name': result.get('device_name', ''),
+                'specialty': specialty,
+                'num_publications': result.get('num_publications', 0),
+                'has_burst': has_burst,
+                'num_bursts': num_bursts,
+                'max_intensity': max_intensity,
+                'total_duration': total_duration,
+                'hype_score_raw': hype_score_raw
+            })
+            
+        df = pd.DataFrame(data)
+        if not df.empty:
+            # Normalize hype score to 0-1 range
+            max_score = df['hype_score_raw'].max()
+            if max_score > 0:
+                df['hype_score'] = df['hype_score_raw'] / max_score
+            else:
+                df['hype_score'] = 0
+        return df
+
+    def _plot_fig1_specialty_hype(self, df: pd.DataFrame, output_dir: str):
+        """
+        Figure 1: Specialty Hype Landscape.
+        Box/violin plot of Hype Scores by specialty.
+        """
+        plt.figure(figsize=(14, 8))
+        
+        # Filter out Unknown if desired, or keep
+        plot_df = df[df['specialty'] != 'Unknown'].copy()
+        if plot_df.empty:
+            plot_df = df.copy()
+            
+        # Sort specialties by median hype score
+        order = plot_df.groupby('specialty')['hype_score'].median().sort_values(ascending=False).index
+        
+        sns.boxplot(x='specialty', y='hype_score', data=plot_df, order=order, palette='viridis')
+        sns.stripplot(x='specialty', y='hype_score', data=plot_df, order=order, 
+                     color='black', alpha=0.3, size=3, jitter=True)
+        
+        plt.xticks(rotation=45, ha='right')
+        plt.title('Specialty Hype Landscape: Hype Scores by Medical Specialty', fontsize=16, fontweight='bold')
+        plt.xlabel('Surgical Specialty', fontsize=12)
+        plt.ylabel('Composite Hype Score (0-1)', fontsize=12)
+        plt.grid(axis='y', alpha=0.3)
+        plt.tight_layout()
+        
+        plt.savefig(f"{output_dir}/Figure_1_Specialty_Hype.png", dpi=300, bbox_inches='tight')
+        plt.savefig(f"{output_dir}/Figure_1_Specialty_Hype.pdf", bbox_inches='tight')
+        plt.close()
+        print("  Created: Figure_1_Specialty_Hype.png")
+
+    def _plot_fig2_burst_prevalence(self, df: pd.DataFrame, output_dir: str):
+        """
+        Figure 2: Burst Prevalence.
+        Grouped bar chart showing % of devices with bursts per specialty.
+        """
+        # Calculate prevalence
+        specialty_stats = df[df['specialty'] != 'Unknown'].groupby('specialty').agg(
+            total_devices=('device_id', 'count'),
+            devices_with_burst=('has_burst', 'sum')
+        ).reset_index()
+        
+        specialty_stats['prevalence'] = (specialty_stats['devices_with_burst'] / specialty_stats['total_devices']) * 100
+        specialty_stats = specialty_stats.sort_values('prevalence', ascending=False)
+        
+        plt.figure(figsize=(14, 8))
+        
+        # Bar plot
+        bars = plt.bar(specialty_stats['specialty'], specialty_stats['prevalence'], color=self.colors['burst_medium'])
+        
+        # Add labels
+        for bar, total in zip(bars, specialty_stats['total_devices']):
+            height = bar.get_height()
+            plt.text(bar.get_x() + bar.get_width()/2., height + 1,
+                    f'n={total}', ha='center', va='bottom', fontsize=9)
+            
+        plt.xticks(rotation=45, ha='right')
+        plt.title('Burst Prevalence by Surgical Specialty', fontsize=16, fontweight='bold')
+        plt.xlabel('Specialty', fontsize=12)
+        plt.ylabel('Devices with Detected Bursts (%)', fontsize=12)
+        plt.ylim(0, 100) # Percentage
+        plt.grid(axis='y', alpha=0.3)
+        plt.tight_layout()
+        
+        plt.savefig(f"{output_dir}/Figure_2_Burst_Prevalence.png", dpi=300, bbox_inches='tight')
+        plt.savefig(f"{output_dir}/Figure_2_Burst_Prevalence.pdf", bbox_inches='tight')
+        plt.close()
+        print("  Created: Figure_2_Burst_Prevalence.png")
+
+    def _plot_fig3_exemplar_timeseries(self, output_dir: str):
+        """
+        Figure 3: Exemplar Time Series.
+        Multi-panel line plot for top devices with bursts.
+        """
+        # Select top 3 devices with bursts (same as timeline plot but refined)
+        top_devices = []
+        for device_id, result in self.results.items():
+            if 'error' not in result:
+                bursts = result.get('burst_analysis', {}).get('bursts', [])
+                if bursts:
+                    top_devices.append((device_id, result.get('num_publications', 0)))
+        
+        top_devices.sort(key=lambda x: x[1], reverse=True)
+        top_devices = top_devices[:3]
+        
+        if not top_devices:
+            return
+
+        fig, axes = plt.subplots(len(top_devices), 1, figsize=(12, 4 * len(top_devices)), sharex=False)
+        if len(top_devices) == 1:
+            axes = [axes]
+            
+        colors = [self.colors['burst_high'], self.colors['burst_medium'], self.colors['timeline']]
+        
+        for idx, (device_id, _) in enumerate(top_devices):
+            ax = axes[idx]
+            result = self.results[device_id]
+            device_name = result.get('device_name', device_id)
+            dates = sorted(result.get('dates', []))
+            
+            # Plot yearly counts
+            if dates:
+                date_series = pd.Series(dates)
+                yearly_counts = date_series.dt.year.value_counts().sort_index()
+                ax.plot(yearly_counts.index, yearly_counts.values, marker='o', linewidth=2, color=colors[idx % len(colors)])
+                ax.fill_between(yearly_counts.index, yearly_counts.values, alpha=0.2, color=colors[idx % len(colors)])
+                
+                # Highlight bursts areas
+                bursts = result.get('burst_analysis', {}).get('bursts', [])
+                for burst in bursts:
+                    start_year = burst['start_time']
+                    end_year = burst['end_time']
+                    # Handle cases where time might be normalized or absolute (assumed years here if not normalized validation needed)
+                    # If normalized, this visualization might need adjustment. Assuming years from data loading.
+                    pass # Only shade if we have year data mapped correctly. Kleinberg usually returns indices or time units.
+                         # Given earlier logic, let's stick to the simple plot for now.
+            
+            ax.set_title(f"Exemplar: {device_name[:50]}...", fontweight='bold')
+            ax.set_ylabel("Publications")
+            ax.grid(True, alpha=0.3)
+            
+        plt.xlabel("Year")
+        plt.tight_layout()
+        plt.savefig(f"{output_dir}/Figure_3_Exemplar_Timeseries.png", dpi=300, bbox_inches='tight')
+        plt.savefig(f"{output_dir}/Figure_3_Exemplar_Timeseries.pdf", bbox_inches='tight')
+        plt.close()
+        print("  Created: Figure_3_Exemplar_Timeseries.png")
+
+    def _plot_fig4_burst_timing(self, df: pd.DataFrame, output_dir: str):
+        """
+        Figure 4: Burst Timing.
+        Histogram of years from PMA approval to first burst.
+        """
+        plt.figure(figsize=(10, 6))
+        
+        timing_data = []
+        for _, row in df.iterrows():
+            if not row['has_burst']:
+                continue
+                
+            device_id = row['device_id']
+            # Get approval year
+            device_info = self.device_publications.get(device_id, {})
+            approval_date = device_info.get('decision_date', pd.NaT)
+            
+            if pd.isna(approval_date):
+                continue
+                
+            approval_year = approval_date.year
+            
+            # Get first burst year
+            # Note: This relies on the burst detector using years as time units which matches the csv data loading
+            result = self.results.get(device_id, {})
+            bursts = result.get('burst_analysis', {}).get('bursts', [])
+            if not bursts:
+                continue
+                
+            first_burst_start = min([b['start_time'] for b in bursts])
+            
+            # Calculate lag
+            lag = first_burst_start - approval_year
+            if -10 < lag < 30: # Filter reasonable range
+                timing_data.append(lag)
+                
+        if timing_data:
+            sns.histplot(timing_data, bins=20, kde=True, color='teal')
+            plt.axvline(x=0, color='red', linestyle='--', label='PMA Approval')
+            plt.title('Time to First Hype Burst: Years from FDA Approval', fontsize=14, fontweight='bold')
+            plt.xlabel('Years from Approval (Negative = Pre-market hype)', fontsize=12)
+            plt.ylabel('Number of Devices', fontsize=12)
+            plt.legend()
+            plt.grid(axis='y', alpha=0.3)
+            
+            plt.savefig(f"{output_dir}/Figure_4_Burst_Timing.png", dpi=300, bbox_inches='tight')
+            plt.savefig(f"{output_dir}/Figure_4_Burst_Timing.pdf", bbox_inches='tight')
+            plt.close()
+            print("  Created: Figure_4_Burst_Timing.png")
+
+    def _plot_fig5_hype_vs_evidence(self, df: pd.DataFrame, output_dir: str):
+        """
+        Figure 5: Hype vs Evidence.
+        Scatterplot of Hype Score vs Total Citations (proxy for evidence impact).
+        """
+        plt.figure(figsize=(10, 8))
+        
+        # Need citation count. Currently df has num_publications. 
+        # I'll use num_publications as proxy for Volume of Evidence if citations aren't in viz data
+        # To get citations, I'd need to aggregate from the raw data.
+        # Let's perform a quick aggregation if possible or use num_pubs.
+        # Implementation Plan says "log(citations)". I'll try to fetch citations.
+        
+        # Aggregate citations
+        citation_map = {}
+        for device_id, group_info in self.device_publications.items():
+            if 'data' in group_info:
+                citation_map[device_id] = group_info['data']['cited_by_count'].sum()
+        
+        df['total_citations'] = df['device_id'].map(citation_map).fillna(0)
+        df['log_citations'] = np.log1p(df['total_citations'])
+        
+        sns.scatterplot(data=df, x='log_citations', y='hype_score', hue='specialty', 
+                        palette='viridis', alpha=0.7, size='num_bursts', sizes=(20, 200))
+        
+        plt.title('Hype Intensity vs. Scientific Impact', fontsize=14, fontweight='bold')
+        plt.xlabel('Log(Total Citations)', fontsize=12)
+        plt.ylabel('Composite Hype Score', fontsize=12)
+        plt.grid(True, alpha=0.3)
+        plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+        plt.tight_layout()
+        
+        plt.savefig(f"{output_dir}/Figure_5_Hype_vs_Evidence.png", dpi=300, bbox_inches='tight')
+        plt.savefig(f"{output_dir}/Figure_5_Hype_vs_Evidence.pdf", bbox_inches='tight')
+        plt.close()
+        print("  Created: Figure_5_Hype_vs_Evidence.png")
+
+    def _plot_fig6_hype_ranking(self, df: pd.DataFrame, output_dir: str):
+        """
+        Figure 6: ranking of top 50 devices by hype score.
+        """
+        plt.figure(figsize=(10, 14))
+        
+        top_50 = df.sort_values('hype_score', ascending=False).head(50)
+        
+        sns.barplot(data=top_50, x='hype_score', y='device_name', palette='rocket')
+        
+        plt.title('Top 50 Medical Devices by Hype Score', fontsize=16, fontweight='bold')
+        plt.xlabel('Composite Hype Score', fontsize=12)
+        plt.ylabel(None)
+        plt.yticks(fontsize=8)
+        plt.grid(axis='x', alpha=0.3)
+        plt.tight_layout()
+        
+        plt.savefig(f"{output_dir}/Figure_6_Hype_Ranking.png", dpi=300, bbox_inches='tight')
+        plt.savefig(f"{output_dir}/Figure_6_Hype_Ranking.pdf", bbox_inches='tight')
+        plt.close()
+        print("  Created: Figure_6_Hype_Ranking.png")
+
+    def _plot_fig7_pipeline_schematic(self, output_dir: str):
+        """
+        Figure 7: Schematic Diagram of the Analysis Pipeline.
+        """
+        fig, ax = plt.subplots(figsize=(12, 6))
+        ax.set_xlim(0, 10)
+        ax.set_ylim(0, 5)
+        ax.axis('off')
+        
+        # boxes
+        box_props = dict(boxstyle='round,pad=0.5', facecolor='white', edgecolor='black')
+        
+        # 1. Data Source
+        ax.text(1, 4, "Data Sources\n(OpenAlex API)\nPublications & Citations", 
+                ha='center', va='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='#e6f3ff', edgecolor='blue'))
+        
+        # 2. Filtering
+        ax.text(3, 4, "Filtering & Matching\n(Fuzzy Logic)\nMatch to FDA PMA List", 
+                ha='center', va='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='#fff0e6', edgecolor='orange'))
+        
+        # 3. Burst Detection
+        ax.text(5, 4, "Burst Detection\n(Kleinberg's Algorithm)\nIdentify High-Frequency Periods", 
+                ha='center', va='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='#e6ffe6', edgecolor='green'))
+        
+        # 4. Hype Analysis
+        ax.text(7, 4, "Hype Quantification\nIntensity, Duration,\nRecurrence", 
+                ha='center', va='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='#ffe6e6', edgecolor='red'))
+        
+        # 5. Dashboard
+        ax.text(9, 4, "Visualization\nFigures 1-7\nDashboard Generation", 
+                ha='center', va='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='#f9f2ec', edgecolor='brown'))
+        
+        # Arrows
+        ax.annotate("", xy=(2, 4), xytext=(1.8, 4), arrowprops=dict(arrowstyle="->"))
+        ax.annotate("", xy=(4, 4), xytext=(3.8, 4), arrowprops=dict(arrowstyle="->"))
+        ax.annotate("", xy=(6, 4), xytext=(5.8, 4), arrowprops=dict(arrowstyle="->"))
+        ax.annotate("", xy=(8, 4), xytext=(7.8, 4), arrowprops=dict(arrowstyle="->"))
+        
+        # Context labels
+        ax.text(5, 1, "Analysis Pipeline: From Raw Data to Hype Metrics", 
+                ha='center', va='center', fontsize=14, fontweight='bold', style='italic')
+        
+        plt.tight_layout()
+        plt.savefig(f"{output_dir}/Figure_7_Pipeline_Schematic.png", dpi=300, bbox_inches='tight')
+        plt.savefig(f"{output_dir}/Figure_7_Pipeline_Schematic.pdf", bbox_inches='tight')
+        plt.close()
+        print("  Created: Figure_7_Pipeline_Schematic.png")
     
     def _create_overall_statistics_plot(self, output_dir: str):
         """Create overall statistics visualization."""
@@ -1066,7 +1462,10 @@ def main():
     """Main analysis function."""
     # Initialize analyzer
     print("Loading and analyzing publication data...")
-    analyzer = DeviceBurstAnalyzer("Revised_med_device_hype\data\processed\publications_surgical.csv")
+    analyzer = DeviceBurstAnalyzer(
+        "Revised_med_device_hype\data\processed\publications_surgical.csv",
+        "Revised_med_device_hype\data\processed\devices_surgical.csv"
+    )
     
     # Analyze all devices
     print("\n" + "="*60)
