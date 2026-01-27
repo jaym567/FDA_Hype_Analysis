@@ -1,0 +1,4014 @@
+MEDICAL DEVICE PUBLICATION BURST ANALYSIS REPORT
+============================================================
+
+Analysis date: 2026-01-25 15:05:59
+Total devices analyzed: 137
+
+
+============================================================
+Device: N12159 - SURGICEL/SURGICEL NU-KNIT/SURGICEL FIBRILLAR ABSORBABLE HEMOSTAT
+Total publications: 100
+Publication span: 1998 to 2013
+Detected bursts: 7
+
+Burst periods:
+  Burst 1:
+    Dates: 2003-08-20 to 2003-09-01
+    Duration: 12 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2003
+    Rate: 0.0698 publications/day
+
+  Burst 2:
+    Dates: 2009-01-01 to 2009-12-01
+    Duration: 334 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0349 publications/day
+
+  Burst 3:
+    Dates: 2009-12-01 to 2010-01-05
+    Duration: 35 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2009, 2010
+    Rate: 0.0698 publications/day
+
+  Burst 4:
+    Dates: 2010-01-05 to 2011-01-01
+    Duration: 361 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2010, 2011
+    Rate: 0.0349 publications/day
+
+  Burst 5:
+    Dates: 2011-01-01 to 2011-04-01
+    Duration: 90 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0698 publications/day
+
+  Burst 6:
+    Dates: 2011-04-01 to 2013-12-01
+    Duration: 975 days
+    Publications: 30
+    Intensity level: 1
+    Years covered: 2011, 2012, 2013
+    Rate: 0.0349 publications/day
+
+  Burst 7:
+    Dates: 2013-12-01 to 2013-12-11
+    Duration: 10 days
+    Publications: 3
+    Intensity level: 2
+    Years covered: 2013
+    Rate: 0.0698 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000007 - CARPENTIER-EDWARDS PERIMOUNT PERICARDIAL BIOPROSTHESIS
+Total publications: 100
+Publication span: 2007 to 2022
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-07-15 to 2008-09-07
+    Duration: 54 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2008
+    Rate: 0.0355 publications/day
+
+  Burst 2:
+    Dates: 2010-03-17 to 2011-07-13
+    Duration: 483 days
+    Publications: 17
+    Intensity level: 1
+    Years covered: 2010, 2011
+    Rate: 0.0355 publications/day
+
+  Burst 3:
+    Dates: 2014-09-23 to 2015-02-10
+    Duration: 140 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2014, 2015
+    Rate: 0.0355 publications/day
+
+  Burst 4:
+    Dates: 2019-11-27 to 2020-01-01
+    Duration: 35 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2019, 2020
+    Rate: 0.0355 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000036 - DERMAGRAFT
+Total publications: 100
+Publication span: 1996 to 2011
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 1997-01-01 to 1997-01-01
+    Duration: 0 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 1997
+    Rate: 0.0690 publications/day
+
+  Burst 2:
+    Dates: 1997-01-01 to 1997-02-01
+    Duration: 31 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 1997
+    Rate: 0.0345 publications/day
+
+  Burst 3:
+    Dates: 2006-08-29 to 2007-07-01
+    Duration: 306 days
+    Publications: 13
+    Intensity level: 1
+    Years covered: 2006, 2007
+    Rate: 0.0345 publications/day
+
+  Burst 4:
+    Dates: 2011-07-26 to 2011-08-29
+    Duration: 34 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2011
+    Rate: 0.0345 publications/day
+
+  Burst 5:
+    Dates: 2011-08-29 to 2011-12-14
+    Duration: 107 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0690 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000054 - INFUSE BONE GRAFT
+Total publications: 100
+Publication span: 2002 to 2014
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-01-01 to 2008-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2008
+    Rate: 0.0850 publications/day
+
+  Burst 2:
+    Dates: 2009-04-10 to 2009-09-01
+    Duration: 144 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0425 publications/day
+
+  Burst 3:
+    Dates: 2010-11-03 to 2011-12-19
+    Duration: 411 days
+    Publications: 17
+    Intensity level: 1
+    Years covered: 2010, 2011
+    Rate: 0.0425 publications/day
+
+  Burst 4:
+    Dates: 2011-12-19 to 2012-01-01
+    Duration: 13 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2011, 2012
+    Rate: 0.0850 publications/day
+
+  Burst 5:
+    Dates: 2012-01-01 to 2012-01-27
+    Duration: 26 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2012
+    Rate: 0.0425 publications/day
+
+  Burst 6:
+    Dates: 2013-05-01 to 2014-10-06
+    Duration: 523 days
+    Publications: 21
+    Intensity level: 1
+    Years covered: 2013, 2014
+    Rate: 0.0425 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000058 - INFUSE BONE GRAFT/LT-CAGE LUMBAR TAPERED FUSION DEVICE
+Total publications: 100
+Publication span: 2002 to 2012
+Detected bursts: 8
+
+Burst periods:
+  Burst 1:
+    Dates: 2004-03-01 to 2004-03-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2004
+    Rate: 0.0993 publications/day
+
+  Burst 2:
+    Dates: 2008-01-01 to 2008-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2008
+    Rate: 0.0993 publications/day
+
+  Burst 3:
+    Dates: 2009-04-10 to 2009-09-01
+    Duration: 144 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0497 publications/day
+
+  Burst 4:
+    Dates: 2010-12-01 to 2011-04-04
+    Duration: 124 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2010, 2011
+    Rate: 0.0497 publications/day
+
+  Burst 5:
+    Dates: 2011-04-04 to 2011-05-28
+    Duration: 54 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0993 publications/day
+
+  Burst 6:
+    Dates: 2011-12-01 to 2011-12-19
+    Duration: 18 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2011
+    Rate: 0.0497 publications/day
+
+  Burst 7:
+    Dates: 2011-12-19 to 2012-01-01
+    Duration: 13 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2011, 2012
+    Rate: 0.0993 publications/day
+
+  Burst 8:
+    Dates: 2012-01-01 to 2012-12-01
+    Duration: 335 days
+    Publications: 14
+    Intensity level: 1
+    Years covered: 2012
+    Rate: 0.0497 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P020018 - ZENITH AAA ENDOVASCULAR GRAFT AND H&L-B ONE-SHOT INTRODUCTINO SYSTEM
+Total publications: 100
+Publication span: 2003 to 2013
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2005-12-01 to 2006-01-01
+    Duration: 31 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2005, 2006
+    Rate: 0.0528 publications/day
+
+  Burst 2:
+    Dates: 2007-01-01 to 2007-01-26
+    Duration: 25 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.1057 publications/day
+
+  Burst 3:
+    Dates: 2007-01-26 to 2007-06-01
+    Duration: 126 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2007
+    Rate: 0.0528 publications/day
+
+  Burst 4:
+    Dates: 2007-12-03 to 2009-03-06
+    Duration: 459 days
+    Publications: 27
+    Intensity level: 1
+    Years covered: 2008, 2009, 2007
+    Rate: 0.0528 publications/day
+
+  Burst 5:
+    Dates: 2011-11-21 to 2012-02-16
+    Duration: 87 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2011, 2012
+    Rate: 0.0528 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P040001 - X STOP INTERSPINOUS PROCESS DECOMPRESSION SYSTEM
+Total publications: 100
+Publication span: 2005 to 2015
+Detected bursts: 8
+
+Burst periods:
+  Burst 1:
+    Dates: 2009-01-01 to 2009-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2009
+    Rate: 0.1049 publications/day
+
+  Burst 2:
+    Dates: 2009-01-01 to 2009-10-01
+    Duration: 273 days
+    Publications: 13
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0525 publications/day
+
+  Burst 3:
+    Dates: 2010-04-24 to 2010-07-15
+    Duration: 82 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2010
+    Rate: 0.0525 publications/day
+
+  Burst 4:
+    Dates: 2011-12-22 to 2012-01-01
+    Duration: 10 days
+    Publications: 12
+    Intensity level: 2
+    Years covered: 2011, 2012
+    Rate: 0.1049 publications/day
+
+  Burst 5:
+    Dates: 2012-01-01 to 2012-02-07
+    Duration: 37 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2012
+    Rate: 0.0525 publications/day
+
+  Burst 6:
+    Dates: 2013-01-01 to 2013-01-01
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2013
+    Rate: 0.1049 publications/day
+
+  Burst 7:
+    Dates: 2013-01-01 to 2013-01-24
+    Duration: 23 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2013
+    Rate: 0.0525 publications/day
+
+  Burst 8:
+    Dates: 2014-06-10 to 2014-07-05
+    Duration: 25 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2014
+    Rate: 0.0525 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P040006 - CHARITE ARTIFICIAL DISC
+Total publications: 100
+Publication span: 2004 to 2014
+Detected bursts: 8
+
+Burst periods:
+  Burst 1:
+    Dates: 2007-01-01 to 2007-01-04
+    Duration: 3 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.1101 publications/day
+
+  Burst 2:
+    Dates: 2007-01-04 to 2007-02-01
+    Duration: 28 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2007
+    Rate: 0.0551 publications/day
+
+  Burst 3:
+    Dates: 2008-10-22 to 2008-11-28
+    Duration: 37 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2008
+    Rate: 0.0551 publications/day
+
+  Burst 4:
+    Dates: 2008-11-28 to 2009-01-01
+    Duration: 34 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2008, 2009
+    Rate: 0.1101 publications/day
+
+  Burst 5:
+    Dates: 2009-06-01 to 2010-01-01
+    Duration: 214 days
+    Publications: 13
+    Intensity level: 1
+    Years covered: 2009, 2010
+    Rate: 0.0551 publications/day
+
+  Burst 6:
+    Dates: 2010-01-01 to 2010-01-01
+    Duration: 0 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2010
+    Rate: 0.1101 publications/day
+
+  Burst 7:
+    Dates: 2010-01-01 to 2010-04-03
+    Duration: 92 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2010
+    Rate: 0.0551 publications/day
+
+  Burst 8:
+    Dates: 2014-07-01 to 2014-07-07
+    Duration: 6 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2014
+    Rate: 0.1101 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P040043 - GORE TAG THORACIC ENDOPROSTHESIS
+Total publications: 100
+Publication span: 2005 to 2015
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-01-31 to 2008-04-23
+    Duration: 83 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2008
+    Rate: 0.0502 publications/day
+
+  Burst 2:
+    Dates: 2008-04-23 to 2008-05-05
+    Duration: 12 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2008
+    Rate: 0.1003 publications/day
+
+  Burst 3:
+    Dates: 2008-05-05 to 2008-11-24
+    Duration: 203 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2008
+    Rate: 0.0502 publications/day
+
+  Burst 4:
+    Dates: 2008-11-24 to 2009-01-01
+    Duration: 38 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2008, 2009
+    Rate: 0.1003 publications/day
+
+  Burst 5:
+    Dates: 2009-01-01 to 2009-03-01
+    Duration: 59 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0502 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P050053 - INFUSE BONE GRAFT
+Total publications: 100
+Publication span: 2010 to 2024
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2013-05-01 to 2013-08-18
+    Duration: 109 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2013
+    Rate: 0.0385 publications/day
+
+  Burst 2:
+    Dates: 2015-01-01 to 2015-01-12
+    Duration: 11 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2015
+    Rate: 0.0769 publications/day
+
+  Burst 3:
+    Dates: 2018-07-23 to 2019-07-12
+    Duration: 354 days
+    Publications: 15
+    Intensity level: 1
+    Years covered: 2018, 2019
+    Rate: 0.0385 publications/day
+
+  Burst 4:
+    Dates: 2021-01-01 to 2021-06-11
+    Duration: 161 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0385 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P060023 - BRYAN CERVICAL DISC PROSTHESIS
+Total publications: 100
+Publication span: 2004 to 2019
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2004-09-01 to 2004-09-01
+    Duration: 0 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2004
+    Rate: 0.0711 publications/day
+
+  Burst 2:
+    Dates: 2006-11-04 to 2007-04-01
+    Duration: 148 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2006, 2007
+    Rate: 0.0356 publications/day
+
+  Burst 3:
+    Dates: 2009-05-04 to 2010-07-01
+    Duration: 423 days
+    Publications: 17
+    Intensity level: 1
+    Years covered: 2009, 2010
+    Rate: 0.0356 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P080020 - GEL-ONE
+Total publications: 100
+Publication span: 2006 to 2021
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2011-11-24 to 2012-02-01
+    Duration: 69 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2011, 2012
+    Rate: 0.0349 publications/day
+
+  Burst 2:
+    Dates: 2017-08-07 to 2018-03-08
+    Duration: 213 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2017, 2018
+    Rate: 0.0349 publications/day
+
+  Burst 3:
+    Dates: 2021-01-01 to 2021-06-24
+    Duration: 174 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0349 publications/day
+
+  Burst 4:
+    Dates: 2021-06-24 to 2021-07-20
+    Duration: 26 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0699 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P090012 - MELAFIND
+Total publications: 100
+Publication span: 2007 to 2021
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-09-25 to 2016-01-01
+    Duration: 98 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2016, 2015
+    Rate: 0.0396 publications/day
+
+  Burst 2:
+    Dates: 2017-01-01 to 2017-05-19
+    Duration: 138 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2017
+    Rate: 0.0396 publications/day
+
+  Burst 3:
+    Dates: 2018-10-31 to 2019-01-17
+    Duration: 78 days
+    Publications: 10
+    Intensity level: 2
+    Years covered: 2018, 2019
+    Rate: 0.0792 publications/day
+
+  Burst 4:
+    Dates: 2019-01-17 to 2019-03-01
+    Duration: 43 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2019
+    Rate: 0.0396 publications/day
+
+  Burst 5:
+    Dates: 2020-05-07 to 2021-05-12
+    Duration: 370 days
+    Publications: 15
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0396 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P090029 - PRESTIGE LP CERVICAL DISC
+Total publications: 100
+Publication span: 2010 to 2024
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-05-01 to 2015-09-04
+    Duration: 126 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2015
+    Rate: 0.0389 publications/day
+
+  Burst 2:
+    Dates: 2016-12-29 to 2017-03-01
+    Duration: 62 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2016, 2017
+    Rate: 0.0389 publications/day
+
+  Burst 3:
+    Dates: 2019-05-10 to 2020-07-31
+    Duration: 448 days
+    Publications: 15
+    Intensity level: 1
+    Years covered: 2019, 2020
+    Rate: 0.0389 publications/day
+
+  Burst 4:
+    Dates: 2020-07-31 to 2020-10-28
+    Duration: 89 days
+    Publications: 12
+    Intensity level: 2
+    Years covered: 2020
+    Rate: 0.0778 publications/day
+
+  Burst 5:
+    Dates: 2021-12-01 to 2022-02-08
+    Duration: 69 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2021, 2022
+    Rate: 0.0389 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P100006 - AUGMENT BONE GRAFT
+Total publications: 100
+Publication span: 2010 to 2024
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-03-20 to 2015-03-21
+    Duration: 1 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2015
+    Rate: 0.0772 publications/day
+
+  Burst 2:
+    Dates: 2019-11-06 to 2019-11-25
+    Duration: 19 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2019
+    Rate: 0.0772 publications/day
+
+  Burst 3:
+    Dates: 2019-11-25 to 2021-08-28
+    Duration: 642 days
+    Publications: 23
+    Intensity level: 1
+    Years covered: 2019, 2020, 2021
+    Rate: 0.0386 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P100040 - VALIANT CAPTIVIA
+Total publications: 100
+Publication span: 2013 to 2024
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2013-01-01 to 2013-03-01
+    Duration: 59 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2013
+    Rate: 0.0483 publications/day
+
+  Burst 2:
+    Dates: 2018-11-30 to 2019-01-25
+    Duration: 56 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2018, 2019
+    Rate: 0.0483 publications/day
+
+  Burst 3:
+    Dates: 2020-12-31 to 2022-03-24
+    Duration: 448 days
+    Publications: 23
+    Intensity level: 1
+    Years covered: 2020, 2021, 2022
+    Rate: 0.0483 publications/day
+
+  Burst 4:
+    Dates: 2024-02-14 to 2024-03-26
+    Duration: 41 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2024
+    Rate: 0.0483 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P100049 - LINX REFLUX MANAGEMENT SYSTEM
+Total publications: 100
+Publication span: 2009 to 2022
+Detected bursts: 9
+
+Burst periods:
+  Burst 1:
+    Dates: 2014-02-28 to 2014-05-14
+    Duration: 75 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2014
+    Rate: 0.0397 publications/day
+
+  Burst 2:
+    Dates: 2017-01-01 to 2017-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2017
+    Rate: 0.0793 publications/day
+
+  Burst 3:
+    Dates: 2018-01-01 to 2018-04-04
+    Duration: 93 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2018
+    Rate: 0.0397 publications/day
+
+  Burst 4:
+    Dates: 2018-04-04 to 2018-05-03
+    Duration: 29 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2018
+    Rate: 0.0793 publications/day
+
+  Burst 5:
+    Dates: 2018-05-03 to 2018-08-01
+    Duration: 90 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2018
+    Rate: 0.0397 publications/day
+
+  Burst 6:
+    Dates: 2019-03-16 to 2021-03-27
+    Duration: 742 days
+    Publications: 27
+    Intensity level: 1
+    Years covered: 2019, 2020, 2021
+    Rate: 0.0397 publications/day
+
+  Burst 7:
+    Dates: 2021-03-27 to 2021-04-01
+    Duration: 5 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0793 publications/day
+
+  Burst 8:
+    Dates: 2021-04-01 to 2021-11-02
+    Duration: 215 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0397 publications/day
+
+  Burst 9:
+    Dates: 2022-12-06 to 2022-12-30
+    Duration: 24 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2022
+    Rate: 0.0793 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P110039 - EXABLATE
+Total publications: 100
+Publication span: 2008 to 2022
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-01-01 to 2008-03-19
+    Duration: 78 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2008
+    Rate: 0.0367 publications/day
+
+  Burst 2:
+    Dates: 2018-01-01 to 2018-02-01
+    Duration: 31 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2018
+    Rate: 0.0734 publications/day
+
+  Burst 3:
+    Dates: 2018-02-01 to 2019-02-07
+    Duration: 371 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2018, 2019
+    Rate: 0.0367 publications/day
+
+  Burst 4:
+    Dates: 2020-01-01 to 2020-06-01
+    Duration: 152 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2020
+    Rate: 0.0367 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P130021 - MEDTRONIC COREVALVE SYSTEM
+Total publications: 100
+Publication span: 2010 to 2023
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2011-11-25 to 2015-01-01
+    Duration: 1133 days
+    Publications: 42
+    Intensity level: 1
+    Years covered: 2011, 2012, 2013, 2014, 2015
+    Rate: 0.0399 publications/day
+
+  Burst 2:
+    Dates: 2017-01-01 to 2017-03-09
+    Duration: 67 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2017
+    Rate: 0.0399 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P150010 - HYMOVIS
+Total publications: 100
+Publication span: 2011 to 2024
+Detected bursts: 8
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-07-01 to 2015-07-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2015
+    Rate: 0.0850 publications/day
+
+  Burst 2:
+    Dates: 2017-04-01 to 2017-11-13
+    Duration: 226 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2017
+    Rate: 0.0425 publications/day
+
+  Burst 3:
+    Dates: 2019-03-19 to 2019-06-25
+    Duration: 98 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2019
+    Rate: 0.0425 publications/day
+
+  Burst 4:
+    Dates: 2020-12-01 to 2021-01-29
+    Duration: 59 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0425 publications/day
+
+  Burst 5:
+    Dates: 2021-01-29 to 2021-07-10
+    Duration: 162 days
+    Publications: 17
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0850 publications/day
+
+  Burst 6:
+    Dates: 2021-07-10 to 2022-01-15
+    Duration: 189 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2021, 2022
+    Rate: 0.0425 publications/day
+
+  Burst 7:
+    Dates: 2022-01-15 to 2022-02-28
+    Duration: 44 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2022
+    Rate: 0.0850 publications/day
+
+  Burst 8:
+    Dates: 2022-02-28 to 2023-11-30
+    Duration: 640 days
+    Publications: 26
+    Intensity level: 1
+    Years covered: 2022, 2023
+    Rate: 0.0425 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P170007 - DUROLANE
+Total publications: 100
+Publication span: 2012 to 2024
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2014-11-21 to 2015-05-01
+    Duration: 161 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2014, 2015
+    Rate: 0.0430 publications/day
+
+  Burst 2:
+    Dates: 2016-01-01 to 2016-05-23
+    Duration: 143 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2016
+    Rate: 0.0430 publications/day
+
+  Burst 3:
+    Dates: 2018-02-15 to 2018-07-17
+    Duration: 152 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2018
+    Rate: 0.0430 publications/day
+
+  Burst 4:
+    Dates: 2019-04-01 to 2019-06-20
+    Duration: 80 days
+    Publications: 11
+    Intensity level: 2
+    Years covered: 2019
+    Rate: 0.0859 publications/day
+
+  Burst 5:
+    Dates: 2020-05-30 to 2020-09-11
+    Duration: 104 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2020
+    Rate: 0.0430 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P790027 - POSTERIOR CHAMBER INTRAOCULAR LENS
+Total publications: 100
+Publication span: 1996 to 2011
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2001-11-01 to 2002-04-01
+    Duration: 151 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2001, 2002
+    Rate: 0.0353 publications/day
+
+  Burst 2:
+    Dates: 2002-04-01 to 2002-05-01
+    Duration: 30 days
+    Publications: 24
+    Intensity level: 2
+    Years covered: 2002
+    Rate: 0.0707 publications/day
+
+  Burst 3:
+    Dates: 2002-05-01 to 2002-07-01
+    Duration: 61 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2002
+    Rate: 0.0353 publications/day
+
+  Burst 4:
+    Dates: 2003-02-01 to 2003-08-20
+    Duration: 200 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2003
+    Rate: 0.0353 publications/day
+
+  Burst 5:
+    Dates: 2011-06-17 to 2011-07-15
+    Duration: 28 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0707 publications/day
+
+  Burst 6:
+    Dates: 2011-07-15 to 2011-11-02
+    Duration: 110 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2011
+    Rate: 0.0353 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P880072 - POSTERIOR CHAMBER INTRAOCULAR LENS
+Total publications: 100
+Publication span: 1995 to 2010
+Detected bursts: 9
+
+Burst periods:
+  Burst 1:
+    Dates: 1999-04-01 to 1999-05-01
+    Duration: 30 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 1999
+    Rate: 0.0363 publications/day
+
+  Burst 2:
+    Dates: 1999-05-01 to 1999-05-01
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 1999
+    Rate: 0.0725 publications/day
+
+  Burst 3:
+    Dates: 1999-05-01 to 1999-06-01
+    Duration: 31 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 1999
+    Rate: 0.0363 publications/day
+
+  Burst 4:
+    Dates: 2002-04-01 to 2002-05-01
+    Duration: 30 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2002
+    Rate: 0.0363 publications/day
+
+  Burst 5:
+    Dates: 2002-05-01 to 2002-05-02
+    Duration: 1 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2002
+    Rate: 0.0725 publications/day
+
+  Burst 6:
+    Dates: 2002-05-02 to 2003-04-01
+    Duration: 334 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2002, 2003
+    Rate: 0.0363 publications/day
+
+  Burst 7:
+    Dates: 2003-04-01 to 2003-04-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2003
+    Rate: 0.0725 publications/day
+
+  Burst 8:
+    Dates: 2003-04-01 to 2003-07-01
+    Duration: 91 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2003
+    Rate: 0.0363 publications/day
+
+  Burst 9:
+    Dates: 2010-02-01 to 2010-02-12
+    Duration: 11 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2010
+    Rate: 0.0363 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P910056 - SILICONE INTRAOCULAR LENSES
+Total publications: 100
+Publication span: 1998 to 2013
+Detected bursts: 7
+
+Burst periods:
+  Burst 1:
+    Dates: 2001-11-01 to 2001-11-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2001
+    Rate: 0.0684 publications/day
+
+  Burst 2:
+    Dates: 2001-11-01 to 2002-04-01
+    Duration: 151 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2001, 2002
+    Rate: 0.0342 publications/day
+
+  Burst 3:
+    Dates: 2002-04-01 to 2002-07-01
+    Duration: 91 days
+    Publications: 11
+    Intensity level: 2
+    Years covered: 2002
+    Rate: 0.0684 publications/day
+
+  Burst 4:
+    Dates: 2003-12-23 to 2004-05-18
+    Duration: 147 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2003, 2004
+    Rate: 0.0342 publications/day
+
+  Burst 5:
+    Dates: 2004-05-18 to 2004-05-18
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2004
+    Rate: 0.0684 publications/day
+
+  Burst 6:
+    Dates: 2004-05-18 to 2004-08-01
+    Duration: 75 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2004
+    Rate: 0.0342 publications/day
+
+  Burst 7:
+    Dates: 2006-05-31 to 2007-01-01
+    Duration: 215 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2006, 2007
+    Rate: 0.0342 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P950002 - BAK/PROXIMITY(TM) INTERBODY FUSION SYSTEM
+Total publications: 100
+Publication span: 1996 to 2011
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2009-02-23 to 2011-01-01
+    Duration: 677 days
+    Publications: 23
+    Intensity level: 1
+    Years covered: 2009, 2010, 2011
+    Rate: 0.0347 publications/day
+
+  Burst 2:
+    Dates: 2011-01-01 to 2011-03-28
+    Duration: 86 days
+    Publications: 10
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0695 publications/day
+
+  Burst 3:
+    Dates: 2011-03-28 to 2011-11-09
+    Duration: 226 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2011
+    Rate: 0.0347 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P950027 - HYALGAN
+Total publications: 100
+Publication span: 1995 to 2010
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2002-11-01 to 2004-01-01
+    Duration: 426 days
+    Publications: 16
+    Intensity level: 1
+    Years covered: 2002, 2003, 2004
+    Rate: 0.0342 publications/day
+
+  Burst 2:
+    Dates: 2004-01-01 to 2004-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2004
+    Rate: 0.0683 publications/day
+
+  Burst 3:
+    Dates: 2004-01-01 to 2004-02-01
+    Duration: 31 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2004
+    Rate: 0.0342 publications/day
+
+  Burst 4:
+    Dates: 2004-12-18 to 2005-11-01
+    Duration: 318 days
+    Publications: 14
+    Intensity level: 1
+    Years covered: 2004, 2005
+    Rate: 0.0342 publications/day
+
+  Burst 5:
+    Dates: 2009-03-04 to 2009-12-09
+    Duration: 280 days
+    Publications: 13
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0342 publications/day
+
+  Burst 6:
+    Dates: 2010-09-22 to 2010-11-15
+    Duration: 54 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2010
+    Rate: 0.0342 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P970034 - POSTERIOR CHAMBER INTRAOCULAR LENSES
+Total publications: 100
+Publication span: 1995 to 2010
+Detected bursts: 9
+
+Burst periods:
+  Burst 1:
+    Dates: 1999-04-01 to 1999-05-01
+    Duration: 30 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 1999
+    Rate: 0.0363 publications/day
+
+  Burst 2:
+    Dates: 1999-05-01 to 1999-05-01
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 1999
+    Rate: 0.0725 publications/day
+
+  Burst 3:
+    Dates: 1999-05-01 to 1999-06-01
+    Duration: 31 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 1999
+    Rate: 0.0363 publications/day
+
+  Burst 4:
+    Dates: 2002-04-01 to 2002-05-01
+    Duration: 30 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2002
+    Rate: 0.0363 publications/day
+
+  Burst 5:
+    Dates: 2002-05-01 to 2002-05-02
+    Duration: 1 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2002
+    Rate: 0.0725 publications/day
+
+  Burst 6:
+    Dates: 2002-05-02 to 2003-04-01
+    Duration: 334 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2002, 2003
+    Rate: 0.0363 publications/day
+
+  Burst 7:
+    Dates: 2003-04-01 to 2003-04-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2003
+    Rate: 0.0725 publications/day
+
+  Burst 8:
+    Dates: 2003-04-01 to 2003-07-01
+    Duration: 91 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2003
+    Rate: 0.0363 publications/day
+
+  Burst 9:
+    Dates: 2010-02-01 to 2010-02-12
+    Duration: 11 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2010
+    Rate: 0.0363 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P980048 - BAK/CERVICAL (BAK/C) INTERBODY FUSION SYSTEM
+Total publications: 100
+Publication span: 1996 to 2011
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2001-04-01 to 2002-02-01
+    Duration: 306 days
+    Publications: 12
+    Intensity level: 1
+    Years covered: 2001, 2002
+    Rate: 0.0345 publications/day
+
+  Burst 2:
+    Dates: 2006-07-27 to 2008-01-01
+    Duration: 523 days
+    Publications: 18
+    Intensity level: 1
+    Years covered: 2008, 2006, 2007
+    Rate: 0.0345 publications/day
+
+  Burst 3:
+    Dates: 2009-01-01 to 2010-01-01
+    Duration: 365 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2009, 2010
+    Rate: 0.0689 publications/day
+
+  Burst 4:
+    Dates: 2010-08-04 to 2011-09-26
+    Duration: 418 days
+    Publications: 16
+    Intensity level: 1
+    Years covered: 2010, 2011
+    Rate: 0.0345 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P040020 - ACRYSOF RESTOR APODIZED DIFFRACTIVE OPTIC POSTERIOR CHAMBER IOL
+Total publications: 98
+Publication span: 2006 to 2015
+Detected bursts: 11
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-06-01 to 2008-07-18
+    Duration: 47 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2008
+    Rate: 0.0542 publications/day
+
+  Burst 2:
+    Dates: 2009-01-01 to 2009-01-01
+    Duration: 0 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2009
+    Rate: 0.1083 publications/day
+
+  Burst 3:
+    Dates: 2009-07-03 to 2009-08-01
+    Duration: 29 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0542 publications/day
+
+  Burst 4:
+    Dates: 2009-08-01 to 2009-08-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2009
+    Rate: 0.1083 publications/day
+
+  Burst 5:
+    Dates: 2009-12-01 to 2010-02-09
+    Duration: 70 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2009, 2010
+    Rate: 0.0542 publications/day
+
+  Burst 6:
+    Dates: 2010-12-25 to 2011-01-01
+    Duration: 7 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2010, 2011
+    Rate: 0.1083 publications/day
+
+  Burst 7:
+    Dates: 2012-01-01 to 2012-01-01
+    Duration: 0 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2012
+    Rate: 0.1083 publications/day
+
+  Burst 8:
+    Dates: 2013-12-01 to 2014-01-01
+    Duration: 31 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2013, 2014
+    Rate: 0.0542 publications/day
+
+  Burst 9:
+    Dates: 2014-01-01 to 2014-01-01
+    Duration: 0 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2014
+    Rate: 0.1083 publications/day
+
+  Burst 10:
+    Dates: 2015-01-01 to 2015-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2015
+    Rate: 0.1083 publications/day
+
+  Burst 11:
+    Dates: 2015-01-01 to 2015-04-23
+    Duration: 112 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2015
+    Rate: 0.0542 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P210034 - AGILI-C
+Total publications: 94
+Publication span: 2017 to 2026
+Detected bursts: 9
+
+Burst periods:
+  Burst 1:
+    Dates: 2017-01-01 to 2017-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2017
+    Rate: 0.1132 publications/day
+
+  Burst 2:
+    Dates: 2019-01-01 to 2019-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2019
+    Rate: 0.1132 publications/day
+
+  Burst 3:
+    Dates: 2020-01-01 to 2020-01-01
+    Duration: 0 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2020
+    Rate: 0.1132 publications/day
+
+  Burst 4:
+    Dates: 2020-01-01 to 2020-01-29
+    Duration: 28 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2020
+    Rate: 0.0566 publications/day
+
+  Burst 5:
+    Dates: 2021-11-11 to 2021-12-01
+    Duration: 20 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0566 publications/day
+
+  Burst 6:
+    Dates: 2023-02-18 to 2023-03-24
+    Duration: 34 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2023
+    Rate: 0.1132 publications/day
+
+  Burst 7:
+    Dates: 2023-03-24 to 2023-05-02
+    Duration: 39 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2023
+    Rate: 0.0566 publications/day
+
+  Burst 8:
+    Dates: 2024-04-01 to 2024-04-03
+    Duration: 2 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2024
+    Rate: 0.1132 publications/day
+
+  Burst 9:
+    Dates: 2025-06-12 to 2025-08-23
+    Duration: 72 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2025
+    Rate: 0.0566 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P100009 - MITRACLIP DELIVERY SYSTEM
+Total publications: 93
+Publication span: 2011 to 2023
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2016-05-15 to 2016-06-15
+    Duration: 31 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2016
+    Rate: 0.0804 publications/day
+
+  Burst 2:
+    Dates: 2016-06-15 to 2016-08-31
+    Duration: 77 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2016
+    Rate: 0.0402 publications/day
+
+  Burst 3:
+    Dates: 2016-08-31 to 2017-02-01
+    Duration: 154 days
+    Publications: 16
+    Intensity level: 2
+    Years covered: 2016, 2017
+    Rate: 0.0804 publications/day
+
+  Burst 4:
+    Dates: 2021-02-09 to 2021-06-07
+    Duration: 118 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0402 publications/day
+
+  Burst 5:
+    Dates: 2022-03-26 to 2022-11-18
+    Duration: 237 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2022
+    Rate: 0.0402 publications/day
+
+  Burst 6:
+    Dates: 2022-11-18 to 2022-12-14
+    Duration: 26 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2022
+    Rate: 0.0804 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P970031 - FREESTYLE AORTIC ROOT BIOPROSTHESIS
+Total publications: 90
+Publication span: 1995 to 2009
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 1998-09-01 to 1998-09-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 1998
+    Rate: 0.0664 publications/day
+
+  Burst 2:
+    Dates: 1998-09-01 to 1999-10-01
+    Duration: 395 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 1998, 1999
+    Rate: 0.0332 publications/day
+
+  Burst 3:
+    Dates: 1999-10-01 to 2000-06-01
+    Duration: 244 days
+    Publications: 18
+    Intensity level: 2
+    Years covered: 2000, 1999
+    Rate: 0.0664 publications/day
+
+  Burst 4:
+    Dates: 2002-11-25 to 2003-06-01
+    Duration: 188 days
+    Publications: 14
+    Intensity level: 2
+    Years covered: 2002, 2003
+    Rate: 0.0664 publications/day
+
+  Burst 5:
+    Dates: 2005-01-01 to 2005-09-01
+    Duration: 243 days
+    Publications: 10
+    Intensity level: 2
+    Years covered: 2005
+    Rate: 0.0664 publications/day
+
+  Burst 6:
+    Dates: 2007-01-01 to 2007-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0664 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P900033 - INTEGRA DERMAL REGENERATION TEMPLATE
+Total publications: 80
+Publication span: 2000 to 2011
+Detected bursts: 9
+
+Burst periods:
+  Burst 1:
+    Dates: 2005-01-01 to 2005-01-01
+    Duration: 0 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2005
+    Rate: 0.0775 publications/day
+
+  Burst 2:
+    Dates: 2005-01-01 to 2005-03-01
+    Duration: 59 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2005
+    Rate: 0.0388 publications/day
+
+  Burst 3:
+    Dates: 2006-05-01 to 2006-06-01
+    Duration: 31 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2006
+    Rate: 0.0775 publications/day
+
+  Burst 4:
+    Dates: 2006-06-01 to 2007-01-01
+    Duration: 214 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2006, 2007
+    Rate: 0.0388 publications/day
+
+  Burst 5:
+    Dates: 2007-01-01 to 2007-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0775 publications/day
+
+  Burst 6:
+    Dates: 2009-01-01 to 2009-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2009
+    Rate: 0.0775 publications/day
+
+  Burst 7:
+    Dates: 2009-12-01 to 2010-01-01
+    Duration: 31 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2009, 2010
+    Rate: 0.0775 publications/day
+
+  Burst 8:
+    Dates: 2010-11-10 to 2011-01-01
+    Duration: 52 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2010, 2011
+    Rate: 0.0775 publications/day
+
+  Burst 9:
+    Dates: 2011-01-01 to 2011-12-29
+    Duration: 362 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2011
+    Rate: 0.0388 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P180024 - TRANSPYLORIC SHUTTLE/TRANSPYLORIC SHUTTLE DELIVERY DEVICE
+Total publications: 76
+Publication span: 2014 to 2025
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-04-09 to 2015-04-13
+    Duration: 4 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2015
+    Rate: 0.0366 publications/day
+
+  Burst 2:
+    Dates: 2019-02-01 to 2019-06-01
+    Duration: 120 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2019
+    Rate: 0.0366 publications/day
+
+  Burst 3:
+    Dates: 2021-06-16 to 2021-10-01
+    Duration: 107 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0366 publications/day
+
+  Burst 4:
+    Dates: 2021-10-01 to 2021-11-26
+    Duration: 56 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0732 publications/day
+
+  Burst 5:
+    Dates: 2022-12-01 to 2024-01-01
+    Duration: 396 days
+    Publications: 18
+    Intensity level: 1
+    Years covered: 2024, 2022, 2023
+    Rate: 0.0366 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000013 - TRIDENT SYSTEM
+Total publications: 75
+Publication span: 1998 to 2013
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2004-01-01 to 2004-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2004
+    Rate: 0.0526 publications/day
+
+  Burst 2:
+    Dates: 2006-01-01 to 2006-05-01
+    Duration: 120 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2006
+    Rate: 0.0263 publications/day
+
+  Burst 3:
+    Dates: 2007-01-01 to 2007-01-01
+    Duration: 0 days
+    Publications: 11
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0526 publications/day
+
+  Burst 4:
+    Dates: 2008-12-01 to 2009-01-01
+    Duration: 31 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2008, 2009
+    Rate: 0.0526 publications/day
+
+  Burst 5:
+    Dates: 2011-12-16 to 2012-01-01
+    Duration: 16 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2011, 2012
+    Rate: 0.0526 publications/day
+
+  Burst 6:
+    Dates: 2012-01-01 to 2013-11-01
+    Duration: 670 days
+    Publications: 14
+    Intensity level: 1
+    Years covered: 2012, 2013
+    Rate: 0.0263 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P130006 - GORE VIABAHN ENDOPROSTHESIS AND ENDOPROSTHESIS WITH HEPARIN BIOACTIVE SURFACE
+Total publications: 70
+Publication span: 2008 to 2023
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-09-26 to 2016-03-01
+    Duration: 157 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2016, 2015
+    Rate: 0.0247 publications/day
+
+  Burst 2:
+    Dates: 2021-01-01 to 2021-12-01
+    Duration: 334 days
+    Publications: 12
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0247 publications/day
+
+  Burst 3:
+    Dates: 2022-11-01 to 2022-12-01
+    Duration: 30 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2022
+    Rate: 0.0247 publications/day
+
+  Burst 4:
+    Dates: 2022-12-01 to 2022-12-09
+    Duration: 8 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2022
+    Rate: 0.0493 publications/day
+
+  Burst 5:
+    Dates: 2022-12-09 to 2023-12-22
+    Duration: 378 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2022, 2023
+    Rate: 0.0247 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P090016 - BELOTERO BALANCE
+Total publications: 68
+Publication span: 2012 to 2021
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2013-08-01 to 2013-10-01
+    Duration: 61 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2013
+    Rate: 0.0397 publications/day
+
+  Burst 2:
+    Dates: 2013-10-01 to 2013-10-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2013
+    Rate: 0.0794 publications/day
+
+  Burst 3:
+    Dates: 2013-10-01 to 2014-01-01
+    Duration: 92 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2013, 2014
+    Rate: 0.0397 publications/day
+
+  Burst 4:
+    Dates: 2014-11-25 to 2015-06-01
+    Duration: 188 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2014, 2015
+    Rate: 0.0397 publications/day
+
+  Burst 5:
+    Dates: 2018-08-20 to 2018-10-23
+    Duration: 64 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2018
+    Rate: 0.0397 publications/day
+
+  Burst 6:
+    Dates: 2019-06-20 to 2019-09-01
+    Duration: 73 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2019
+    Rate: 0.0397 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P140016 - ZENITH ALPHA THORACIC ENDOVASCULAR GRAFT
+Total publications: 68
+Publication span: 2015 to 2025
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2016-05-23 to 2016-07-21
+    Duration: 59 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2016
+    Rate: 0.0757 publications/day
+
+  Burst 2:
+    Dates: 2019-12-12 to 2020-05-08
+    Duration: 148 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2019, 2020
+    Rate: 0.0379 publications/day
+
+  Burst 3:
+    Dates: 2020-05-08 to 2020-06-04
+    Duration: 27 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2020
+    Rate: 0.0757 publications/day
+
+  Burst 4:
+    Dates: 2020-06-04 to 2021-05-20
+    Duration: 350 days
+    Publications: 14
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0379 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P850010 - HELISTAT/HELITENE ABSORBABLE COLLAGEN HEMOSTATIC AGENTS
+Total publications: 68
+Publication span: 1996 to 2011
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2001-03-01 to 2001-03-01
+    Duration: 0 days
+    Publications: 5
+    Intensity level: 2
+    Years covered: 2001
+    Rate: 0.0481 publications/day
+
+  Burst 2:
+    Dates: 2002-08-01 to 2002-11-01
+    Duration: 92 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2002
+    Rate: 0.0240 publications/day
+
+  Burst 3:
+    Dates: 2005-11-01 to 2007-01-01
+    Duration: 426 days
+    Publications: 13
+    Intensity level: 1
+    Years covered: 2005, 2006, 2007
+    Rate: 0.0240 publications/day
+
+  Burst 4:
+    Dates: 2007-01-01 to 2007-01-01
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0481 publications/day
+
+  Burst 5:
+    Dates: 2008-08-31 to 2008-09-02
+    Duration: 2 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2008
+    Rate: 0.0481 publications/day
+
+  Burst 6:
+    Dates: 2010-01-01 to 2010-11-01
+    Duration: 304 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2010
+    Rate: 0.0240 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P090031 - MONOVISC
+Total publications: 64
+Publication span: 2014 to 2024
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2020-07-21 to 2021-05-28
+    Duration: 311 days
+    Publications: 12
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0340 publications/day
+
+  Burst 2:
+    Dates: 2021-05-28 to 2021-07-10
+    Duration: 43 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0679 publications/day
+
+  Burst 3:
+    Dates: 2021-07-10 to 2022-04-26
+    Duration: 290 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2021, 2022
+    Rate: 0.0340 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P140031 - EDWARDS COMMANDER DELIVERY SYSTEM
+Total publications: 64
+Publication span: 2014 to 2025
+Detected bursts: 10
+
+Burst periods:
+  Burst 1:
+    Dates: 2017-04-03 to 2017-07-01
+    Duration: 89 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2017
+    Rate: 0.0319 publications/day
+
+  Burst 2:
+    Dates: 2020-10-28 to 2021-01-01
+    Duration: 65 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0319 publications/day
+
+  Burst 3:
+    Dates: 2021-01-01 to 2021-02-02
+    Duration: 32 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0638 publications/day
+
+  Burst 4:
+    Dates: 2021-02-02 to 2021-08-11
+    Duration: 190 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0319 publications/day
+
+  Burst 5:
+    Dates: 2021-08-11 to 2021-09-01
+    Duration: 21 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0638 publications/day
+
+  Burst 6:
+    Dates: 2021-09-01 to 2021-12-10
+    Duration: 100 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0319 publications/day
+
+  Burst 7:
+    Dates: 2021-12-10 to 2022-01-14
+    Duration: 35 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2021, 2022
+    Rate: 0.0638 publications/day
+
+  Burst 8:
+    Dates: 2023-10-18 to 2023-11-22
+    Duration: 35 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2023
+    Rate: 0.0638 publications/day
+
+  Burst 9:
+    Dates: 2023-11-22 to 2024-04-13
+    Duration: 143 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2024, 2023
+    Rate: 0.0319 publications/day
+
+  Burst 10:
+    Dates: 2025-05-13 to 2025-05-27
+    Duration: 14 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2025
+    Rate: 0.0638 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P200015 - EDWARDS COMMANDER DELIVERY SYSTEM
+Total publications: 62
+Publication span: 2015 to 2025
+Detected bursts: 10
+
+Burst periods:
+  Burst 1:
+    Dates: 2017-04-03 to 2017-07-01
+    Duration: 89 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2017
+    Rate: 0.0321 publications/day
+
+  Burst 2:
+    Dates: 2020-10-28 to 2021-01-01
+    Duration: 65 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0321 publications/day
+
+  Burst 3:
+    Dates: 2021-01-01 to 2021-02-02
+    Duration: 32 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0642 publications/day
+
+  Burst 4:
+    Dates: 2021-02-02 to 2021-08-11
+    Duration: 190 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0321 publications/day
+
+  Burst 5:
+    Dates: 2021-08-11 to 2021-09-01
+    Duration: 21 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0642 publications/day
+
+  Burst 6:
+    Dates: 2021-09-01 to 2021-12-10
+    Duration: 100 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0321 publications/day
+
+  Burst 7:
+    Dates: 2021-12-10 to 2022-01-14
+    Duration: 35 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2021, 2022
+    Rate: 0.0642 publications/day
+
+  Burst 8:
+    Dates: 2023-10-18 to 2023-11-22
+    Duration: 35 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2023
+    Rate: 0.0642 publications/day
+
+  Burst 9:
+    Dates: 2023-11-22 to 2024-04-13
+    Duration: 143 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2024, 2023
+    Rate: 0.0321 publications/day
+
+  Burst 10:
+    Dates: 2025-05-13 to 2025-05-27
+    Duration: 14 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2025
+    Rate: 0.0642 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P140004 - SUPERION INTERSPINOUS SPACER
+Total publications: 59
+Publication span: 2010 to 2025
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2018-07-02 to 2019-09-20
+    Duration: 445 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2018, 2019
+    Rate: 0.0217 publications/day
+
+  Burst 2:
+    Dates: 2020-10-18 to 2021-04-19
+    Duration: 183 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0217 publications/day
+
+  Burst 3:
+    Dates: 2023-04-03 to 2023-05-29
+    Duration: 56 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2023
+    Rate: 0.0217 publications/day
+
+  Burst 4:
+    Dates: 2023-05-29 to 2023-08-01
+    Duration: 64 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2023
+    Rate: 0.0434 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P180001 - ZENITH DISSECTION ENDOVASCULAR SYSTEM
+Total publications: 54
+Publication span: 2013 to 2025
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2015-06-19 to 2016-01-01
+    Duration: 196 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2016, 2015
+    Rate: 0.0241 publications/day
+
+  Burst 2:
+    Dates: 2016-01-01 to 2016-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2016
+    Rate: 0.0482 publications/day
+
+  Burst 3:
+    Dates: 2019-12-01 to 2022-01-27
+    Duration: 788 days
+    Publications: 20
+    Intensity level: 1
+    Years covered: 2019, 2020, 2021, 2022
+    Rate: 0.0241 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P960007 - TRANSCYTE
+Total publications: 52
+Publication span: 1996 to 2010
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2004-06-15 to 2005-01-01
+    Duration: 200 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2004, 2005
+    Rate: 0.0191 publications/day
+
+  Burst 2:
+    Dates: 2005-01-01 to 2005-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2005
+    Rate: 0.0382 publications/day
+
+  Burst 3:
+    Dates: 2005-01-01 to 2005-03-01
+    Duration: 59 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2005
+    Rate: 0.0191 publications/day
+
+  Burst 4:
+    Dates: 2007-12-28 to 2009-01-01
+    Duration: 370 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2008, 2009, 2007
+    Rate: 0.0191 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P190009 - OPRA IMPLANT SYSTEM
+Total publications: 51
+Publication span: 2015 to 2025
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2018-11-13 to 2019-01-01
+    Duration: 49 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2018, 2019
+    Rate: 0.0290 publications/day
+
+  Burst 2:
+    Dates: 2019-01-01 to 2019-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2019
+    Rate: 0.0579 publications/day
+
+  Burst 3:
+    Dates: 2020-04-29 to 2020-07-16
+    Duration: 78 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2020
+    Rate: 0.0290 publications/day
+
+  Burst 4:
+    Dates: 2021-04-30 to 2023-02-22
+    Duration: 663 days
+    Publications: 19
+    Intensity level: 1
+    Years covered: 2021, 2022, 2023
+    Rate: 0.0290 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P130004 - RESURE SEALANT
+Total publications: 50
+Publication span: 2015 to 2024
+Detected bursts: 6
+
+Burst periods:
+  Burst 1:
+    Dates: 2018-12-14 to 2019-07-01
+    Duration: 199 days
+    Publications: 10
+    Intensity level: 1
+    Years covered: 2018, 2019
+    Rate: 0.0304 publications/day
+
+  Burst 2:
+    Dates: 2021-03-08 to 2021-05-07
+    Duration: 60 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0607 publications/day
+
+  Burst 3:
+    Dates: 2021-05-07 to 2022-01-28
+    Duration: 266 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2021, 2022
+    Rate: 0.0304 publications/day
+
+  Burst 4:
+    Dates: 2022-01-28 to 2023-01-01
+    Duration: 338 days
+    Publications: 10
+    Intensity level: 2
+    Years covered: 2022, 2023
+    Rate: 0.0607 publications/day
+
+  Burst 5:
+    Dates: 2023-01-01 to 2023-04-24
+    Duration: 113 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2023
+    Rate: 0.0304 publications/day
+
+  Burst 6:
+    Dates: 2024-02-27 to 2024-03-01
+    Duration: 3 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2024
+    Rate: 0.0607 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P150017 - CARTIVA SYNTHETIC CARTILAGE IMPLANT
+Total publications: 48
+Publication span: 2019 to 2025
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2022-10-01 to 2022-10-01
+    Duration: 0 days
+    Publications: 10
+    Intensity level: 2
+    Years covered: 2022
+    Rate: 0.0933 publications/day
+
+  Burst 2:
+    Dates: 2023-10-01 to 2024-12-13
+    Duration: 439 days
+    Publications: 21
+    Intensity level: 1
+    Years covered: 2024, 2023
+    Rate: 0.0467 publications/day
+
+  Burst 3:
+    Dates: 2024-12-13 to 2025-01-01
+    Duration: 19 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2024, 2025
+    Rate: 0.0933 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P960025 - LUMBAR I/F CAGE WITH VSP SPINE SYSTEM
+Total publications: 47
+Publication span: 1996 to 2010
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2004-11-01 to 2005-04-20
+    Duration: 170 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2004, 2005
+    Rate: 0.0171 publications/day
+
+  Burst 2:
+    Dates: 2007-01-01 to 2007-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0342 publications/day
+
+  Burst 3:
+    Dates: 2009-01-01 to 2009-01-12
+    Duration: 11 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2009
+    Rate: 0.0342 publications/day
+
+  Burst 4:
+    Dates: 2009-01-12 to 2010-09-20
+    Duration: 616 days
+    Publications: 12
+    Intensity level: 1
+    Years covered: 2009, 2010
+    Rate: 0.0171 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P170029 - CALCIVIS IMAGING SYSTEM
+Total publications: 40
+Publication span: 2018 to 2023
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2018-06-01 to 2018-06-01
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2018
+    Rate: 0.0772 publications/day
+
+  Burst 2:
+    Dates: 2019-01-01 to 2020-02-01
+    Duration: 396 days
+    Publications: 22
+    Intensity level: 2
+    Years covered: 2019, 2020
+    Rate: 0.0772 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P220002 - TOPS SYSTEM
+Total publications: 40
+Publication span: 2018 to 2025
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P040050 - MACROPLASTIQUE IMPLANTS
+Total publications: 38
+Publication span: 2001 to 2016
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2004-11-01 to 2005-04-12
+    Duration: 162 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2004, 2005
+    Rate: 0.0128 publications/day
+
+  Burst 2:
+    Dates: 2010-07-01 to 2011-06-01
+    Duration: 335 days
+    Publications: 9
+    Intensity level: 1
+    Years covered: 2010, 2011
+    Rate: 0.0128 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P150036 - EDWARDS INTUITY ELITE VALVE SYSTEM
+Total publications: 38
+Publication span: 2016 to 2023
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2018-01-01 to 2018-01-16
+    Duration: 15 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2018
+    Rate: 0.0532 publications/day
+
+  Burst 2:
+    Dates: 2022-12-30 to 2023-03-01
+    Duration: 61 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2022, 2023
+    Rate: 0.0266 publications/day
+
+  Burst 3:
+    Dates: 2023-03-01 to 2023-06-01
+    Duration: 92 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2023
+    Rate: 0.0532 publications/day
+
+  Burst 4:
+    Dates: 2023-06-01 to 2023-11-17
+    Duration: 169 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2023
+    Rate: 0.0266 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P210032 - GORE TAG THORACIC BRANCH ENDOPROSTHESIS (TBE DEVICE)
+Total publications: 35
+Publication span: 2018 to 2025
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2022-11-29 to 2025-09-16
+    Duration: 1022 days
+    Publications: 23
+    Intensity level: 1
+    Years covered: 2024, 2025, 2022, 2023
+    Rate: 0.0252 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P200045 - RELAYPRO
+Total publications: 33
+Publication span: 2020 to 2025
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2021-09-29 to 2021-11-20
+    Duration: 52 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0319 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P060037 - NEXGEN LPS-FLEX MOBILE AND LPS-MOBILE BEARING KNEE SYSTEM
+Total publications: 30
+Publication span: 2003 to 2017
+Detected bursts: 4
+
+Burst periods:
+  Burst 1:
+    Dates: 2007-03-01 to 2007-07-01
+    Duration: 122 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2007
+    Rate: 0.0111 publications/day
+
+  Burst 2:
+    Dates: 2007-07-01 to 2007-11-01
+    Duration: 123 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0222 publications/day
+
+  Burst 3:
+    Dates: 2017-05-30 to 2017-09-15
+    Duration: 108 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 2017
+    Rate: 0.0111 publications/day
+
+  Burst 4:
+    Dates: 2017-09-15 to 2017-10-01
+    Duration: 16 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2017
+    Rate: 0.0222 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P230023 - GORE EXCLUDER THORACOABDOMINAL BRANCH ENDOPROSTHESIS
+Total publications: 29
+Publication span: 2019 to 2025
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2023-01-01 to 2024-01-01
+    Duration: 365 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2024, 2023
+    Rate: 0.0219 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P950018 - PERFLUORON
+Total publications: 28
+Publication span: 1996 to 2010
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2007-06-01 to 2010-12-14
+    Duration: 1292 days
+    Publications: 15
+    Intensity level: 1
+    Years covered: 2008, 2009, 2010, 2007
+    Rate: 0.0102 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P960052 - DERMABOND TOPICAL SKIN ADHESIVE
+Total publications: 28
+Publication span: 1999 to 2011
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2003-02-01 to 2003-04-01
+    Duration: 59 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 2003
+    Rate: 0.0232 publications/day
+
+  Burst 2:
+    Dates: 2003-04-01 to 2004-01-01
+    Duration: 275 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2003, 2004
+    Rate: 0.0116 publications/day
+
+  Burst 3:
+    Dates: 2008-03-01 to 2008-03-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2008
+    Rate: 0.0232 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P910061 - BIOBURDEN TESTING
+Total publications: 25
+Publication span: 1998 to 2013
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-10-14 to 2013-01-01
+    Duration: 1540 days
+    Publications: 14
+    Intensity level: 1
+    Years covered: 2008, 2009, 2010, 2011, 2012, 2013
+    Rate: 0.0090 publications/day
+
+  Burst 2:
+    Dates: 2013-01-01 to 2013-02-22
+    Duration: 52 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2013
+    Rate: 0.0180 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P080028 - STORZ MEDICAL DUOLITH SD1 SHOCK WAVE THERAPY
+Total publications: 24
+Publication span: 2012 to 2025
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2020-01-01 to 2025-06-27
+    Duration: 2004 days
+    Publications: 20
+    Intensity level: 1
+    Years covered: 2020, 2021, 2023, 2024, 2025
+    Rate: 0.0093 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P090018 - ESTEEM TOTALLY IMPLANTABLE HEARING SYSTEM
+Total publications: 23
+Publication span: 2007 to 2020
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2014-04-09 to 2015-02-01
+    Duration: 298 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2014, 2015
+    Rate: 0.0182 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P170036 - M6-C ARTIFICIAL CERVICAL DISC
+Total publications: 22
+Publication span: 2017 to 2025
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2020-08-15 to 2021-07-19
+    Duration: 338 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2020, 2021
+    Rate: 0.0159 publications/day
+
+  Burst 2:
+    Dates: 2021-07-19 to 2022-03-14
+    Duration: 238 days
+    Publications: 12
+    Intensity level: 2
+    Years covered: 2021, 2022
+    Rate: 0.0317 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P200021 - NEURO COCHLEAR IMPLANT SYSTEM
+Total publications: 22
+Publication span: 2020 to 2024
+Detected bursts: 3
+
+Burst periods:
+  Burst 1:
+    Dates: 2021-04-16 to 2021-06-28
+    Duration: 73 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.0289 publications/day
+
+  Burst 2:
+    Dates: 2022-02-23 to 2022-02-23
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2022
+    Rate: 0.0577 publications/day
+
+  Burst 3:
+    Dates: 2022-02-23 to 2022-07-11
+    Duration: 138 days
+    Publications: 5
+    Intensity level: 1
+    Years covered: 2022
+    Rate: 0.0289 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P950008 - SILIKON 1000
+Total publications: 22
+Publication span: 1998 to 2010
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2008-05-01 to 2009-11-19
+    Duration: 567 days
+    Publications: 11
+    Intensity level: 1
+    Years covered: 2008, 2009
+    Rate: 0.0092 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000008 - LAP-BAND ADJUSTABLE GASTRIC BANDING SYSTEM
+Total publications: 20
+Publication span: 1996 to 2011
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2010-01-01 to 2011-10-01
+    Duration: 638 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2010, 2011
+    Rate: 0.0132 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P020004 - EXCLUDER BIFURCATED ENDOPROSTHESIS
+Total publications: 20
+Publication span: 2003 to 2012
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2006-01-01 to 2007-05-01
+    Duration: 485 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2006, 2007
+    Rate: 0.0116 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P050043 - FEMORAL INTRODUCER SHEATH AND HEMOSTASIS (FISH) DEVICE 5,6, AND 8 FRENCH
+Total publications: 20
+Publication span: 2002 to 2016
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2014-09-18 to 2016-12-20
+    Duration: 824 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2016, 2014, 2015
+    Rate: 0.0070 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P060028 - MENTOR MEMORYSHAPE BREAST IMPLANTS
+Total publications: 20
+Publication span: 2020 to 2021
+Detected bursts: 5
+
+Burst periods:
+  Burst 1:
+    Dates: 2020-12-26 to 2020-12-26
+    Duration: 0 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2020
+    Rate: 1.0133 publications/day
+
+  Burst 2:
+    Dates: 2020-12-26 to 2020-12-30
+    Duration: 4 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2020
+    Rate: 0.5067 publications/day
+
+  Burst 3:
+    Dates: 2021-02-06 to 2021-02-10
+    Duration: 4 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.5067 publications/day
+
+  Burst 4:
+    Dates: 2021-02-10 to 2021-02-10
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 1.0133 publications/day
+
+  Burst 5:
+    Dates: 2021-03-07 to 2021-03-11
+    Duration: 4 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2021
+    Rate: 0.5067 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P110038 - RELAYPLUS
+Total publications: 20
+Publication span: 2020 to 2025
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2020-02-19 to 2020-11-19
+    Duration: 274 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2020
+    Rate: 0.0203 publications/day
+
+  Burst 2:
+    Dates: 2020-11-19 to 2021-01-30
+    Duration: 72 days
+    Publications: 8
+    Intensity level: 2
+    Years covered: 2020, 2021
+    Rate: 0.0407 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P100029 - ST JUDE MEDICAL TRIFECTA VALVE
+Total publications: 19
+Publication span: 2011 to 2020
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2018-09-25 to 2020-09-15
+    Duration: 721 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2018, 2019, 2020
+    Rate: 0.0102 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000048 - DORNIER EPOS ULTRA
+Total publications: 18
+Publication span: 2001 to 2011
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P950034 - SEPRAFILM BIORESORBABLE MEMBRANE
+Total publications: 18
+Publication span: 1997 to 2010
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 1997-01-01 to 1997-01-01
+    Duration: 0 days
+    Publications: 3
+    Intensity level: 2
+    Years covered: 1997
+    Rate: 0.0143 publications/day
+
+  Burst 2:
+    Dates: 1997-01-01 to 1998-06-01
+    Duration: 516 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 1997, 1998
+    Rate: 0.0072 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P060018 - PRESTIGE CERVICAL DISC SYSTEM
+Total publications: 17
+Publication span: 2003 to 2015
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2014-01-01 to 2014-09-15
+    Duration: 257 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2014
+    Rate: 0.0077 publications/day
+
+  Burst 2:
+    Dates: 2014-09-15 to 2015-01-01
+    Duration: 108 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2014, 2015
+    Rate: 0.0155 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P950032 - APLIGRAF (GRAFTSKIN)
+Total publications: 17
+Publication span: 1999 to 2009
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2009-05-01 to 2009-07-10
+    Duration: 70 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0090 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P120024 - ACTIVL ARTIFICIAL DISC
+Total publications: 16
+Publication span: 2016 to 2022
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P040033 - BIRMINGHAM HIP RESURFACING (BHR) SYSTEM
+Total publications: 15
+Publication span: 2004 to 2016
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2016-08-01 to 2016-08-25
+    Duration: 24 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2016
+    Rate: 0.0122 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P140019 - I-FACTOR PEPTIDE ENHANCED BONE GRAFT
+Total publications: 15
+Publication span: 2020 to 2023
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2023-06-13 to 2023-12-01
+    Duration: 171 days
+    Publications: 6
+    Intensity level: 1
+    Years covered: 2023
+    Rate: 0.0211 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P800002 - AVITENE MICROFIBRILLAR COLLAGEN HEMOSTAT (MCH) NON-WOVEN WEB
+Total publications: 15
+Publication span: 1996 to 2011
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 1996-08-01 to 1997-07-01
+    Duration: 334 days
+    Publications: 7
+    Intensity level: 2
+    Years covered: 1996, 1997
+    Rate: 0.0100 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P940015 - SYNVISC (HYLAN G-F 20)
+Total publications: 15
+Publication span: 2001 to 2010
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2007-01-01 to 2007-01-01
+    Duration: 0 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2007
+    Rate: 0.0156 publications/day
+
+  Burst 2:
+    Dates: 2007-01-01 to 2010-11-01
+    Duration: 1400 days
+    Publications: 8
+    Intensity level: 1
+    Years covered: 2009, 2010, 2007
+    Rate: 0.0078 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P110033 - JUVEDERM VOLUMA XC
+Total publications: 13
+Publication span: 2013 to 2023
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2022-07-13 to 2023-04-29
+    Duration: 290 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2022, 2023
+    Rate: 0.0069 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P030039 - COSEAL SURGICAL SEALANT
+Total publications: 12
+Publication span: 2002 to 2012
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2009-05-21 to 2011-12-16
+    Duration: 939 days
+    Publications: 7
+    Intensity level: 1
+    Years covered: 2009, 2011
+    Rate: 0.0064 publications/day
+
+  Burst 2:
+    Dates: 2011-12-16 to 2012-01-06
+    Duration: 21 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2011, 2012
+    Rate: 0.0129 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P050004 - EMS SWISS DOLORCLAST
+Total publications: 11
+Publication span: 2003 to 2017
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P000025 - COMBI 40+ COCHLEAR IMPLANT SYSTEM
+Total publications: 10
+Publication span: 2002 to 2006
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 2002-01-01 to 2002-05-01
+    Duration: 120 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2002
+    Rate: 0.0114 publications/day
+
+  Burst 2:
+    Dates: 2005-12-23 to 2006-05-03
+    Duration: 131 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2005, 2006
+    Rate: 0.0114 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P830055 - LCS TOTAL KNEE SYSTEM
+Total publications: 10
+Publication span: 1995 to 2002
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2002-01-01 to 2002-02-01
+    Duration: 31 days
+    Publications: 9
+    Intensity level: 2
+    Years covered: 2002
+    Rate: 0.0139 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P970042 - MEDSTONE STS LITHOTRIPTER
+Total publications: 10
+Publication span: 1996 to 2008
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2007-09-01 to 2008-12-26
+    Duration: 482 days
+    Publications: 6
+    Intensity level: 2
+    Years covered: 2008, 2007
+    Rate: 0.0082 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P200022 - SIMPLIFY® CERVICAL ARTIFICIAL DISC
+Total publications: 9
+Publication span: 2020 to 2024
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P010023 - SOUNDTEC DIRECT SYSTEM
+Total publications: 8
+Publication span: 2001 to 2006
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P010029 - EUFLEXXA (1% SODIUM HYALURONATE)
+Total publications: 8
+Publication span: 2011 to 2014
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2011-07-25 to 2011-09-01
+    Duration: 38 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0314 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P180029 - LOTUS EDGE VALVE SYSTEM
+Total publications: 8
+Publication span: 2016 to 2022
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2021-03-03 to 2022-01-01
+    Duration: 304 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2021, 2022
+    Rate: 0.0064 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P190006 - AXONICS SACRAL NEUROMODULATION SYSTEM
+Total publications: 8
+Publication span: 2019 to 2023
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P230007 - TRICLIP G4 SYSTEM
+Total publications: 8
+Publication span: 2021 to 2025
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: N17004 - SURGICAL SIMPLEX P RADIOPAQUE BONE CEMENT
+Total publications: 7
+Publication span: 1997 to 2008
+Detected bursts: 2
+
+Burst periods:
+  Burst 1:
+    Dates: 1997-01-01 to 1997-03-01
+    Duration: 59 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 1997
+    Rate: 0.0060 publications/day
+
+  Burst 2:
+    Dates: 1997-03-01 to 1998-01-01
+    Duration: 306 days
+    Publications: 2
+    Intensity level: 1
+    Years covered: 1997, 1998
+    Rate: 0.0030 publications/day
+
+----------------------------------------
+
+============================================================
+Device: N970012 - AMS 700 INFLATABLE PENILE PROSTHESIS
+Total publications: 7
+Publication span: 2005 to 2017
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P060038 - MITROFLOW AORTIC PERICARDIAL HEART VALVE
+Total publications: 7
+Publication span: 2009 to 2017
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P170012 - HEMOBLAST BELLOWS
+Total publications: 7
+Publication span: 2019 to 2023
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2019-12-05 to 2020-02-02
+    Duration: 59 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2019, 2020
+    Rate: 0.0103 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P240023 - WRAPSODY® CELL-IMPERMEABLE ENDOPROSTHESIS
+Total publications: 7
+Publication span: 2021 to 2024
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2021-09-12 to 2021-10-27
+    Duration: 45 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2021
+    Rate: 0.0225 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P990009 - FLOSEAL MATRIX HEMOSTATIC SEALANT
+Total publications: 7
+Publication span: 2003 to 2008
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P000006 - TITAN INFLATABLE PENILE PROSTHESIS
+Total publications: 6
+Publication span: 2004 to 2010
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P020056 - NATRELLE SILICONE-FILLED BREAST IMPLANTS
+Total publications: 6
+Publication span: 2009 to 2016
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2009-01-20 to 2009-05-01
+    Duration: 101 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2009
+    Rate: 0.0039 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P060025 - ATS 3F AORTIC BIOPROSTHESIS
+Total publications: 6
+Publication span: 2010 to 2014
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2010-01-01 to 2010-02-20
+    Duration: 50 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2010
+    Rate: 0.0134 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P130016 - NUCLEUS HYBRID L24 COCHLEAR IMPLANT SYSTEM
+Total publications: 6
+Publication span: 2014 to 2022
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P170002 - RHA 2, RHA 3, RHA 4
+Total publications: 6
+Publication span: 2012 to 2025
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P190016 - TULA® SYSTEM
+Total publications: 6
+Publication span: 2014 to 2023
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2021-08-31 to 2023-03-31
+    Duration: 577 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2021, 2023
+    Rate: 0.0030 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P190018 - CLAREON ASPHERIC HYDROPHOBIC ACRYLIC INTRAOCULAR LENS (IOL), CLAREON TORIC ASPHERIC HYDROPHOBIC ACRYLIC INTRAOCULAR LENS
+Total publications: 6
+Publication span: 2022 to 2024
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2023-11-01 to 2024-01-12
+    Duration: 72 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2024, 2023
+    Rate: 0.0211 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P230013 - EDWARDS EVOQUE TRICUSPID VALVE REPLACEMENT SYSTEM
+Total publications: 6
+Publication span: 2021 to 2025
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2024-12-19 to 2025-05-12
+    Duration: 144 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2024, 2025
+    Rate: 0.0078 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P990052 - VIBRANT P/ VIBRANT D SOUNDBRIDGE SYSTEM
+Total publications: 6
+Publication span: 1997 to 2009
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P030030 - TEGRESS URETHRAL IMPLANT
+Total publications: 5
+Publication span: 2005 to 2013
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P050033 - HYDRELLE
+Total publications: 5
+Publication span: 2010 to 2011
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2011-01-18 to 2011-03-01
+    Duration: 42 days
+    Publications: 4
+    Intensity level: 2
+    Years covered: 2011
+    Rate: 0.0411 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P050052 - RADIESSE INJECTABLE IMPLANT
+Total publications: 5
+Publication span: 2010 to 2016
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P210036 - PERCLOT® POLYSACCHARIDE HEMOSTATIC SYSTEM
+Total publications: 5
+Publication span: 2020 to 2023
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2023-01-13 to 2023-11-27
+    Duration: 318 days
+    Publications: 4
+    Intensity level: 1
+    Years covered: 2023
+    Rate: 0.0066 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P000037 - ON-X (R) PROSTHETIC HEART VALVE, MODEL ONXA
+Total publications: 4
+Publication span: 2000 to 2002
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P040002 - ENDOLOGIX POWERLINK SYSTEM
+Total publications: 4
+Publication span: 2003 to 2013
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P040034 - DURASEAL DURAL SEALANT SYSTEM
+Total publications: 4
+Publication span: 2009 to 2015
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P040046 - NATRELLE HIGHLY COHESIVE SILICONE-FILLED BREAST IMPLANTS
+Total publications: 4
+Publication span: 2016 to 2022
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P060029 - ETHICON OMNEX SURGICAL SEALANT
+Total publications: 4
+Publication span: 2018 to 2019
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P070016 - ZENITH TX2 THORACIC TAA ENDOVASCULAR GRAFT WITH THE H&LB ONE-SHOT INTRODUCTION SYSTEM
+Total publications: 4
+Publication span: 2008 to 2012
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P100003 - SECURE-C ARTIFICIAL CERVICAL DISC
+Total publications: 4
+Publication span: 2014 to 2015
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P130014 - ADHERUS AUTOSPRAY DURAL SEALANT
+Total publications: 4
+Publication span: 2016 to 2022
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P140005 - GENVISC 850
+Total publications: 4
+Publication span: 2016 to 2018
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2016-07-01 to 2016-07-15
+    Duration: 14 days
+    Publications: 3
+    Intensity level: 2
+    Years covered: 2016
+    Rate: 0.0175 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P180040 - TRILURON
+Total publications: 4
+Publication span: 2020 to 2025
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P230014 - LUMICELL DIRECT VISUALIZATION SYSTEM (DVS)
+Total publications: 4
+Publication span: 2024 to 2024
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P900060 - CARBOMEDICS PROSTHETIC HEART VALVE (CPHV)
+Total publications: 4
+Publication span: 1996 to 2002
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P970030 - ST JUDE TORONTO SPV VALVE
+Total publications: 4
+Publication span: 1999 to 2010
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P990046 - ATS OPEN PIVOT BILEAFLET HEART VALVE
+Total publications: 4
+Publication span: 2006 to 2009
+Detected bursts: 1
+
+Burst periods:
+  Burst 1:
+    Dates: 2006-08-25 to 2007-01-01
+    Duration: 129 days
+    Publications: 3
+    Intensity level: 1
+    Years covered: 2006, 2007
+    Rate: 0.0054 publications/day
+
+----------------------------------------
+
+============================================================
+Device: P990075 - MENTOR CORPORATION SALINE-FILLED AND SPECTRUM (R) MAMMARY PROSTHESES
+Total publications: 4
+Publication span: 2005 to 2006
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P020049 - PROCOL VASCULAR BIOPROSTHESIS
+Total publications: 3
+Publication span: 2003 to 2013
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P050013 - HISTOACRYL AND HISTOACRYL BLUE TOPICAL SKIN ADHESIVE
+Total publications: 3
+Publication span: 2005 to 2007
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P050016 - CORMET HIP RESURFACING SYSTEM
+Total publications: 3
+Publication span: 2012 to 2013
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P070004 - SIENTRA SILICONE GEL BREAST IMPLANTS
+Total publications: 3
+Publication span: 2012 to 2016
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P100030 - ARTERX SURGICAL SEALANT
+Total publications: 3
+Publication span: 2015 to 2015
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P110021 - TRANSCATHER HEART VALVE AND TRANSFEMORAL AND TRANSAPICAL ACCESSORIES
+Total publications: 3
+Publication span: 2014 to 2016
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P140029 - RESTYLANE REFYNE, RESTYLANE DEFYNE
+Total publications: 3
+Publication span: 2020 to 2020
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P160042 - REVANESSE ULTRA
+Total publications: 3
+Publication span: 2016 to 2021
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P160057 - TRIVISC
+Total publications: 3
+Publication span: 2023 to 2025
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P200020 - SBL-3 MULTIFOCAL INTRAOCULAR LENS
+Total publications: 3
+Publication span: 2021 to 2024
+Detected bursts: 0
+
+----------------------------------------
+
+============================================================
+Device: P990002 - FEMSOFT URETHRAL INSERT
+Total publications: 3
+Publication span: 2002 to 2010
+Detected bursts: 0
+
+----------------------------------------
